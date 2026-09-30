@@ -1,0 +1,46 @@
+# ME Internship Tracker - configuration
+
+run:
+  lookback_days: 14          # how far back to consider a posting "new"
+  location: "United States"
+  request_timeout: 25
+  polite_delay_seconds: 1.0 # delay between paged requests to the same host
+
+linkedin:
+  enabled: true
+  queries:
+    - "mechanical engineering intern"
+    - "mechanical engineer intern"
+    - "robotics intern"
+    - "manufacturing engineer intern"
+    - "aerospace engineer intern"
+    - "design engineer intern"
+    - "hardware engineer intern"
+    - "mechatronics intern"
+  max_pages_per_query: 4     # 10 results per page
+  posted_within: "r604800"   # LinkedIn TPR filter: r86400=24h, r604800=week, r2592000=month
+  internship_level_only: true
+
+simplify_repo:
+  enabled: true
+  # Public curated feed from the SimplifyJobs Summer2027-Internships repo (no auth needed).
+  listings_url: "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json"
+
+ats:
+  enabled: true
+  # Verified public board tokens (Greenhouse / Ashby). Add more as they are verified.
+  greenhouse_boards:
+    - spacex
+    - relativity
+    - vast
+    - astranis
+    - nuro
+    - lucidmotors
+  ashby_boards:
+    - OpenAI
+    - linear
+
+output:
+  dir: "."
+  readme_name: "README.md"
+  jobs_name: "jobs.json"
