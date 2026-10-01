@@ -3,16 +3,28 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-09-30 19:42 UTC — 202 active postings, 9 new this run._
+_Last updated: 2026-10-01 09:31 UTC — 216 active postings, 14 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Northrop Grumman | 2027 Mechanical Engineering Intern - Clearfield UT | Clearfield, UT | [Apply](https://www.linkedin.com/jobs/view/4474107721) | 2026-10-01 |
+| Allison Transmission | Manufacturing Engineer Intern - Summer 2027-1 | Greater Indianapolis | [Apply](https://www.linkedin.com/jobs/view/4472366496) | 2026-10-01 |
+| Volvo Group | Intern: Product Mechanical Engineer (Spring 2027) | Salem, VA | [Apply](https://www.linkedin.com/jobs/view/4473974291) | 2026-09-30 |
 | Vast | Emerging Talent - Manufacturing Engineering Internship | Long Beach, California, United States | [Apply](https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006) | 2026-09-30 |
 | Vast | Emerging Talent - Mechanical/Aerospace Engineering Internship | Long Beach, California, United States | [Apply](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006) | 2026-09-30 |
+| Swire Coca-Cola, USA | Intern, Manufacturing Process Engineer | Salt Lake City, UT | [Apply](https://www.linkedin.com/jobs/view/4472355893) | 2026-09-30 |
+| Rivian | Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP | Palo Alto, CA | [Apply](https://careers.rivian.com/jobs/33874?icims=1) | 2026-09-30 |
 | RTX | Systems Engineer Intern | Tewksbury, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer---Intern--Onsite_01879053) | 2026-09-30 |
 | NYC Department of Environmental Protection (NYC DEP) | DESIGN ENGINEER INTERN | Queens, NY | [Apply](https://www.linkedin.com/jobs/view/4472623350) | 2026-09-30 |
+| Monolithic Power Systems | CAD Intern | San Jose, CA; Kirkland, WA | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/CAD-intern_R-2029) | 2026-09-30 |
+| Marvell | Test Engineer Intern | Santa Clara, CA | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1) | 2026-09-30 |
+| Mack Trucks | Intern: Manufacturing Engineer (Spring 2027) | Middletown, PA | [Apply](https://www.linkedin.com/jobs/view/4473967457) | 2026-09-30 |
 | L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254800/?ats=successfactors) | 2026-09-30 |
+| L3Harris Technologies | Systems Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1435297900/?ats=successfactors) | 2026-09-30 |
+| KLA | Mechatronics/Systems Engineering Internship | Milpitas, CA | [Apply](https://www.linkedin.com/jobs/view/4472637494) | 2026-09-30 |
 | GE Vernova | GE Vernova Manufacturing Engineering Intern - Spring 2027 | Erlanger, KY | [Apply](https://www.linkedin.com/jobs/view/4473566427) | 2026-09-30 |
+| Enercon Services, Inc. | Intern- Mechanical Engineer - ENERCON Federal Services | Kennesaw, GA | [Apply](https://www.linkedin.com/jobs/view/4472358637) | 2026-09-30 |
+| Enercon Services, Inc. | Intern- Mechanical Engineer - ENERCON Federal Services | Kennewick, WA | [Apply](https://www.linkedin.com/jobs/view/4472354792) | 2026-09-30 |
 | Astranis | CAD Engineer Intern (Spring 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704740006) | 2026-09-30 |
 | Astranis | CAD Engineer Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704742006) | 2026-09-30 |
 | Astranis | CAD Engineer Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704748006) | 2026-09-30 |
@@ -98,6 +110,7 @@ _Last updated: 2026-09-30 19:42 UTC — 202 active postings, 9 new this run._
 | Symbotic | Hardware Engineer Intern - Hardware Engineering | Wilmington, MA | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R8101) | 2026-09-21 |
 | RTX | Systems Engineer Co-op - Spring/Summer 2027 | Cedar Rapids, IA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686) | 2026-09-21 |
 | RTX | Systems Engineer Intern | Woburn, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Systems-Engineering-Intern--Onsite_01875985) | 2026-09-21 |
+| NVIDIA | Research Intern - Robotics | Seattle, WA; Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) | 2026-09-21 |
 | Micron Technology | Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111814) | 2026-09-21 |
 | LivaNova | Manufacturing Engineer Intern | Arvada, CO | [Apply](https://www.linkedin.com/jobs/view/4469988470) | 2026-09-21 |
 | Koch Industries | Optical System Test Engineer Intern | Fremont, CA | [Apply](https://koch.avature.net/en_US/careers/JobDetail/194772) | 2026-09-21 |
@@ -183,6 +196,7 @@ _Last updated: 2026-09-30 19:42 UTC — 202 active postings, 9 new this run._
 | Textron | 2027 Internship - Engineering Mechanical Systems - ECS/IPS | Wichita, KS | [Apply](https://www.linkedin.com/jobs/view/4461719036) | 2026-09-01 |
 | Textron | 2027 Intern - Aerospace Engineer (Uncrewed Land & Air) - Hunt Valley, MD | Hunt Valley, MD | [Apply](https://www.linkedin.com/jobs/view/4460219545) | 2026-09-01 |
 | Textron | 2027 Internship - Engineering Mechanical Systems - Hydraulics/Gear/Brakes | Wichita, KS | [Apply](https://www.linkedin.com/jobs/view/4459527266) | 2026-09-01 |
+| Textron | 2027 Internship - Automation & Robotics Engineer | Wichita, KS | [Apply](https://www.linkedin.com/jobs/view/4461717092) | 2026-09-01 |
 | Corvid Technologies | Aerospace Engineering - Summer 2027 Internship | Mooresville, NC | [Apply](https://www.linkedin.com/jobs/view/4459599088) | 2026-09-01 |
 | CWC Textron | 2027 Internship: CWC Manufacturing Engineer (Muskegon, MI) | Muskegon, MI | [Apply](https://www.linkedin.com/jobs/view/4460625245) | 2026-09-01 |
 | AV | Summer 2027 Aeromechanical Engineering Intern | Albuquerque, NM | [Apply](https://www.linkedin.com/jobs/view/4462072143) | 2026-09-01 |

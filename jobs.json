@@ -1,5 +1,35 @@
 [
  {
+  "id": "linkedin:4474107721",
+  "source": "linkedin",
+  "company": "Northrop Grumman",
+  "title": "2027 Mechanical Engineering Intern - Clearfield UT",
+  "location": "Clearfield, UT",
+  "url": "https://www.linkedin.com/jobs/view/4474107721",
+  "date_posted": "2026-10-01",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "id": "linkedin:4472366496",
+  "source": "linkedin",
+  "company": "Allison Transmission",
+  "title": "Manufacturing Engineer Intern - Summer 2027-1",
+  "location": "Greater Indianapolis",
+  "url": "https://www.linkedin.com/jobs/view/4472366496",
+  "date_posted": "2026-10-01",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "id": "linkedin:4473974291",
+  "source": "linkedin",
+  "company": "Volvo Group",
+  "title": "Intern: Product Mechanical Engineer (Spring 2027)",
+  "location": "Salem, VA",
+  "url": "https://www.linkedin.com/jobs/view/4473974291",
+  "date_posted": "2026-09-30",
+  "first_seen": "2026-10-01"
+ },
+ {
   "id": "greenhouse:vast:4711403006",
   "source": "greenhouse",
   "company": "Vast",
@@ -20,6 +50,27 @@
   "date_posted": "2026-09-30",
   "date_approx": true,
   "first_seen": "2026-09-30"
+ },
+ {
+  "id": "linkedin:4472355893",
+  "source": "linkedin",
+  "company": "Swire Coca-Cola, USA",
+  "title": "Intern, Manufacturing Process Engineer",
+  "location": "Salt Lake City, UT",
+  "url": "https://www.linkedin.com/jobs/view/4472355893",
+  "date_posted": "2026-09-30",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "id": "simplify:a92fa0b6-3ef2-4c58-8fc3-5597e8ac9fcb",
+  "source": "simplify",
+  "company": "Rivian",
+  "title": "Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP",
+  "location": "Palo Alto, CA",
+  "url": "https://careers.rivian.com/jobs/33874?icims=1",
+  "date_posted": "2026-09-30",
+  "term": "Spring 2027",
+  "first_seen": "2026-10-01"
  },
  {
   "id": "simplify:5ee87d96-970f-4544-9f60-1c689d45466d",
@@ -43,6 +94,38 @@
   "first_seen": "2026-09-30"
  },
  {
+  "id": "simplify:51cc2941-0688-4fdf-bcdf-e8a3b22d856e",
+  "source": "simplify",
+  "company": "Monolithic Power Systems",
+  "title": "CAD Intern",
+  "location": "San Jose, CA; Kirkland, WA",
+  "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/CAD-intern_R-2029",
+  "date_posted": "2026-09-30",
+  "term": "Winter 2026",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "id": "simplify:2e092fdb-ec46-491f-a0b4-0730b3e3d0d7",
+  "source": "simplify",
+  "company": "Marvell",
+  "title": "Test Engineer Intern",
+  "location": "Santa Clara, CA",
+  "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1",
+  "date_posted": "2026-09-30",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "id": "linkedin:4473967457",
+  "source": "linkedin",
+  "company": "Mack Trucks",
+  "title": "Intern: Manufacturing Engineer (Spring 2027)",
+  "location": "Middletown, PA",
+  "url": "https://www.linkedin.com/jobs/view/4473967457",
+  "date_posted": "2026-09-30",
+  "first_seen": "2026-10-01"
+ },
+ {
   "id": "simplify:9072bb82-c619-4c08-bbce-0bd8e0b92cd4",
   "source": "simplify",
   "company": "L3Harris Technologies",
@@ -54,6 +137,27 @@
   "first_seen": "2026-09-30"
  },
  {
+  "id": "simplify:b622890b-1757-4c2f-972b-6a6c480b909f",
+  "source": "simplify",
+  "company": "L3Harris Technologies",
+  "title": "Systems Engineer Co-op",
+  "location": "Waterdown, Hamilton, ON, Canada",
+  "url": "https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1435297900/?ats=successfactors",
+  "date_posted": "2026-09-30",
+  "term": "Summer 2026",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "id": "linkedin:4472637494",
+  "source": "linkedin",
+  "company": "KLA",
+  "title": "Mechatronics/Systems Engineering Internship",
+  "location": "Milpitas, CA",
+  "url": "https://www.linkedin.com/jobs/view/4472637494",
+  "date_posted": "2026-09-30",
+  "first_seen": "2026-10-01"
+ },
+ {
   "id": "linkedin:4473566427",
   "source": "linkedin",
   "company": "GE Vernova",
@@ -62,6 +166,26 @@
   "url": "https://www.linkedin.com/jobs/view/4473566427",
   "date_posted": "2026-09-30",
   "first_seen": "2026-09-30"
+ },
+ {
+  "id": "linkedin:4472358637",
+  "source": "linkedin",
+  "company": "Enercon Services, Inc.",
+  "title": "Intern- Mechanical Engineer - ENERCON Federal Services",
+  "location": "Kennesaw, GA",
+  "url": "https://www.linkedin.com/jobs/view/4472358637",
+  "date_posted": "2026-09-30",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "id": "linkedin:4472354792",
+  "source": "linkedin",
+  "company": "Enercon Services, Inc.",
+  "title": "Intern- Mechanical Engineer - ENERCON Federal Services",
+  "location": "Kennewick, WA",
+  "url": "https://www.linkedin.com/jobs/view/4472354792",
+  "date_posted": "2026-09-30",
+  "first_seen": "2026-10-01"
  },
  {
   "id": "greenhouse:astranis:4704740006",
@@ -953,6 +1077,17 @@
   "first_seen": "2026-09-30"
  },
  {
+  "id": "simplify:876c3f6f-84b9-4e5d-a61c-3f403eeed9bb",
+  "source": "simplify",
+  "company": "NVIDIA",
+  "title": "Research Intern - Robotics",
+  "location": "Seattle, WA; Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647",
+  "date_posted": "2026-09-21",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-01"
+ },
+ {
   "id": "simplify:5ab50af0-6624-45da-94e7-9d8f26ad8a17",
   "source": "simplify",
   "company": "Micron Technology",
@@ -1814,6 +1949,16 @@
   "url": "https://www.linkedin.com/jobs/view/4459527266",
   "date_posted": "2026-09-01",
   "first_seen": "2026-09-30"
+ },
+ {
+  "id": "linkedin:4461717092",
+  "source": "linkedin",
+  "company": "Textron",
+  "title": "2027 Internship - Automation & Robotics Engineer",
+  "location": "Wichita, KS",
+  "url": "https://www.linkedin.com/jobs/view/4461717092",
+  "date_posted": "2026-09-01",
+  "first_seen": "2026-10-01"
  },
  {
   "id": "linkedin:4459599088",
