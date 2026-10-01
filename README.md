@@ -3,11 +3,14 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-01 09:31 UTC — 216 active postings, 14 new this run._
+_Last updated: 2026-10-01 19:56 UTC — 219 active postings, 3 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | Northrop Grumman | 2027 Mechanical Engineering Intern - Clearfield UT | Clearfield, UT | [Apply](https://www.linkedin.com/jobs/view/4474107721) | 2026-10-01 |
+| L3Harris Technologies | Manufacturing Engineering Intern | Rochester, NY | [Apply](https://www.linkedin.com/jobs/view/4474181493) | 2026-10-01 |
+| General Dynamics Mission Systems | Integration and Test Engineer Intern | Canonsburg, PA | [Apply](https://careers-gdms.icims.com/jobs/75271/job?mobile=true&needsRedirect=false) | 2026-10-01 |
+| GE Vernova | GE Vernova Gas Power Greenville Manufacturing Spring 2027 Internship | Greenville, SC | [Apply](https://www.linkedin.com/jobs/view/4474350808) | 2026-10-01 |
 | Allison Transmission | Manufacturing Engineer Intern - Summer 2027-1 | Greater Indianapolis | [Apply](https://www.linkedin.com/jobs/view/4472366496) | 2026-10-01 |
 | Volvo Group | Intern: Product Mechanical Engineer (Spring 2027) | Salem, VA | [Apply](https://www.linkedin.com/jobs/view/4473974291) | 2026-09-30 |
 | Vast | Emerging Talent - Manufacturing Engineering Internship | Long Beach, California, United States | [Apply](https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006) | 2026-09-30 |
