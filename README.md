@@ -3,12 +3,14 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-02 09:06 UTC — 227 active postings, 8 new this run._
+_Last updated: 2026-10-02 19:37 UTC — 229 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | Vertiv | Mechanical Engineering Intern (Summer 2027) | Westerville, OH | [Apply](https://www.linkedin.com/jobs/view/4474524582) | 2026-10-02 |
+| The Toro Company | Mechatronics Engineering Co-op | Bloomington, MN | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153) | 2026-10-02 |
 | Ricoh USA, Inc. | Robotics Engineer Intern | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4474546885) | 2026-10-02 |
+| Regeneron Pharmaceuticals | Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT | Tarrytown, NY | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1) | 2026-10-02 |
 | Swire Coca-Cola, USA | Intern, Manufacturing Engineer | Tempe, AZ | [Apply](https://www.linkedin.com/jobs/view/4472843212) | 2026-10-01 |
 | Northrop Grumman | 2027 Mechanical Engineering Intern - Clearfield UT | Clearfield, UT | [Apply](https://www.linkedin.com/jobs/view/4474107721) | 2026-10-01 |
 | Meta | Research Scientist Intern - Robotics | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/1940312740718917) | 2026-10-01 |
