@@ -1,5 +1,35 @@
 [
  {
+  "id": "linkedin:4474524582",
+  "source": "linkedin",
+  "company": "Vertiv",
+  "title": "Mechanical Engineering Intern (Summer 2027)",
+  "location": "Westerville, OH",
+  "url": "https://www.linkedin.com/jobs/view/4474524582",
+  "date_posted": "2026-10-02",
+  "first_seen": "2026-10-02"
+ },
+ {
+  "id": "linkedin:4474546885",
+  "source": "linkedin",
+  "company": "Ricoh USA, Inc.",
+  "title": "Robotics Engineer Intern",
+  "location": "Boulder, CO",
+  "url": "https://www.linkedin.com/jobs/view/4474546885",
+  "date_posted": "2026-10-02",
+  "first_seen": "2026-10-02"
+ },
+ {
+  "id": "linkedin:4472843212",
+  "source": "linkedin",
+  "company": "Swire Coca-Cola, USA",
+  "title": "Intern, Manufacturing Engineer",
+  "location": "Tempe, AZ",
+  "url": "https://www.linkedin.com/jobs/view/4472843212",
+  "date_posted": "2026-10-01",
+  "first_seen": "2026-10-02"
+ },
+ {
   "id": "linkedin:4474107721",
   "source": "linkedin",
   "company": "Northrop Grumman",
@@ -10,6 +40,17 @@
   "first_seen": "2026-10-01"
  },
  {
+  "id": "simplify:d08c50c3-35d4-45a8-b1ab-041d0b5a5a3a",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - Robotics",
+  "location": "Menlo Park, CA",
+  "url": "https://www.metacareers.com/jobs/1940312740718917",
+  "date_posted": "2026-10-01",
+  "term": "Winter 2026",
+  "first_seen": "2026-10-02"
+ },
+ {
   "id": "linkedin:4474181493",
   "source": "linkedin",
   "company": "L3Harris Technologies",
@@ -18,6 +59,36 @@
   "url": "https://www.linkedin.com/jobs/view/4474181493",
   "date_posted": "2026-10-01",
   "first_seen": "2026-10-01"
+ },
+ {
+  "id": "linkedin:4474551078",
+  "source": "linkedin",
+  "company": "Jacobs",
+  "title": "Mechanical Engineering Intern (Energy/Power) - Summer 2027",
+  "location": "Austin, TX",
+  "url": "https://www.linkedin.com/jobs/view/4474551078",
+  "date_posted": "2026-10-01",
+  "first_seen": "2026-10-02"
+ },
+ {
+  "id": "linkedin:4474540630",
+  "source": "linkedin",
+  "company": "Jacobs",
+  "title": "Mechanical Engineering Intern (Energy/Power) - Summer 2027",
+  "location": "Fort Worth, TX",
+  "url": "https://www.linkedin.com/jobs/view/4474540630",
+  "date_posted": "2026-10-01",
+  "first_seen": "2026-10-02"
+ },
+ {
+  "id": "linkedin:4474543337",
+  "source": "linkedin",
+  "company": "Impulse Space",
+  "title": "Manufacturing Engineering Intern (Spring 2027)",
+  "location": "Redondo Beach, CA",
+  "url": "https://www.linkedin.com/jobs/view/4474543337",
+  "date_posted": "2026-10-01",
+  "first_seen": "2026-10-02"
  },
  {
   "id": "simplify:280d6126-f176-44b7-9781-fc2dc2d8d099",
@@ -49,6 +120,16 @@
   "url": "https://www.linkedin.com/jobs/view/4472366496",
   "date_posted": "2026-10-01",
   "first_seen": "2026-10-01"
+ },
+ {
+  "id": "linkedin:4472811926",
+  "source": "linkedin",
+  "company": "Advanced Conversion Technology, Inc.",
+  "title": "Design Engineer Intern",
+  "location": "Middletown, PA",
+  "url": "https://www.linkedin.com/jobs/view/4472811926",
+  "date_posted": "2026-10-01",
+  "first_seen": "2026-10-02"
  },
  {
   "id": "linkedin:4473974291",
