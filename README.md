@@ -3,20 +3,25 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-02 19:37 UTC — 229 active postings, 2 new this run._
+_Last updated: 2026-10-03 08:39 UTC — 236 active postings, 7 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Magna International | Humanoid Robotics Intern | Troy, MI | [Apply](https://www.linkedin.com/jobs/view/4475049545) | 2026-10-03 |
 | Vertiv | Mechanical Engineering Intern (Summer 2027) | Westerville, OH | [Apply](https://www.linkedin.com/jobs/view/4474524582) | 2026-10-02 |
 | The Toro Company | Mechatronics Engineering Co-op | Bloomington, MN | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153) | 2026-10-02 |
 | Ricoh USA, Inc. | Robotics Engineer Intern | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4474546885) | 2026-10-02 |
 | Regeneron Pharmaceuticals | Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT | Tarrytown, NY | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1) | 2026-10-02 |
+| Magna | Humanoid Robotics Intern | Troy, MI | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Humanoid-Robotics-Intern_R00264476) | 2026-10-02 |
+| Intel | Thermal Mechanical Engineering Intern - GPU Platforms | Toronto, ON, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Thermal-Mechanical-Engineering-Undergraduate-Intern--GPU-Platforms_JR0287516) | 2026-10-02 |
+| Charter Manufacturing | Smart Manufacturing Engineer Intern | Mequon, WI; Saukville, WI | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133) | 2026-10-02 |
 | Swire Coca-Cola, USA | Intern, Manufacturing Engineer | Tempe, AZ | [Apply](https://www.linkedin.com/jobs/view/4472843212) | 2026-10-01 |
 | Northrop Grumman | 2027 Mechanical Engineering Intern - Clearfield UT | Clearfield, UT | [Apply](https://www.linkedin.com/jobs/view/4474107721) | 2026-10-01 |
 | Meta | Research Scientist Intern - Robotics | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/1940312740718917) | 2026-10-01 |
 | L3Harris Technologies | Manufacturing Engineering Intern | Rochester, NY | [Apply](https://www.linkedin.com/jobs/view/4474181493) | 2026-10-01 |
 | Jacobs | Mechanical Engineering Intern (Energy/Power) - Summer 2027 | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/4474551078) | 2026-10-01 |
 | Jacobs | Mechanical Engineering Intern (Energy/Power) - Summer 2027 | Fort Worth, TX | [Apply](https://www.linkedin.com/jobs/view/4474540630) | 2026-10-01 |
+| Jacobs | Mechanical Engineering Intern (Energy/Power) - Summer 2027 | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/4474542623) | 2026-10-01 |
 | Impulse Space | Manufacturing Engineering Intern (Spring 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4474543337) | 2026-10-01 |
 | General Dynamics Mission Systems | Integration and Test Engineer Intern | Canonsburg, PA | [Apply](https://careers-gdms.icims.com/jobs/75271/job?mobile=true&needsRedirect=false) | 2026-10-01 |
 | GE Vernova | GE Vernova Gas Power Greenville Manufacturing Spring 2027 Internship | Greenville, SC | [Apply](https://www.linkedin.com/jobs/view/4474350808) | 2026-10-01 |
@@ -97,6 +102,7 @@ _Last updated: 2026-10-02 19:37 UTC — 229 active postings, 2 new this run._
 | Micron Technology | Intern - Design Engineer, HIG HBM | Richardson, TX | [Apply](https://www.linkedin.com/jobs/view/4469461097) | 2026-09-23 |
 | L3Harris Technologies | Intern, Manufacturing Engineer | Camden, AR | [Apply](https://www.linkedin.com/jobs/view/4470938059) | 2026-09-23 |
 | Kiewit | Mechanical Engineer Intern - Kiewit Industrial & Water Engineering (Summer 2027) | Lenexa, KS | [Apply](https://www.linkedin.com/jobs/view/4460687418) | 2026-09-23 |
+| Kiewit | Mechanical Engineer Intern - Kiewit Power Engineering (Summer 2027) | Lenexa, KS | [Apply](https://www.linkedin.com/jobs/view/4460615758) | 2026-09-23 |
 | Keysight Technologies | Analog and Mixed Signal IC Design Engineer Intern | Santa Clara, CA | [Apply](https://jobs.keysight.com/jobs/54221?icims=1) | 2026-09-23 |
 | Emerson | Digital Hardware Engineer Intern | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/4461782677) | 2026-09-23 |
 | Brunswick Corporation | Mercury Marine: Mechatronics Intern | Fond du Lac, WI | [Apply](https://www.linkedin.com/jobs/view/4462064440) | 2026-09-23 |
@@ -147,6 +153,7 @@ _Last updated: 2026-10-02 19:37 UTC — 229 active postings, 2 new this run._
 | Dauch | Mechatronics Intern | Ridgway, PA | [Apply](https://www.linkedin.com/jobs/view/4467556832) | 2026-09-17 |
 | Danaher | Hardware Engineer Intern | Vista, CA | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Hardware-Engineering-Intern_R1315720) | 2026-09-17 |
 | Black & Veatch | Mechanical Engineer Intern - Equipment - LNG | Overland Park, KS | [Apply](https://www.linkedin.com/jobs/view/4468655607) | 2026-09-17 |
+| Black & Veatch | Mechanical Engineer Intern - HVAC/Plumbing (Water) | Overland Park, KS | [Apply](https://www.linkedin.com/jobs/view/4468661609) | 2026-09-17 |
 | Zipline | Quality & Manufacturing Intern (Spring 2027) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4448316933) | 2026-09-16 |
 | Zimmer Biomet | 2027 Summer Intern, Manufacturing Engineering | Warsaw, IN | [Apply](https://www.linkedin.com/jobs/view/4457626816) | 2026-09-16 |
 | Texas Instruments | Smart Manufacturing and Automation Intern - SMA Quality & Test | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017994) | 2026-09-16 |
