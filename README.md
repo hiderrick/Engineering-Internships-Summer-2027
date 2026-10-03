@@ -3,11 +3,12 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-03 08:39 UTC — 236 active postings, 7 new this run._
+_Last updated: 2026-10-03 18:24 UTC — 238 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | Magna International | Humanoid Robotics Intern | Troy, MI | [Apply](https://www.linkedin.com/jobs/view/4475049545) | 2026-10-03 |
+| L3Harris Technologies | Manufacturing Engineering Intern | Salt Lake City, UT | [Apply](https://www.linkedin.com/jobs/view/4475346172) | 2026-10-03 |
 | Vertiv | Mechanical Engineering Intern (Summer 2027) | Westerville, OH | [Apply](https://www.linkedin.com/jobs/view/4474524582) | 2026-10-02 |
 | The Toro Company | Mechatronics Engineering Co-op | Bloomington, MN | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153) | 2026-10-02 |
 | Ricoh USA, Inc. | Robotics Engineer Intern | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4474546885) | 2026-10-02 |
@@ -16,6 +17,7 @@ _Last updated: 2026-10-03 08:39 UTC — 236 active postings, 7 new this run._
 | Intel | Thermal Mechanical Engineering Intern - GPU Platforms | Toronto, ON, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Thermal-Mechanical-Engineering-Undergraduate-Intern--GPU-Platforms_JR0287516) | 2026-10-02 |
 | Charter Manufacturing | Smart Manufacturing Engineer Intern | Mequon, WI; Saukville, WI | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133) | 2026-10-02 |
 | Swire Coca-Cola, USA | Intern, Manufacturing Engineer | Tempe, AZ | [Apply](https://www.linkedin.com/jobs/view/4472843212) | 2026-10-01 |
+| Pratt & Whitney | Compressor Aerodynamics Intern (Summer 2027)(Onsite) | Middletown, CT | [Apply](https://www.linkedin.com/jobs/view/4474541012) | 2026-10-01 |
 | Northrop Grumman | 2027 Mechanical Engineering Intern - Clearfield UT | Clearfield, UT | [Apply](https://www.linkedin.com/jobs/view/4474107721) | 2026-10-01 |
 | Meta | Research Scientist Intern - Robotics | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/1940312740718917) | 2026-10-01 |
 | L3Harris Technologies | Manufacturing Engineering Intern | Rochester, NY | [Apply](https://www.linkedin.com/jobs/view/4474181493) | 2026-10-01 |
