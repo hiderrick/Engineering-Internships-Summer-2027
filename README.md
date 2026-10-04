@@ -3,10 +3,11 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-03 18:24 UTC — 238 active postings, 2 new this run._
+_Last updated: 2026-10-04 08:54 UTC — 239 active postings, 1 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| TalentSphere Global | Launch Systems Engineering Intern – Aerospace | Miami, FL | [Apply](https://www.linkedin.com/jobs/view/4473448787) | 2026-10-04 |
 | Magna International | Humanoid Robotics Intern | Troy, MI | [Apply](https://www.linkedin.com/jobs/view/4475049545) | 2026-10-03 |
 | L3Harris Technologies | Manufacturing Engineering Intern | Salt Lake City, UT | [Apply](https://www.linkedin.com/jobs/view/4475346172) | 2026-10-03 |
 | Vertiv | Mechanical Engineering Intern (Summer 2027) | Westerville, OH | [Apply](https://www.linkedin.com/jobs/view/4474524582) | 2026-10-02 |
