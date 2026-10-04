@@ -3,7 +3,7 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-04 08:54 UTC — 239 active postings, 1 new this run._
+_Last updated: 2026-10-04 18:25 UTC — 241 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
@@ -87,6 +87,7 @@ _Last updated: 2026-10-04 08:54 UTC — 239 active postings, 1 new this run._
 | CesiumAstro | Test Engineer Intern | Westminster, CO | [Apply](https://jobs.lever.co/CesiumAstro/ab7dd1c4-7196-4cae-8fbd-cddec993b9b8/apply) | 2026-09-25 |
 | Astranis Space Technologies | Harness Design Engineer Intern (Summer 2027) | San Francisco Bay Area | [Apply](https://www.linkedin.com/jobs/view/4470057946) | 2026-09-25 |
 | Astranis Space Technologies | Harness Design Engineer Intern (Winter 2027) | San Francisco Bay Area | [Apply](https://www.linkedin.com/jobs/view/4470066535) | 2026-09-25 |
+| Applied Materials | Systems Engineer 3 Intern | Santa Clara, CA | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-III--E3-_R2629158) | 2026-09-25 |
 | Aevex Aerospace | Robotics Engineering Co-op | Tampa, FL | [Apply](https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008) | 2026-09-25 |
 | AMETEK | Manufacturing Engineering Intern | Woodstock, NY | [Apply](https://www.linkedin.com/jobs/view/4472089559) | 2026-09-25 |
 | Tesla | Solar Hardware Engineer Intern - PV Cell - Energy Engineering | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/284489) | 2026-09-24 |
@@ -118,6 +119,7 @@ _Last updated: 2026-10-04 08:54 UTC — 239 active postings, 1 new this run._
 | Tesla | Reliability Test Engineer Intern - Energy Engineering | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/284278) | 2026-09-22 |
 | Tesla | Robotics Modeling & Simulation Engineer Intern | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/284436) | 2026-09-22 |
 | Symbotic | Intern - Hardware Engineer | Wilmington, MA | [Apply](https://www.linkedin.com/jobs/view/4468517378) | 2026-09-22 |
+| Moog | Test Engineer Intern | Buffalo, NY | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Test-Engineering_R-26-20243-1) | 2026-09-22 |
 | Micron Technology | Design Engineer Intern - High Bandwidth Memory | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512) | 2026-09-22 |
 | Emerson | Manufacturing Engineering Intern | Brenham, TX | [Apply](https://www.linkedin.com/jobs/view/4461559235) | 2026-09-22 |
 | Emerson | Manufacturing Engineering Intern | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/4461573010) | 2026-09-22 |
