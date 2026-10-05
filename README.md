@@ -3,11 +3,13 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-04 18:25 UTC — 241 active postings, 2 new this run._
+_Last updated: 2026-10-05 09:43 UTC — 243 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | TalentSphere Global | Launch Systems Engineering Intern – Aerospace | Miami, FL | [Apply](https://www.linkedin.com/jobs/view/4473448787) | 2026-10-04 |
+| Micron Technology | HBM Memory Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821) | 2026-10-04 |
+| Micron Technology | Memory Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528) | 2026-10-04 |
 | Magna International | Humanoid Robotics Intern | Troy, MI | [Apply](https://www.linkedin.com/jobs/view/4475049545) | 2026-10-03 |
 | L3Harris Technologies | Manufacturing Engineering Intern | Salt Lake City, UT | [Apply](https://www.linkedin.com/jobs/view/4475346172) | 2026-10-03 |
 | Vertiv | Mechanical Engineering Intern (Summer 2027) | Westerville, OH | [Apply](https://www.linkedin.com/jobs/view/4474524582) | 2026-10-02 |
