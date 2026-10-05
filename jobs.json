@@ -1,5 +1,25 @@
 [
  {
+  "id": "linkedin:4475870906",
+  "source": "linkedin",
+  "company": "Raytheon",
+  "title": "Mechanical Engineer Intern - Air Launched Effectors (2027 Summer)",
+  "location": "Tucson, AZ",
+  "url": "https://www.linkedin.com/jobs/view/4475870906",
+  "date_posted": "2026-10-05",
+  "first_seen": "2026-10-05"
+ },
+ {
+  "id": "linkedin:4473694276",
+  "source": "linkedin",
+  "company": "Marvell Technology",
+  "title": "Hardware Engineer Intern, BS - Summer 2027",
+  "location": "Santa Clara, CA",
+  "url": "https://www.linkedin.com/jobs/view/4473694276",
+  "date_posted": "2026-10-05",
+  "first_seen": "2026-10-05"
+ },
+ {
   "id": "linkedin:4473448787",
   "source": "linkedin",
   "company": "TalentSphere Global",
@@ -50,6 +70,26 @@
   "url": "https://www.linkedin.com/jobs/view/4475346172",
   "date_posted": "2026-10-03",
   "first_seen": "2026-10-03"
+ },
+ {
+  "id": "linkedin:4466409223",
+  "source": "linkedin",
+  "company": "Black & Veatch",
+  "title": "Mechanical Engineer Intern - Data Centers",
+  "location": "Overland Park, KS",
+  "url": "https://www.linkedin.com/jobs/view/4466409223",
+  "date_posted": "2026-10-03",
+  "first_seen": "2026-10-05"
+ },
+ {
+  "id": "linkedin:4466401305",
+  "source": "linkedin",
+  "company": "Black & Veatch",
+  "title": "Mechanical Engineer Intern - Fire Protection",
+  "location": "Overland Park, KS",
+  "url": "https://www.linkedin.com/jobs/view/4466401305",
+  "date_posted": "2026-10-03",
+  "first_seen": "2026-10-05"
  },
  {
   "id": "linkedin:4474524582",
@@ -1609,6 +1649,16 @@
   "url": "https://www.linkedin.com/jobs/view/4468661609",
   "date_posted": "2026-09-17",
   "first_seen": "2026-10-03"
+ },
+ {
+  "id": "linkedin:4468651663",
+  "source": "linkedin",
+  "company": "Black & Veatch",
+  "title": "Mechanical Engineer Intern - Mission Critical",
+  "location": "Overland Park, KS",
+  "url": "https://www.linkedin.com/jobs/view/4468651663",
+  "date_posted": "2026-09-17",
+  "first_seen": "2026-10-05"
  },
  {
   "id": "linkedin:4448316933",

@@ -3,15 +3,19 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-05 09:43 UTC — 243 active postings, 2 new this run._
+_Last updated: 2026-10-05 21:42 UTC — 248 active postings, 5 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Raytheon | Mechanical Engineer Intern - Air Launched Effectors (2027 Summer) | Tucson, AZ | [Apply](https://www.linkedin.com/jobs/view/4475870906) | 2026-10-05 |
+| Marvell Technology | Hardware Engineer Intern, BS - Summer 2027 | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/4473694276) | 2026-10-05 |
 | TalentSphere Global | Launch Systems Engineering Intern – Aerospace | Miami, FL | [Apply](https://www.linkedin.com/jobs/view/4473448787) | 2026-10-04 |
 | Micron Technology | HBM Memory Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821) | 2026-10-04 |
 | Micron Technology | Memory Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528) | 2026-10-04 |
 | Magna International | Humanoid Robotics Intern | Troy, MI | [Apply](https://www.linkedin.com/jobs/view/4475049545) | 2026-10-03 |
 | L3Harris Technologies | Manufacturing Engineering Intern | Salt Lake City, UT | [Apply](https://www.linkedin.com/jobs/view/4475346172) | 2026-10-03 |
+| Black & Veatch | Mechanical Engineer Intern - Data Centers | Overland Park, KS | [Apply](https://www.linkedin.com/jobs/view/4466409223) | 2026-10-03 |
+| Black & Veatch | Mechanical Engineer Intern - Fire Protection | Overland Park, KS | [Apply](https://www.linkedin.com/jobs/view/4466401305) | 2026-10-03 |
 | Vertiv | Mechanical Engineering Intern (Summer 2027) | Westerville, OH | [Apply](https://www.linkedin.com/jobs/view/4474524582) | 2026-10-02 |
 | The Toro Company | Mechatronics Engineering Co-op | Bloomington, MN | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153) | 2026-10-02 |
 | Ricoh USA, Inc. | Robotics Engineer Intern | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4474546885) | 2026-10-02 |
@@ -161,6 +165,7 @@ _Last updated: 2026-10-05 09:43 UTC — 243 active postings, 2 new this run._
 | Danaher | Hardware Engineer Intern | Vista, CA | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Hardware-Engineering-Intern_R1315720) | 2026-09-17 |
 | Black & Veatch | Mechanical Engineer Intern - Equipment - LNG | Overland Park, KS | [Apply](https://www.linkedin.com/jobs/view/4468655607) | 2026-09-17 |
 | Black & Veatch | Mechanical Engineer Intern - HVAC/Plumbing (Water) | Overland Park, KS | [Apply](https://www.linkedin.com/jobs/view/4468661609) | 2026-09-17 |
+| Black & Veatch | Mechanical Engineer Intern - Mission Critical | Overland Park, KS | [Apply](https://www.linkedin.com/jobs/view/4468651663) | 2026-09-17 |
 | Zipline | Quality & Manufacturing Intern (Spring 2027) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4448316933) | 2026-09-16 |
 | Zimmer Biomet | 2027 Summer Intern, Manufacturing Engineering | Warsaw, IN | [Apply](https://www.linkedin.com/jobs/view/4457626816) | 2026-09-16 |
 | Texas Instruments | Smart Manufacturing and Automation Intern - SMA Quality & Test | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017994) | 2026-09-16 |
