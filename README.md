@@ -3,15 +3,31 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-05 21:42 UTC — 248 active postings, 5 new this run._
+_Last updated: 2026-10-06 09:31 UTC — 266 active postings, 18 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Hawaiian Electric | Summer Intern - Mechanical Engineer - Oahu | Honolulu, HI | [Apply](https://www.linkedin.com/jobs/view/4474001536) | 2026-10-06 |
+| FieldAI | Mechanical Engineer Internship, Robotics Hardware | Boston, MA | [Apply](https://www.linkedin.com/jobs/view/4476115222) | 2026-10-06 |
+| Astera Labs | Physical Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005) | 2026-10-06 |
+| Astera Labs | Physical Design Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729022005) | 2026-10-06 |
+| Astera Labs | Hardware Test/Mechanical Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724114005) | 2026-10-06 |
+| Astera Labs | Hardware Design Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728560005) | 2026-10-06 |
+| Astera Labs | Design-for-Test Engineer Intern | Toronto, ON, Canada; San Jose, CA | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728387005) | 2026-10-06 |
+| Astera Labs | Digital Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731399005) | 2026-10-06 |
+| Tesla | Systems Integration Engineering Intern - Thermal Systems | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/285779) | 2026-10-05 |
 | Raytheon | Mechanical Engineer Intern - Air Launched Effectors (2027 Summer) | Tucson, AZ | [Apply](https://www.linkedin.com/jobs/view/4475870906) | 2026-10-05 |
 | Marvell Technology | Hardware Engineer Intern, BS - Summer 2027 | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/4473694276) | 2026-10-05 |
+| Marvell | Hardware Engineer Intern | Santa Clara, CA | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975-1) | 2026-10-05 |
+| Jacobs | Mechanical Engineering Internship - Summer 2027 | Gainesville, FL | [Apply](https://www.linkedin.com/jobs/view/4475884988) | 2026-10-05 |
+| General Motors | Summer Intern - Global Manufacturing Robotics & Automation | Warren, MI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348) | 2026-10-05 |
+| Cirrus Logic | Product Test Engineer Intern | Austin, TX | [Apply](https://jobs.eu.lever.co/cirrus/46a841b3-e3ce-4c78-b010-0e9cfe9e0f8e/apply) | 2026-10-05 |
+| Cirrus Logic | Digital Design Engineer Intern | Austin, TX | [Apply](https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply) | 2026-10-05 |
+| Cirrus Logic | Analog Design Engineer Intern | Austin, TX | [Apply](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply) | 2026-10-05 |
 | TalentSphere Global | Launch Systems Engineering Intern – Aerospace | Miami, FL | [Apply](https://www.linkedin.com/jobs/view/4473448787) | 2026-10-04 |
 | Micron Technology | HBM Memory Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821) | 2026-10-04 |
 | Micron Technology | Memory Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528) | 2026-10-04 |
+| Hewlett Packard Enterprise | Electric Hardware Engineer Intern | Chippewa Falls, WI | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414) | 2026-10-04 |
 | Magna International | Humanoid Robotics Intern | Troy, MI | [Apply](https://www.linkedin.com/jobs/view/4475049545) | 2026-10-03 |
 | L3Harris Technologies | Manufacturing Engineering Intern | Salt Lake City, UT | [Apply](https://www.linkedin.com/jobs/view/4475346172) | 2026-10-03 |
 | Black & Veatch | Mechanical Engineer Intern - Data Centers | Overland Park, KS | [Apply](https://www.linkedin.com/jobs/view/4466409223) | 2026-10-03 |
@@ -96,6 +112,7 @@ _Last updated: 2026-10-05 21:42 UTC — 248 active postings, 5 new this run._
 | Applied Materials | Systems Engineer 3 Intern | Santa Clara, CA | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-III--E3-_R2629158) | 2026-09-25 |
 | Aevex Aerospace | Robotics Engineering Co-op | Tampa, FL | [Apply](https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008) | 2026-09-25 |
 | AMETEK | Manufacturing Engineering Intern | Woodstock, NY | [Apply](https://www.linkedin.com/jobs/view/4472089559) | 2026-09-25 |
+| The Aerospace Corporation | 2027 Flight Loads Structural Dynamics Undergraduate Intern | El Segundo, CA | [Apply](https://www.linkedin.com/jobs/view/4469379288) | 2026-09-24 |
 | Tesla | Solar Hardware Engineer Intern - PV Cell - Energy Engineering | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/284489) | 2026-09-24 |
 | Semtech | Analog Design Engineer Intern | Calgary, AB, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623) | 2026-09-24 |
 | Semtech | Analog Design Engineer Intern - Signal Integrity Products Group | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622) | 2026-09-24 |
@@ -110,6 +127,7 @@ _Last updated: 2026-10-05 21:42 UTC — 248 active postings, 5 new this run._
 | PAE | Mechanical Engineer Internship Summer 2027 - Denver, CO | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/4468362212) | 2026-09-23 |
 | Mytra | Robotics Intern - Winter 2026 | Brisbane, CA | [Apply](https://www.linkedin.com/jobs/view/4470900856) | 2026-09-23 |
 | Micron Technology | Intern - Design Engineer, HIG HBM | Richardson, TX | [Apply](https://www.linkedin.com/jobs/view/4469461097) | 2026-09-23 |
+| Micron Technology | Design Engineer Intern - High Bandwidth Memory | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516) | 2026-09-23 |
 | L3Harris Technologies | Intern, Manufacturing Engineer | Camden, AR | [Apply](https://www.linkedin.com/jobs/view/4470938059) | 2026-09-23 |
 | Kiewit | Mechanical Engineer Intern - Kiewit Industrial & Water Engineering (Summer 2027) | Lenexa, KS | [Apply](https://www.linkedin.com/jobs/view/4460687418) | 2026-09-23 |
 | Kiewit | Mechanical Engineer Intern - Kiewit Power Engineering (Summer 2027) | Lenexa, KS | [Apply](https://www.linkedin.com/jobs/view/4460615758) | 2026-09-23 |

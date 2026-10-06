@@ -1,5 +1,102 @@
 [
  {
+  "id": "linkedin:4474001536",
+  "source": "linkedin",
+  "company": "Hawaiian Electric",
+  "title": "Summer Intern - Mechanical Engineer - Oahu",
+  "location": "Honolulu, HI",
+  "url": "https://www.linkedin.com/jobs/view/4474001536",
+  "date_posted": "2026-10-06",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "id": "linkedin:4476115222",
+  "source": "linkedin",
+  "company": "FieldAI",
+  "title": "Mechanical Engineer Internship, Robotics Hardware",
+  "location": "Boston, MA",
+  "url": "https://www.linkedin.com/jobs/view/4476115222",
+  "date_posted": "2026-10-06",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:e59b5917-b7ff-4d39-b70a-06ccca952f9b",
+  "source": "simplify",
+  "company": "Astera Labs",
+  "title": "Physical Design Engineer Intern",
+  "location": "Toronto, ON, Canada",
+  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005",
+  "date_posted": "2026-10-06",
+  "term": "N/A",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:9665a307-accf-4760-a8e1-3e309af12216",
+  "source": "simplify",
+  "company": "Astera Labs",
+  "title": "Physical Design Engineer Intern",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729022005",
+  "date_posted": "2026-10-06",
+  "term": "N/A",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:a562a46f-874e-4fe5-86ea-11d5ac0f5b06",
+  "source": "simplify",
+  "company": "Astera Labs",
+  "title": "Hardware Test/Mechanical Engineer Intern",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724114005",
+  "date_posted": "2026-10-06",
+  "term": "N/A",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:50499486-6332-4938-96b5-b56eb16e464d",
+  "source": "simplify",
+  "company": "Astera Labs",
+  "title": "Hardware Design Engineer Intern",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728560005",
+  "date_posted": "2026-10-06",
+  "term": "N/A",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:5b060245-a042-4b13-8914-27e130fb7987",
+  "source": "simplify",
+  "company": "Astera Labs",
+  "title": "Design-for-Test Engineer Intern",
+  "location": "Toronto, ON, Canada; San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728387005",
+  "date_posted": "2026-10-06",
+  "term": "N/A",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:8120fc44-373b-4776-a9f9-c08c4a7fa35d",
+  "source": "simplify",
+  "company": "Astera Labs",
+  "title": "Digital Design Engineer Intern",
+  "location": "Toronto, ON, Canada",
+  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731399005",
+  "date_posted": "2026-10-06",
+  "term": "N/A",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:9b075fba-b6f1-48a1-b9e8-5824cbd2e977",
+  "source": "simplify",
+  "company": "Tesla",
+  "title": "Systems Integration Engineering Intern - Thermal Systems",
+  "location": "Palo Alto, CA",
+  "url": "https://www.tesla.com/careers/search/job/285779",
+  "date_posted": "2026-10-05",
+  "term": "Spring 2027",
+  "first_seen": "2026-10-06"
+ },
+ {
   "id": "linkedin:4475870906",
   "source": "linkedin",
   "company": "Raytheon",
@@ -18,6 +115,71 @@
   "url": "https://www.linkedin.com/jobs/view/4473694276",
   "date_posted": "2026-10-05",
   "first_seen": "2026-10-05"
+ },
+ {
+  "id": "simplify:c9f2fee3-e5c3-40a0-8238-50c86087fdbe",
+  "source": "simplify",
+  "company": "Marvell",
+  "title": "Hardware Engineer Intern",
+  "location": "Santa Clara, CA",
+  "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975-1",
+  "date_posted": "2026-10-05",
+  "term": "N/A",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "id": "linkedin:4475884988",
+  "source": "linkedin",
+  "company": "Jacobs",
+  "title": "Mechanical Engineering Internship - Summer 2027",
+  "location": "Gainesville, FL",
+  "url": "https://www.linkedin.com/jobs/view/4475884988",
+  "date_posted": "2026-10-05",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:87d6c744-4c8c-47bf-8a1d-f559e20ba7f2",
+  "source": "simplify",
+  "company": "General Motors",
+  "title": "Summer Intern - Global Manufacturing Robotics & Automation",
+  "location": "Warren, MI",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348",
+  "date_posted": "2026-10-05",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:79918a84-f33e-4e10-ab1e-4db317123c83",
+  "source": "simplify",
+  "company": "Cirrus Logic",
+  "title": "Product Test Engineer Intern",
+  "location": "Austin, TX",
+  "url": "https://jobs.eu.lever.co/cirrus/46a841b3-e3ce-4c78-b010-0e9cfe9e0f8e/apply",
+  "date_posted": "2026-10-05",
+  "term": "Spring 2027, Summer 2027, Fall 2027",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:0eae032a-b813-45a7-a418-c2b4a4894fcf",
+  "source": "simplify",
+  "company": "Cirrus Logic",
+  "title": "Digital Design Engineer Intern",
+  "location": "Austin, TX",
+  "url": "https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply",
+  "date_posted": "2026-10-05",
+  "term": "Spring 2027, Summer 2027, Fall 2027",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:6ed7ff21-30e8-4226-8f6d-e5ae330eba77",
+  "source": "simplify",
+  "company": "Cirrus Logic",
+  "title": "Analog Design Engineer Intern",
+  "location": "Austin, TX",
+  "url": "https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply",
+  "date_posted": "2026-10-05",
+  "term": "Spring 2027, Summer 2027, Fall 2027",
+  "first_seen": "2026-10-06"
  },
  {
   "id": "linkedin:4473448787",
@@ -50,6 +212,17 @@
   "date_posted": "2026-10-04",
   "term": "N/A",
   "first_seen": "2026-10-05"
+ },
+ {
+  "id": "simplify:e278710f-d6bb-4179-bc3d-fb012be95ca4",
+  "source": "simplify",
+  "company": "Hewlett Packard Enterprise",
+  "title": "Electric Hardware Engineer Intern",
+  "location": "Chippewa Falls, WI",
+  "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414",
+  "date_posted": "2026-10-04",
+  "term": "N/A",
+  "first_seen": "2026-10-06"
  },
  {
   "id": "linkedin:4475049545",
@@ -931,6 +1104,16 @@
   "first_seen": "2026-09-30"
  },
  {
+  "id": "linkedin:4469379288",
+  "source": "linkedin",
+  "company": "The Aerospace Corporation",
+  "title": "2027 Flight Loads Structural Dynamics Undergraduate Intern",
+  "location": "El Segundo, CA",
+  "url": "https://www.linkedin.com/jobs/view/4469379288",
+  "date_posted": "2026-09-24",
+  "first_seen": "2026-10-06"
+ },
+ {
   "id": "simplify:a16efc0d-108f-4ae3-81a2-aaf96195f8ce",
   "source": "simplify",
   "company": "Tesla",
@@ -1073,6 +1256,17 @@
   "url": "https://www.linkedin.com/jobs/view/4469461097",
   "date_posted": "2026-09-23",
   "first_seen": "2026-09-30"
+ },
+ {
+  "id": "simplify:980bdd56-1481-4272-bb42-a09ca9ce94e8",
+  "source": "simplify",
+  "company": "Micron Technology",
+  "title": "Design Engineer Intern - High Bandwidth Memory",
+  "location": "Richardson, TX",
+  "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516",
+  "date_posted": "2026-09-23",
+  "term": "Winter 2026",
+  "first_seen": "2026-10-06"
  },
  {
   "id": "linkedin:4470938059",
