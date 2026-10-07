@@ -1,5 +1,25 @@
 [
  {
+  "id": "linkedin:4476394951",
+  "source": "linkedin",
+  "company": "TTM Technologies",
+  "title": "Process Engineer Intern (Jan-May 2027)",
+  "location": "Syracuse, NY",
+  "url": "https://www.linkedin.com/jobs/view/4476394951",
+  "date_posted": "2026-10-07",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "id": "linkedin:4475178955",
+  "source": "linkedin",
+  "company": "Lexair, Inc.",
+  "title": "Spring Intern Co-Op Mechanical Engineer",
+  "location": "Lexington, KY",
+  "url": "https://www.linkedin.com/jobs/view/4475178955",
+  "date_posted": "2026-10-07",
+  "first_seen": "2026-10-07"
+ },
+ {
   "id": "linkedin:4476352601",
   "source": "linkedin",
   "company": "Vantor",
@@ -18,6 +38,17 @@
   "url": "https://www.linkedin.com/jobs/view/4474095097",
   "date_posted": "2026-10-06",
   "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:fb65b84f-2bba-40c1-8c4e-cc231374be9c",
+  "source": "simplify",
+  "company": "Tesla",
+  "title": "Process Engineer Intern - Dielectric Deposition",
+  "location": "Austin, TX",
+  "url": "https://www.tesla.com/careers/search/job/285641",
+  "date_posted": "2026-10-06",
+  "term": "Spring 2027",
+  "first_seen": "2026-10-07"
  },
  {
   "id": "linkedin:4474079250",
@@ -50,6 +81,17 @@
   "first_seen": "2026-10-06"
  },
  {
+  "id": "simplify:e9a5e0b0-0a4d-4c94-9bfc-dc97ba351bf8",
+  "source": "simplify",
+  "company": "Leidos",
+  "title": "Systems Engineer Intern",
+  "location": "Arlington County, Arlington, VA",
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940",
+  "date_posted": "2026-10-06",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-07"
+ },
+ {
   "id": "linkedin:4476344784",
   "source": "linkedin",
   "company": "L3Harris Technologies",
@@ -58,6 +100,17 @@
   "url": "https://www.linkedin.com/jobs/view/4476344784",
   "date_posted": "2026-10-06",
   "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:0c54130a-f5da-49fe-90fd-81e416d718ac",
+  "source": "simplify",
+  "company": "Hewlett Packard Enterprise",
+  "title": "Hardware Engineer Intern",
+  "location": "Sunnyvale, CA",
+  "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214064",
+  "date_posted": "2026-10-06",
+  "term": "N/A",
+  "first_seen": "2026-10-07"
  },
  {
   "id": "linkedin:4474001536",
@@ -78,6 +131,17 @@
   "url": "https://www.linkedin.com/jobs/view/4476115222",
   "date_posted": "2026-10-06",
   "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:082ed332-717b-4faf-9e5a-066669e4636b",
+  "source": "simplify",
+  "company": "Dell Technologies",
+  "title": "Supplier Process Engineer Co-op",
+  "location": "Texas",
+  "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298595",
+  "date_posted": "2026-10-06",
+  "term": "N/A",
+  "first_seen": "2026-10-07"
  },
  {
   "id": "simplify:e59b5917-b7ff-4d39-b70a-06ccca952f9b",

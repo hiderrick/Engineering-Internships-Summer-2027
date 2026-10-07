@@ -3,18 +3,24 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-06 19:53 UTC — 273 active postings, 7 new this run._
+_Last updated: 2026-10-07 09:27 UTC — 279 active postings, 6 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| TTM Technologies | Process Engineer Intern (Jan-May 2027) | Syracuse, NY | [Apply](https://www.linkedin.com/jobs/view/4476394951) | 2026-10-07 |
+| Lexair, Inc. | Spring Intern Co-Op Mechanical Engineer | Lexington, KY | [Apply](https://www.linkedin.com/jobs/view/4475178955) | 2026-10-07 |
 | Vantor | Summer Internship: Aerospace Modeling & Simulation | Herndon, VA | [Apply](https://www.linkedin.com/jobs/view/4476352601) | 2026-10-06 |
 | The Marzetti Company | Process Engineering Manufacturing Intern - Summer 2027 | Horse Cave, KY | [Apply](https://www.linkedin.com/jobs/view/4474095097) | 2026-10-06 |
+| Tesla | Process Engineer Intern - Dielectric Deposition | Austin, TX | [Apply](https://www.tesla.com/careers/search/job/285641) | 2026-10-06 |
 | Spirit Defense, A Boeing Company | Spirit Defense - Summer 2027 Internship Program (Paid) – Design, Structural Analysis, & Systems Engineering | Wichita, KS | [Apply](https://www.linkedin.com/jobs/view/4474079250) | 2026-10-06 |
 | Relativity Space | Manufacturing Engineer Intern | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4476352122) | 2026-10-06 |
 | Relativity Space | Tooling Engineer Intern | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4476331854) | 2026-10-06 |
+| Leidos | Systems Engineer Intern | Arlington County, Arlington, VA | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940) | 2026-10-06 |
 | L3Harris Technologies | Manufacturing Engineering Intern (Salt Lake City, UT) | Salt Lake City, UT | [Apply](https://www.linkedin.com/jobs/view/4476344784) | 2026-10-06 |
+| Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214064) | 2026-10-06 |
 | Hawaiian Electric | Summer Intern - Mechanical Engineer - Oahu | Honolulu, HI | [Apply](https://www.linkedin.com/jobs/view/4474001536) | 2026-10-06 |
 | FieldAI | Mechanical Engineer Internship, Robotics Hardware | Boston, MA | [Apply](https://www.linkedin.com/jobs/view/4476115222) | 2026-10-06 |
+| Dell Technologies | Supplier Process Engineer Co-op | Texas | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298595) | 2026-10-06 |
 | Astera Labs | Physical Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005) | 2026-10-06 |
 | Astera Labs | Physical Design Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729022005) | 2026-10-06 |
 | Astera Labs | Hardware Test/Mechanical Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724114005) | 2026-10-06 |
