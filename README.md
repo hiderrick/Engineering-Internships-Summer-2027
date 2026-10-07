@@ -3,12 +3,13 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-07 09:27 UTC — 279 active postings, 6 new this run._
+_Last updated: 2026-10-07 20:15 UTC — 281 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | TTM Technologies | Process Engineer Intern (Jan-May 2027) | Syracuse, NY | [Apply](https://www.linkedin.com/jobs/view/4476394951) | 2026-10-07 |
 | Lexair, Inc. | Spring Intern Co-Op Mechanical Engineer | Lexington, KY | [Apply](https://www.linkedin.com/jobs/view/4475178955) | 2026-10-07 |
+| Impulse Space | Avionics Mechanical Engineering Intern (Summer 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4476911384) | 2026-10-07 |
 | Vantor | Summer Internship: Aerospace Modeling & Simulation | Herndon, VA | [Apply](https://www.linkedin.com/jobs/view/4476352601) | 2026-10-06 |
 | The Marzetti Company | Process Engineering Manufacturing Intern - Summer 2027 | Horse Cave, KY | [Apply](https://www.linkedin.com/jobs/view/4474095097) | 2026-10-06 |
 | Tesla | Process Engineer Intern - Dielectric Deposition | Austin, TX | [Apply](https://www.tesla.com/careers/search/job/285641) | 2026-10-06 |
@@ -116,6 +117,7 @@ _Last updated: 2026-10-07 09:27 UTC — 279 active postings, 6 new this run._
 | Waymo | Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics | Mountain View, CA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8231711) | 2026-09-25 |
 | WSP in the U.S. | Mechanical Engineering (Transmission) Intern - Summer 2027 | Tulsa, OK | [Apply](https://www.linkedin.com/jobs/view/4463117776) | 2026-09-25 |
 | Vertiv | Mechanical Engineering Intern - Liquid Cooling Summer 2027 | Westerville, OH | [Apply](https://www.linkedin.com/jobs/view/4454303953) | 2026-09-25 |
+| Vast | Emerging Talent - Mechanical/Aerospace Engineering Internship | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4466011221) | 2026-09-25 |
 | Mach Industries | Summer 2027 Engineering Internship, Aerospace | Huntington Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4470512300) | 2026-09-25 |
 | General Motors | 2027 Summer Intern – Manufacturing Paint Process Engineer | Arlington, TX | [Apply](https://www.linkedin.com/jobs/view/4463114837) | 2026-09-25 |
 | General Motors | 2027 Summer Intern – Manufacturing Paint Process Engineer | Roanoke, IN | [Apply](https://www.linkedin.com/jobs/view/4463112871) | 2026-09-25 |
