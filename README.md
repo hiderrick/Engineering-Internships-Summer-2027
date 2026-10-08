@@ -3,10 +3,13 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-08 09:37 UTC — 293 active postings, 12 new this run._
+_Last updated: 2026-10-08 20:18 UTC — 296 active postings, 3 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Textron | 2027 Internship - Aerodynamics Engineer | Wichita, KS | [Apply](https://www.linkedin.com/jobs/view/4477414142) | 2026-10-08 |
+| TalentSphere Global | Manufacturing Automation Engineering Intern | Cambridge, MA | [Apply](https://www.linkedin.com/jobs/view/4477160019) | 2026-10-08 |
+| Sensata | Hardware Engineer Intern | Newtownabbey, UK | [Apply](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Student_IRC98569) | 2026-10-08 |
 | Meta | Manufacturing Test Engineer Intern | Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1866862250969693) | 2026-10-08 |
 | Gridvanta PowerTech | Manufacturing Automation Engineering Intern | San Francisco Bay Area | [Apply](https://www.linkedin.com/jobs/view/4474494429) | 2026-10-08 |
 | Aptiv | Mechanical Engineering Intern - Tooling | Warren, OH | [Apply](https://www.linkedin.com/jobs/view/4477129376) | 2026-10-08 |

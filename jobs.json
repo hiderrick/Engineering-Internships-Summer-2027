@@ -1,5 +1,36 @@
 [
  {
+  "id": "linkedin:4477414142",
+  "source": "linkedin",
+  "company": "Textron",
+  "title": "2027 Internship - Aerodynamics Engineer",
+  "location": "Wichita, KS",
+  "url": "https://www.linkedin.com/jobs/view/4477414142",
+  "date_posted": "2026-10-08",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "linkedin:4477160019",
+  "source": "linkedin",
+  "company": "TalentSphere Global",
+  "title": "Manufacturing Automation Engineering Intern",
+  "location": "Cambridge, MA",
+  "url": "https://www.linkedin.com/jobs/view/4477160019",
+  "date_posted": "2026-10-08",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "simplify:d9a3f92c-e25d-49d0-9782-5d9f9a8b9e8d",
+  "source": "simplify",
+  "company": "Sensata",
+  "title": "Hardware Engineer Intern",
+  "location": "Newtownabbey, UK",
+  "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Student_IRC98569",
+  "date_posted": "2026-10-08",
+  "term": "N/A",
+  "first_seen": "2026-10-08"
+ },
+ {
   "id": "simplify:8c2db8ba-8874-4c57-8689-34298f844251",
   "source": "simplify",
   "company": "Meta",
