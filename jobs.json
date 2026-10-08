@@ -1,5 +1,79 @@
 [
  {
+  "id": "simplify:8c2db8ba-8874-4c57-8689-34298f844251",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Manufacturing Test Engineer Intern",
+  "location": "Sunnyvale, CA",
+  "url": "https://www.metacareers.com/jobs/1866862250969693",
+  "date_posted": "2026-10-08",
+  "term": "N/A",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "linkedin:4474494429",
+  "source": "linkedin",
+  "company": "Gridvanta PowerTech",
+  "title": "Manufacturing Automation Engineering Intern",
+  "location": "San Francisco Bay Area",
+  "url": "https://www.linkedin.com/jobs/view/4474494429",
+  "date_posted": "2026-10-08",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "linkedin:4477129376",
+  "source": "linkedin",
+  "company": "Aptiv",
+  "title": "Mechanical Engineering Intern - Tooling",
+  "location": "Warren, OH",
+  "url": "https://www.linkedin.com/jobs/view/4477129376",
+  "date_posted": "2026-10-08",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "simplify:560dca20-ee7d-4406-bef2-be998ced912d",
+  "source": "simplify",
+  "company": "Werfen",
+  "title": "Acute Care Hardware Systems Engineer Co-op",
+  "location": "Bedford, MA",
+  "url": "https://careers-werfen.icims.com/jobs/10995/job?mobile=true&needsRedirect=false",
+  "date_posted": "2026-10-07",
+  "term": "N/A",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "linkedin:4475496567",
+  "source": "linkedin",
+  "company": "Waymo",
+  "title": "2027 Summer Intern, MS/PhD, Perception, Robotics",
+  "location": "Mountain View, CA",
+  "url": "https://www.linkedin.com/jobs/view/4475496567",
+  "date_posted": "2026-10-07",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "simplify:c8f21f2d-6090-47e0-9b3c-d232b71af4e6",
+  "source": "simplify",
+  "company": "Waymo",
+  "title": "Perception Intern - Robotics",
+  "location": "Mountain View, CA",
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=8227633",
+  "date_posted": "2026-10-07",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "simplify:c5e542fe-ee8a-4e19-9642-374aa9b2fde6",
+  "source": "simplify",
+  "company": "Texas Instruments",
+  "title": "Analog Design Engineer Intern",
+  "location": "Dallas, TX",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924",
+  "date_posted": "2026-10-07",
+  "term": "N/A",
+  "first_seen": "2026-10-08"
+ },
+ {
   "id": "linkedin:4476394951",
   "source": "linkedin",
   "company": "TTM Technologies",
@@ -8,6 +82,38 @@
   "url": "https://www.linkedin.com/jobs/view/4476394951",
   "date_posted": "2026-10-07",
   "first_seen": "2026-10-07"
+ },
+ {
+  "id": "linkedin:4476924868",
+  "source": "linkedin",
+  "company": "Pratt & Whitney",
+  "title": "Military Engines Repair Design Engineer Intern (Summer 2027) (Onsite)",
+  "location": "Oklahoma City, OK",
+  "url": "https://www.linkedin.com/jobs/view/4476924868",
+  "date_posted": "2026-10-07",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "simplify:5c8d0ded-4292-4bc3-847b-d136759a9a5d",
+  "source": "simplify",
+  "company": "Northrop Grumman",
+  "title": "Test Engineer Intern",
+  "location": "Sunnyvale, CA",
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Test-Engineer-Intern---Sunnyvale-CA_R10255018-1",
+  "date_posted": "2026-10-07",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "simplify:9d58c016-deec-47ad-adab-db768f2e513e",
+  "source": "simplify",
+  "company": "Nissan Global",
+  "title": "Systems Engineer Intern - Summer 2027",
+  "location": "Canton, MS",
+  "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882",
+  "date_posted": "2026-10-07",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-08"
  },
  {
   "id": "linkedin:4475178955",
@@ -28,6 +134,27 @@
   "url": "https://www.linkedin.com/jobs/view/4476911384",
   "date_posted": "2026-10-07",
   "first_seen": "2026-10-07"
+ },
+ {
+  "id": "simplify:4a6e8ef4-3dae-4beb-a21a-7d28fe814b98",
+  "source": "simplify",
+  "company": "General Motors",
+  "title": "Systems Engineer Intern - Asd",
+  "location": "Milford, MI; Warren, MI",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989",
+  "date_posted": "2026-10-07",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "id": "linkedin:4475494738",
+  "source": "linkedin",
+  "company": "General Dynamics Mission Systems",
+  "title": "Manufacturing Engineering Intern",
+  "location": "Scottsdale, AZ",
+  "url": "https://www.linkedin.com/jobs/view/4475494738",
+  "date_posted": "2026-10-07",
+  "first_seen": "2026-10-08"
  },
  {
   "id": "linkedin:4476352601",

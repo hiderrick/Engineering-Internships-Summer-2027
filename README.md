@@ -3,13 +3,25 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-07 20:15 UTC — 281 active postings, 2 new this run._
+_Last updated: 2026-10-08 09:37 UTC — 293 active postings, 12 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Meta | Manufacturing Test Engineer Intern | Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1866862250969693) | 2026-10-08 |
+| Gridvanta PowerTech | Manufacturing Automation Engineering Intern | San Francisco Bay Area | [Apply](https://www.linkedin.com/jobs/view/4474494429) | 2026-10-08 |
+| Aptiv | Mechanical Engineering Intern - Tooling | Warren, OH | [Apply](https://www.linkedin.com/jobs/view/4477129376) | 2026-10-08 |
+| Werfen | Acute Care Hardware Systems Engineer Co-op | Bedford, MA | [Apply](https://careers-werfen.icims.com/jobs/10995/job?mobile=true&needsRedirect=false) | 2026-10-07 |
+| Waymo | 2027 Summer Intern, MS/PhD, Perception, Robotics | Mountain View, CA | [Apply](https://www.linkedin.com/jobs/view/4475496567) | 2026-10-07 |
+| Waymo | Perception Intern - Robotics | Mountain View, CA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227633) | 2026-10-07 |
+| Texas Instruments | Analog Design Engineer Intern | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924) | 2026-10-07 |
 | TTM Technologies | Process Engineer Intern (Jan-May 2027) | Syracuse, NY | [Apply](https://www.linkedin.com/jobs/view/4476394951) | 2026-10-07 |
+| Pratt & Whitney | Military Engines Repair Design Engineer Intern (Summer 2027) (Onsite) | Oklahoma City, OK | [Apply](https://www.linkedin.com/jobs/view/4476924868) | 2026-10-07 |
+| Northrop Grumman | Test Engineer Intern | Sunnyvale, CA | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Test-Engineer-Intern---Sunnyvale-CA_R10255018-1) | 2026-10-07 |
+| Nissan Global | Systems Engineer Intern - Summer 2027 | Canton, MS | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882) | 2026-10-07 |
 | Lexair, Inc. | Spring Intern Co-Op Mechanical Engineer | Lexington, KY | [Apply](https://www.linkedin.com/jobs/view/4475178955) | 2026-10-07 |
 | Impulse Space | Avionics Mechanical Engineering Intern (Summer 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4476911384) | 2026-10-07 |
+| General Motors | Systems Engineer Intern - Asd | Milford, MI; Warren, MI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989) | 2026-10-07 |
+| General Dynamics Mission Systems | Manufacturing Engineering Intern | Scottsdale, AZ | [Apply](https://www.linkedin.com/jobs/view/4475494738) | 2026-10-07 |
 | Vantor | Summer Internship: Aerospace Modeling & Simulation | Herndon, VA | [Apply](https://www.linkedin.com/jobs/view/4476352601) | 2026-10-06 |
 | The Marzetti Company | Process Engineering Manufacturing Intern - Summer 2027 | Horse Cave, KY | [Apply](https://www.linkedin.com/jobs/view/4474095097) | 2026-10-06 |
 | Tesla | Process Engineer Intern - Dielectric Deposition | Austin, TX | [Apply](https://www.tesla.com/careers/search/job/285641) | 2026-10-06 |
