@@ -3,12 +3,16 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-09 09:44 UTC — 305 active postings, 9 new this run._
+_Last updated: 2026-10-09 19:52 UTC — 309 active postings, 4 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | Texas Instruments | Analog IC Design Engineer Intern | Santa Clara, CA | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016378) | 2026-10-09 |
+| Nissan Motor Corporation | Trim & Chassis Manufacturing Engineering Intern - Summer 2027 - Canton, MS | Canton, MS | [Apply](https://www.linkedin.com/jobs/view/4477689946) | 2026-10-09 |
 | Kiewit | Mechanical Engineer Intern (Summer 2027) - Kiewit OGC Engineering | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/4476241199) | 2026-10-09 |
+| John Deere | Product Engineering Student Intern - Robotics | Champaign, IL | [Apply](https://johndeere.eightfold.ai/careers/job/137483758357) | 2026-10-09 |
+| DMR Technologies | Drone Systems Engineering Intern | Lafayette, LA | [Apply](https://www.linkedin.com/jobs/view/4475217385) | 2026-10-09 |
+| ArcBest \| Vaux | Intern, Mechatronics Engineer - 2027 Vaux | Fort Smith, AR | [Apply](https://www.linkedin.com/jobs/view/4476282999) | 2026-10-09 |
 | Textron | 2027 Internship - Aerodynamics Engineer | Wichita, KS | [Apply](https://www.linkedin.com/jobs/view/4477414142) | 2026-10-08 |
 | TalentSphere Global | Manufacturing Automation Engineering Intern | Cambridge, MA | [Apply](https://www.linkedin.com/jobs/view/4477160019) | 2026-10-08 |
 | Sierra Nevada Corporation | Test Engineer 1 Intern | Lone Tree, CO | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Test-Engineer-I--For-SNC-Summer-2026-Interns-Only-_R0030967) | 2026-10-08 |
