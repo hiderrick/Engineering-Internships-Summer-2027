@@ -3,16 +3,25 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-08 20:18 UTC — 296 active postings, 3 new this run._
+_Last updated: 2026-10-09 09:44 UTC — 305 active postings, 9 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Texas Instruments | Analog IC Design Engineer Intern | Santa Clara, CA | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016378) | 2026-10-09 |
+| Kiewit | Mechanical Engineer Intern (Summer 2027) - Kiewit OGC Engineering | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/4476241199) | 2026-10-09 |
 | Textron | 2027 Internship - Aerodynamics Engineer | Wichita, KS | [Apply](https://www.linkedin.com/jobs/view/4477414142) | 2026-10-08 |
 | TalentSphere Global | Manufacturing Automation Engineering Intern | Cambridge, MA | [Apply](https://www.linkedin.com/jobs/view/4477160019) | 2026-10-08 |
+| Sierra Nevada Corporation | Test Engineer 1 Intern | Lone Tree, CO | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Test-Engineer-I--For-SNC-Summer-2026-Interns-Only-_R0030967) | 2026-10-08 |
 | Sensata | Hardware Engineer Intern | Newtownabbey, UK | [Apply](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Student_IRC98569) | 2026-10-08 |
+| RTX | Systems Engineer Intern | Marlborough, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01881158) | 2026-10-08 |
+| Northrop Grumman | Systems Engineer Intern | McClellan Park, CA | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163) | 2026-10-08 |
+| Nissan Global | Manufacturing Digital Data Intern | Decherd, TN | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881) | 2026-10-08 |
 | Meta | Manufacturing Test Engineer Intern | Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1866862250969693) | 2026-10-08 |
 | Gridvanta PowerTech | Manufacturing Automation Engineering Intern | San Francisco Bay Area | [Apply](https://www.linkedin.com/jobs/view/4474494429) | 2026-10-08 |
+| Field AI | Robotics Research Intern - Locomotion & Planning | Irvine, CA | [Apply](https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f/apply) | 2026-10-08 |
 | Aptiv | Mechanical Engineering Intern - Tooling | Warren, OH | [Apply](https://www.linkedin.com/jobs/view/4477129376) | 2026-10-08 |
+| AeroVironment | Autonomy & Robotics Engineer Intern | Germantown, MD; Dayton, OH; Pottstown, PA; Albuquerque, NM; Sunrise, FL; Arlington County, Arlington, VA; Melbourne, FL; Petaluma, CA; Minneapolis, MN; Herndon, VA; Huntsville, AL; San Diego, CA; Moorpark, CA; Simi Valley, CA | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556) | 2026-10-08 |
+| AV | Summer 2027 Autonomy & Robotics Engineering Intern | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/4477462977) | 2026-10-08 |
 | Werfen | Acute Care Hardware Systems Engineer Co-op | Bedford, MA | [Apply](https://careers-werfen.icims.com/jobs/10995/job?mobile=true&needsRedirect=false) | 2026-10-07 |
 | Waymo | 2027 Summer Intern, MS/PhD, Perception, Robotics | Mountain View, CA | [Apply](https://www.linkedin.com/jobs/view/4475496567) | 2026-10-07 |
 | Waymo | Perception Intern - Robotics | Mountain View, CA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227633) | 2026-10-07 |

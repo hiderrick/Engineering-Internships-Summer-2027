@@ -1,5 +1,26 @@
 [
  {
+  "id": "simplify:c6d9ec64-c0ff-463b-bd9c-4a87bc738068",
+  "source": "simplify",
+  "company": "Texas Instruments",
+  "title": "Analog IC Design Engineer Intern",
+  "location": "Santa Clara, CA",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016378",
+  "date_posted": "2026-10-09",
+  "term": "N/A",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "linkedin:4476241199",
+  "source": "linkedin",
+  "company": "Kiewit",
+  "title": "Mechanical Engineer Intern (Summer 2027) - Kiewit OGC Engineering",
+  "location": "Houston, TX",
+  "url": "https://www.linkedin.com/jobs/view/4476241199",
+  "date_posted": "2026-10-09",
+  "first_seen": "2026-10-09"
+ },
+ {
   "id": "linkedin:4477414142",
   "source": "linkedin",
   "company": "Textron",
@@ -20,6 +41,17 @@
   "first_seen": "2026-10-08"
  },
  {
+  "id": "simplify:0f9f1d1f-b0cd-4b74-b678-41c0646bb6dc",
+  "source": "simplify",
+  "company": "Sierra Nevada Corporation",
+  "title": "Test Engineer 1 Intern",
+  "location": "Lone Tree, CO",
+  "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Test-Engineer-I--For-SNC-Summer-2026-Interns-Only-_R0030967",
+  "date_posted": "2026-10-08",
+  "term": "Summer 2026",
+  "first_seen": "2026-10-09"
+ },
+ {
   "id": "simplify:d9a3f92c-e25d-49d0-9782-5d9f9a8b9e8d",
   "source": "simplify",
   "company": "Sensata",
@@ -29,6 +61,39 @@
   "date_posted": "2026-10-08",
   "term": "N/A",
   "first_seen": "2026-10-08"
+ },
+ {
+  "id": "simplify:0395dd40-0d00-42b1-b535-ebcc026f08d7",
+  "source": "simplify",
+  "company": "RTX",
+  "title": "Systems Engineer Intern",
+  "location": "Marlborough, MA",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01881158",
+  "date_posted": "2026-10-08",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "simplify:42bb1506-58e5-4744-a89f-7bfd250d0115",
+  "source": "simplify",
+  "company": "Northrop Grumman",
+  "title": "Systems Engineer Intern",
+  "location": "McClellan Park, CA",
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163",
+  "date_posted": "2026-10-08",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "simplify:a0ee9167-79ab-4d47-a4a3-de77e881b285",
+  "source": "simplify",
+  "company": "Nissan Global",
+  "title": "Manufacturing Digital Data Intern",
+  "location": "Decherd, TN",
+  "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881",
+  "date_posted": "2026-10-08",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-09"
  },
  {
   "id": "simplify:8c2db8ba-8874-4c57-8689-34298f844251",
@@ -52,6 +117,17 @@
   "first_seen": "2026-10-08"
  },
  {
+  "id": "simplify:b552be63-dc57-4945-8100-61ad5740db06",
+  "source": "simplify",
+  "company": "Field AI",
+  "title": "Robotics Research Intern - Locomotion & Planning",
+  "location": "Irvine, CA",
+  "url": "https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f/apply",
+  "date_posted": "2026-10-08",
+  "term": "Summer 2026",
+  "first_seen": "2026-10-09"
+ },
+ {
   "id": "linkedin:4477129376",
   "source": "linkedin",
   "company": "Aptiv",
@@ -60,6 +136,27 @@
   "url": "https://www.linkedin.com/jobs/view/4477129376",
   "date_posted": "2026-10-08",
   "first_seen": "2026-10-08"
+ },
+ {
+  "id": "simplify:0aeaa670-e813-4bd1-b899-2cd869baf62a",
+  "source": "simplify",
+  "company": "AeroVironment",
+  "title": "Autonomy & Robotics Engineer Intern",
+  "location": "Germantown, MD; Dayton, OH; Pottstown, PA; Albuquerque, NM; Sunrise, FL; Arlington County, Arlington, VA; Melbourne, FL; Petaluma, CA; Minneapolis, MN; Herndon, VA; Huntsville, AL; San Diego, CA; Moorpark, CA; Simi Valley, CA",
+  "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556",
+  "date_posted": "2026-10-08",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "linkedin:4477462977",
+  "source": "linkedin",
+  "company": "AV",
+  "title": "Summer 2027 Autonomy & Robotics Engineering Intern",
+  "location": "San Diego, CA",
+  "url": "https://www.linkedin.com/jobs/view/4477462977",
+  "date_posted": "2026-10-08",
+  "first_seen": "2026-10-09"
  },
  {
   "id": "simplify:560dca20-ee7d-4406-bef2-be998ced912d",
