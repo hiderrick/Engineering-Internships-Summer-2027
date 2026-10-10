@@ -3,15 +3,25 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-09 19:52 UTC — 309 active postings, 4 new this run._
+_Last updated: 2026-10-10 09:10 UTC — 319 active postings, 10 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| P2S | Mechanical Engineer Internship - Summer 2027 | Irvine, CA | [Apply](https://www.linkedin.com/jobs/view/4476881650) | 2026-10-10 |
+| P2S | Lighting Design Engineer Internship - Summer 2027 | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4476877851) | 2026-10-10 |
+| Meter | Hardware Engineer Intern | SF | [Apply](https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true) | 2026-10-10 |
+| Hermeus | Manufacturing Engineering Intern - Spring/Summer/Fall 2027 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4478031319) | 2026-10-10 |
+| Hermeus | Mechanical Engineering Intern - Spring/Summer 2027 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4478019655) | 2026-10-10 |
+| Hermeus | Propulsion Component Engineering Intern - Spring 2027 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4478034163) | 2026-10-10 |
+| Westinghouse Electric Company | Summer Intern - Component Design Mechanical Engineering | Cranberry Township, PA | [Apply](https://www.linkedin.com/jobs/view/4476868062) | 2026-10-09 |
 | Texas Instruments | Analog IC Design Engineer Intern | Santa Clara, CA | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016378) | 2026-10-09 |
+| Strive Robotics | Hardware & Mechatronics Intern | Boston, MA | [Apply](https://www.linkedin.com/jobs/view/4477892252) | 2026-10-09 |
 | Nissan Motor Corporation | Trim & Chassis Manufacturing Engineering Intern - Summer 2027 - Canton, MS | Canton, MS | [Apply](https://www.linkedin.com/jobs/view/4477689946) | 2026-10-09 |
+| Meta | Production Systems Engineer Intern | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/1772445513807075) | 2026-10-09 |
 | Kiewit | Mechanical Engineer Intern (Summer 2027) - Kiewit OGC Engineering | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/4476241199) | 2026-10-09 |
 | John Deere | Product Engineering Student Intern - Robotics | Champaign, IL | [Apply](https://johndeere.eightfold.ai/careers/job/137483758357) | 2026-10-09 |
 | DMR Technologies | Drone Systems Engineering Intern | Lafayette, LA | [Apply](https://www.linkedin.com/jobs/view/4475217385) | 2026-10-09 |
+| Black & Veatch | Mechanical Engineer Intern - Conventional Power Systems | Overland Park, KS | [Apply](https://www.linkedin.com/jobs/view/4468656578) | 2026-10-09 |
 | ArcBest \| Vaux | Intern, Mechatronics Engineer - 2027 Vaux | Fort Smith, AR | [Apply](https://www.linkedin.com/jobs/view/4476282999) | 2026-10-09 |
 | Textron | 2027 Internship - Aerodynamics Engineer | Wichita, KS | [Apply](https://www.linkedin.com/jobs/view/4477414142) | 2026-10-08 |
 | TalentSphere Global | Manufacturing Automation Engineering Intern | Cambridge, MA | [Apply](https://www.linkedin.com/jobs/view/4477160019) | 2026-10-08 |
