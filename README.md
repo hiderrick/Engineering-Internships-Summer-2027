@@ -3,10 +3,13 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-11 19:15 UTC — 319 active postings._
+_Last updated: 2026-10-12 09:54 UTC — 322 active postings, 3 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Johns Hopkins Applied Physics Laboratory | 2027 Internship - Guidance, Navigation, and Control Systems Engineer | Laurel, MD | [Apply](https://www.linkedin.com/jobs/view/4475689299) | 2026-10-12 |
+| Bosch USA | Robotics Research Intern | Sunnyvale, CA | [Apply](https://www.linkedin.com/jobs/view/4475687108) | 2026-10-12 |
+| Bosch Home Comfort | Robotics Research Intern | Sunnyvale, CA | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154911489) | 2026-10-12 |
 | P2S | Mechanical Engineer Internship - Summer 2027 | Irvine, CA | [Apply](https://www.linkedin.com/jobs/view/4476881650) | 2026-10-10 |
 | P2S | Lighting Design Engineer Internship - Summer 2027 | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4476877851) | 2026-10-10 |
 | Meter | Hardware Engineer Intern | SF | [Apply](https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true) | 2026-10-10 |
