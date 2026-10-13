@@ -1,5 +1,49 @@
 [
  {
+  "id": "simplify:8ab72468-1cea-4680-a6b4-0f4ac1744e1a",
+  "source": "simplify",
+  "company": "Astera Labs",
+  "title": "Analog/Mixed Signal System Test Engineer Intern",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005",
+  "date_posted": "2026-10-13",
+  "term": "N/A",
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "simplify:cc8e42c1-1ad7-4a31-baee-ff8bf0e5dba8",
+  "source": "simplify",
+  "company": "Astera Labs",
+  "title": "Analog/Mixed-Signal IC Design Engineer Intern",
+  "location": "Toronto, ON, Canada",
+  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005",
+  "date_posted": "2026-10-13",
+  "term": "N/A",
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "simplify:64637111-fb7f-4295-8b83-7b7151491131",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - Robotics",
+  "location": "Redmond, WA",
+  "url": "https://www.metacareers.com/jobs/2586686598441521",
+  "date_posted": "2026-10-12",
+  "term": "N/A",
+  "first_seen": "2026-10-13"
+ },
+ {
+  "id": "simplify:7f3fadd1-4c8b-404a-9792-1d8ad16fd265",
+  "source": "simplify",
+  "company": "Keysight Technologies",
+  "title": "Research and Development Hardware Engineer Intern",
+  "location": "Austin, TX",
+  "url": "https://jobs.keysight.com/jobs/54345?icims=1",
+  "date_posted": "2026-10-12",
+  "term": "Summer 2026",
+  "first_seen": "2026-10-13"
+ },
+ {
   "id": "linkedin:4475689299",
   "source": "linkedin",
   "company": "Johns Hopkins Applied Physics Laboratory",
@@ -8,6 +52,17 @@
   "url": "https://www.linkedin.com/jobs/view/4475689299",
   "date_posted": "2026-10-12",
   "first_seen": "2026-10-12"
+ },
+ {
+  "id": "simplify:784b5f74-a3d4-4c11-bd1b-374e89e11e58",
+  "source": "simplify",
+  "company": "General Motors",
+  "title": "Research and Development Intern - Smart Manufacturing Systems",
+  "location": "Warren, MI",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657",
+  "date_posted": "2026-10-12",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-13"
  },
  {
   "id": "linkedin:4475687108",
@@ -29,6 +84,17 @@
   "date_posted": "2026-10-12",
   "term": "N/A",
   "first_seen": "2026-10-12"
+ },
+ {
+  "id": "simplify:8f8f4442-fe64-4954-b92c-76b95c490a03",
+  "source": "simplify",
+  "company": "Bedrock Robotics",
+  "title": "Hardware Engineer Intern",
+  "location": "SF",
+  "url": "https://jobs.ashbyhq.com/bedrock-robotics/f9b20a47-d4b7-48a2-96d6-4e65941fd873/application?embed=true",
+  "date_posted": "2026-10-12",
+  "term": "Winter 2026",
+  "first_seen": "2026-10-13"
  },
  {
   "id": "linkedin:4476881650",
