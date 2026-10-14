@@ -3,15 +3,21 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-14 08:06 UTC — 335 active postings, 7 new this run._
+_Last updated: 2026-10-14 19:00 UTC — 342 active postings, 7 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | Field AI | Robotics Research Intern - Embodied AI | Irvine, CA | [Apply](https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply) | 2026-10-14 |
+| 7-Eleven | Robotics Engineering Intern | Irving, TX | [Apply](https://www.linkedin.com/jobs/view/4479272629) | 2026-10-14 |
+| Wing | Mechanical Engineering Intern, Summer 2027 | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/4478183021) | 2026-10-13 |
+| Wing | Aerodynamics Engineering Intern, Summer 2027 | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/4478183019) | 2026-10-13 |
 | Meta | Research Scientist Intern - Multimodal Generative AI and Robotics | Redmond, WA; Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1139865145249047) | 2026-10-13 |
 | Meta | Research Scientist Intern - 3D World Modeling - Robotics and Generative AI | Burlingame, CA; Redmond, WA; Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1839680137188723) | 2026-10-13 |
+| Life Fitness / Hammer Strength | Mechanical Engineering Intern | Schaumburg, IL | [Apply](https://www.linkedin.com/jobs/view/4476075833) | 2026-10-13 |
 | Keysight Technologies | R&D Hardware Engineer Intern | Santa Rosa, CA | [Apply](https://jobs.keysight.com/jobs/54670?icims=1) | 2026-10-13 |
 | Keysight Technologies | R&D Hardware Design Engineer Intern | Santa Rosa, CA | [Apply](https://jobs.keysight.com/jobs/54389?icims=1) | 2026-10-13 |
+| Keysight Technologies | R&D Hardware Design Engineer, Intern | Santa Rosa, CA | [Apply](https://www.linkedin.com/jobs/view/4476472799) | 2026-10-13 |
+| Hewlett Packard Enterprise | Thermal/Mechanical Engineering Intern | Spring, TX | [Apply](https://www.linkedin.com/jobs/view/4478716138) | 2026-10-13 |
 | Draper | Acoustic and Vibration Technologies Intern - Summer 2027 | Cambridge, MA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) | 2026-10-13 |
 | Astera Labs | Analog/Mixed Signal System Test Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005) | 2026-10-13 |
 | Astera Labs | Analog/Mixed-Signal IC Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) | 2026-10-13 |
@@ -20,6 +26,7 @@ _Last updated: 2026-10-14 08:06 UTC — 335 active postings, 7 new this run._
 | Keysight Technologies | Research and Development Hardware Engineer Intern | Austin, TX | [Apply](https://jobs.keysight.com/jobs/54345?icims=1) | 2026-10-12 |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Guidance, Navigation, and Control Systems Engineer | Laurel, MD | [Apply](https://www.linkedin.com/jobs/view/4475689299) | 2026-10-12 |
 | General Motors | Research and Development Intern - Smart Manufacturing Systems | Warren, MI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657) | 2026-10-12 |
+| GE Aerospace | Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027 - Returning Students | Dayton, OH | [Apply](https://www.linkedin.com/jobs/view/4478568770) | 2026-10-12 |
 | Bosch USA | Robotics Research Intern | Sunnyvale, CA | [Apply](https://www.linkedin.com/jobs/view/4475687108) | 2026-10-12 |
 | Bosch Home Comfort | Robotics Research Intern | Sunnyvale, CA | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154911489) | 2026-10-12 |
 | Bedrock Robotics | Hardware Engineer Intern | SF | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/f9b20a47-d4b7-48a2-96d6-4e65941fd873/application?embed=true) | 2026-10-12 |
