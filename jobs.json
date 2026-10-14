@@ -1,5 +1,71 @@
 [
  {
+  "id": "simplify:e7524d34-3342-448c-83e8-2de9a3502b9b",
+  "source": "simplify",
+  "company": "Field AI",
+  "title": "Robotics Research Intern - Embodied AI",
+  "location": "Irvine, CA",
+  "url": "https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply",
+  "date_posted": "2026-10-14",
+  "term": "Spring 2027, Summer 2027",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "simplify:f2895a6a-273a-415c-b0e0-977de7af90e6",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - Multimodal Generative AI and Robotics",
+  "location": "Redmond, WA; Sunnyvale, CA",
+  "url": "https://www.metacareers.com/jobs/1139865145249047",
+  "date_posted": "2026-10-13",
+  "term": "N/A",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "simplify:d6a59007-c376-4c64-b058-0ba8d130fb04",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - 3D World Modeling - Robotics and Generative AI",
+  "location": "Burlingame, CA; Redmond, WA; Sunnyvale, CA",
+  "url": "https://www.metacareers.com/jobs/1839680137188723",
+  "date_posted": "2026-10-13",
+  "term": "N/A",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "simplify:efd2f9e3-b980-4849-8985-5bf81191291e",
+  "source": "simplify",
+  "company": "Keysight Technologies",
+  "title": "R&D Hardware Engineer Intern",
+  "location": "Santa Rosa, CA",
+  "url": "https://jobs.keysight.com/jobs/54670?icims=1",
+  "date_posted": "2026-10-13",
+  "term": "N/A",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "simplify:d893edc0-7626-4b73-8f1f-1f5528c0325a",
+  "source": "simplify",
+  "company": "Keysight Technologies",
+  "title": "R&D Hardware Design Engineer Intern",
+  "location": "Santa Rosa, CA",
+  "url": "https://jobs.keysight.com/jobs/54389?icims=1",
+  "date_posted": "2026-10-13",
+  "term": "Spring 2027",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "id": "simplify:947e4dcb-1124-4048-a1f3-ae39c39fa2cb",
+  "source": "simplify",
+  "company": "Draper",
+  "title": "Acoustic and Vibration Technologies Intern - Summer 2027",
+  "location": "Cambridge, MA",
+  "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1",
+  "date_posted": "2026-10-13",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-14"
+ },
+ {
   "id": "simplify:8ab72468-1cea-4680-a6b4-0f4ac1744e1a",
   "source": "simplify",
   "company": "Astera Labs",
@@ -20,6 +86,17 @@
   "date_posted": "2026-10-13",
   "term": "N/A",
   "first_seen": "2026-10-13"
+ },
+ {
+  "id": "simplify:26e816da-9dba-4778-81d4-c9a9d4b0fb1d",
+  "source": "simplify",
+  "company": "Amazon",
+  "title": "Hardware Development Engineer Intern Co-op - Robotics",
+  "location": "North Reading, MA; Westborough, MA",
+  "url": "https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027",
+  "date_posted": "2026-10-13",
+  "term": "Winter 2027, Spring 2027, Summer 2027, Fall 2027",
+  "first_seen": "2026-10-14"
  },
  {
   "id": "simplify:64637111-fb7f-4295-8b83-7b7151491131",

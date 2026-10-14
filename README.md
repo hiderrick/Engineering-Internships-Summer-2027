@@ -3,12 +3,19 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-13 20:24 UTC — 328 active postings._
+_Last updated: 2026-10-14 08:06 UTC — 335 active postings, 7 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Field AI | Robotics Research Intern - Embodied AI | Irvine, CA | [Apply](https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply) | 2026-10-14 |
+| Meta | Research Scientist Intern - Multimodal Generative AI and Robotics | Redmond, WA; Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1139865145249047) | 2026-10-13 |
+| Meta | Research Scientist Intern - 3D World Modeling - Robotics and Generative AI | Burlingame, CA; Redmond, WA; Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1839680137188723) | 2026-10-13 |
+| Keysight Technologies | R&D Hardware Engineer Intern | Santa Rosa, CA | [Apply](https://jobs.keysight.com/jobs/54670?icims=1) | 2026-10-13 |
+| Keysight Technologies | R&D Hardware Design Engineer Intern | Santa Rosa, CA | [Apply](https://jobs.keysight.com/jobs/54389?icims=1) | 2026-10-13 |
+| Draper | Acoustic and Vibration Technologies Intern - Summer 2027 | Cambridge, MA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) | 2026-10-13 |
 | Astera Labs | Analog/Mixed Signal System Test Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005) | 2026-10-13 |
 | Astera Labs | Analog/Mixed-Signal IC Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) | 2026-10-13 |
+| Amazon | Hardware Development Engineer Intern Co-op - Robotics | North Reading, MA; Westborough, MA | [Apply](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) | 2026-10-13 |
 | Meta | Research Scientist Intern - Robotics | Redmond, WA | [Apply](https://www.metacareers.com/jobs/2586686598441521) | 2026-10-12 |
 | Keysight Technologies | Research and Development Hardware Engineer Intern | Austin, TX | [Apply](https://jobs.keysight.com/jobs/54345?icims=1) | 2026-10-12 |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Guidance, Navigation, and Control Systems Engineer | Laurel, MD | [Apply](https://www.linkedin.com/jobs/view/4475689299) | 2026-10-12 |
