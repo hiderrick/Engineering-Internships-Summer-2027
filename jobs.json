@@ -1,5 +1,133 @@
 [
  {
+  "id": "linkedin:4478814931",
+  "source": "linkedin",
+  "company": "yondu",
+  "title": "Mechatronics Intern (Spring/Summer)",
+  "location": "Gardena, CA",
+  "url": "https://www.linkedin.com/jobs/view/4478814931",
+  "date_posted": "2026-10-15",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "id": "linkedin:4477047666",
+  "source": "linkedin",
+  "company": "Leonardo DRS",
+  "title": "Senior Technical Intern - Mechanical",
+  "location": "San Diego, CA",
+  "url": "https://www.linkedin.com/jobs/view/4477047666",
+  "date_posted": "2026-10-15",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "id": "simplify:eed65ade-e9b6-4281-bfea-94e030327a6d",
+  "source": "simplify",
+  "company": "Johnson & Johnson",
+  "title": "External Manufacturing Center of Excellence Intern",
+  "location": "New Brunswick, NJ; Hopewell Township, NJ",
+  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/EM-Center-of-Excellence-Intern_R-103760",
+  "date_posted": "2026-10-15",
+  "term": "N/A",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "id": "linkedin:4476667668",
+  "source": "linkedin",
+  "company": "Ferrovias",
+  "title": "Manufacturing Engineer Intern",
+  "location": "California, United States",
+  "url": "https://www.linkedin.com/jobs/view/4476667668",
+  "date_posted": "2026-10-15",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "id": "linkedin:4479773936",
+  "source": "linkedin",
+  "company": "Advanced Sterilization Products",
+  "title": "Mechanical Engineering Intern",
+  "location": "Irvine, CA",
+  "url": "https://www.linkedin.com/jobs/view/4479773936",
+  "date_posted": "2026-10-15",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "id": "simplify:99d9f40c-43fa-4ed7-9813-99c784ef3e43",
+  "source": "simplify",
+  "company": "onsemi",
+  "title": "Manufacturing AI Engineering Intern",
+  "location": "Hopewell Junction, NY",
+  "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642",
+  "date_posted": "2026-10-14",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "id": "simplify:46b35ec8-88e8-4800-ad1a-d17665e52fa1",
+  "source": "simplify",
+  "company": "RTX",
+  "title": "Electro-Optics Systems Engineer Intern",
+  "location": "Goleta, CA",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960",
+  "date_posted": "2026-10-14",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "id": "simplify:39d525df-99b2-499c-b7b8-c1c7349b46ef",
+  "source": "simplify",
+  "company": "Nissan Global",
+  "title": "AI Robotics Research Intern",
+  "location": "Santa Clara, CA",
+  "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267",
+  "date_posted": "2026-10-14",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "id": "simplify:5dda5cf0-7ad7-41aa-9942-9cccb3a303b8",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs",
+  "location": "Sunnyvale, CA",
+  "url": "https://www.metacareers.com/jobs/1758435721926913",
+  "date_posted": "2026-10-14",
+  "term": "N/A",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "id": "simplify:4c802f1b-d9ec-49bc-8193-d9180e4a61cf",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - Robotics Foundation Models Mid-Training - PhD",
+  "location": "Menlo Park, CA",
+  "url": "https://www.metacareers.com/jobs/1658187582680157",
+  "date_posted": "2026-10-14",
+  "term": "N/A",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "id": "simplify:5feb8f9a-8cad-46ce-8320-b03d6be84b8b",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Manufacturing Test Engineer Intern - AI",
+  "location": "Sunnyvale, CA",
+  "url": "https://www.metacareers.com/jobs/954380870617862",
+  "date_posted": "2026-10-14",
+  "term": "N/A",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "id": "simplify:3660a701-8700-4d11-9572-98c2520bd81c",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Hardware Engineer Intern - Camera & Sensing Architecture",
+  "location": "Redmond, WA; Sunnyvale, CA",
+  "url": "https://www.metacareers.com/jobs/29216393121298039",
+  "date_posted": "2026-10-14",
+  "term": "N/A",
+  "first_seen": "2026-10-15"
+ },
+ {
   "id": "simplify:e7524d34-3342-448c-83e8-2de9a3502b9b",
   "source": "simplify",
   "company": "Field AI",
@@ -61,6 +189,17 @@
   "date_posted": "2026-10-13",
   "term": "N/A",
   "first_seen": "2026-10-14"
+ },
+ {
+  "id": "simplify:a1e15fde-7252-4c7b-b527-90064ced009b",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Production Systems Engineer Intern",
+  "location": "Menlo Park, CA",
+  "url": "https://www.metacareers.com/jobs/1423159169992675",
+  "date_posted": "2026-10-13",
+  "term": "N/A",
+  "first_seen": "2026-10-15"
  },
  {
   "id": "linkedin:4476075833",
@@ -913,6 +1052,17 @@
   "date_posted": "2026-10-05",
   "term": "N/A",
   "first_seen": "2026-10-06"
+ },
+ {
+  "id": "simplify:99f65913-3c2a-46cd-aa19-a1e3e5934d7d",
+  "source": "simplify",
+  "company": "Marvell",
+  "title": "Hardware Engineer Intern",
+  "location": "Santa Clara, CA",
+  "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975",
+  "date_posted": "2026-10-05",
+  "term": "N/A",
+  "first_seen": "2026-10-15"
  },
  {
   "id": "linkedin:4475884988",

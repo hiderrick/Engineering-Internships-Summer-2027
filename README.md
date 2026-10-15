@@ -3,16 +3,29 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-14 19:00 UTC — 342 active postings, 7 new this run._
+_Last updated: 2026-10-15 07:47 UTC — 356 active postings, 14 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| yondu | Mechatronics Intern (Spring/Summer) | Gardena, CA | [Apply](https://www.linkedin.com/jobs/view/4478814931) | 2026-10-15 |
+| Leonardo DRS | Senior Technical Intern - Mechanical | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/4477047666) | 2026-10-15 |
+| Johnson & Johnson | External Manufacturing Center of Excellence Intern | New Brunswick, NJ; Hopewell Township, NJ | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/EM-Center-of-Excellence-Intern_R-103760) | 2026-10-15 |
+| Ferrovias | Manufacturing Engineer Intern | California, United States | [Apply](https://www.linkedin.com/jobs/view/4476667668) | 2026-10-15 |
+| Advanced Sterilization Products | Mechanical Engineering Intern | Irvine, CA | [Apply](https://www.linkedin.com/jobs/view/4479773936) | 2026-10-15 |
+| onsemi | Manufacturing AI Engineering Intern | Hopewell Junction, NY | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642) | 2026-10-14 |
+| RTX | Electro-Optics Systems Engineer Intern | Goleta, CA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960) | 2026-10-14 |
+| Nissan Global | AI Robotics Research Intern | Santa Clara, CA | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267) | 2026-10-14 |
+| Meta | Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs | Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1758435721926913) | 2026-10-14 |
+| Meta | Research Scientist Intern - Robotics Foundation Models Mid-Training - PhD | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/1658187582680157) | 2026-10-14 |
+| Meta | Manufacturing Test Engineer Intern - AI | Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/954380870617862) | 2026-10-14 |
+| Meta | Hardware Engineer Intern - Camera & Sensing Architecture | Redmond, WA; Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/29216393121298039) | 2026-10-14 |
 | Field AI | Robotics Research Intern - Embodied AI | Irvine, CA | [Apply](https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply) | 2026-10-14 |
 | 7-Eleven | Robotics Engineering Intern | Irving, TX | [Apply](https://www.linkedin.com/jobs/view/4479272629) | 2026-10-14 |
 | Wing | Mechanical Engineering Intern, Summer 2027 | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/4478183021) | 2026-10-13 |
 | Wing | Aerodynamics Engineering Intern, Summer 2027 | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/4478183019) | 2026-10-13 |
 | Meta | Research Scientist Intern - Multimodal Generative AI and Robotics | Redmond, WA; Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1139865145249047) | 2026-10-13 |
 | Meta | Research Scientist Intern - 3D World Modeling - Robotics and Generative AI | Burlingame, CA; Redmond, WA; Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1839680137188723) | 2026-10-13 |
+| Meta | Production Systems Engineer Intern | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/1423159169992675) | 2026-10-13 |
 | Life Fitness / Hammer Strength | Mechanical Engineering Intern | Schaumburg, IL | [Apply](https://www.linkedin.com/jobs/view/4476075833) | 2026-10-13 |
 | Keysight Technologies | R&D Hardware Engineer Intern | Santa Rosa, CA | [Apply](https://jobs.keysight.com/jobs/54670?icims=1) | 2026-10-13 |
 | Keysight Technologies | R&D Hardware Design Engineer Intern | Santa Rosa, CA | [Apply](https://jobs.keysight.com/jobs/54389?icims=1) | 2026-10-13 |
@@ -94,6 +107,7 @@ _Last updated: 2026-10-14 19:00 UTC — 342 active postings, 7 new this run._
 | Raytheon | Mechanical Engineer Intern - Air Launched Effectors (2027 Summer) | Tucson, AZ | [Apply](https://www.linkedin.com/jobs/view/4475870906) | 2026-10-05 |
 | Marvell Technology | Hardware Engineer Intern, BS - Summer 2027 | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/4473694276) | 2026-10-05 |
 | Marvell | Hardware Engineer Intern | Santa Clara, CA | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975-1) | 2026-10-05 |
+| Marvell | Hardware Engineer Intern | Santa Clara, CA | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975) | 2026-10-05 |
 | Jacobs | Mechanical Engineering Internship - Summer 2027 | Gainesville, FL | [Apply](https://www.linkedin.com/jobs/view/4475884988) | 2026-10-05 |
 | General Motors | Summer Intern - Global Manufacturing Robotics & Automation | Warren, MI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348) | 2026-10-05 |
 | Cirrus Logic | Product Test Engineer Intern | Austin, TX | [Apply](https://jobs.eu.lever.co/cirrus/46a841b3-e3ce-4c78-b010-0e9cfe9e0f8e/apply) | 2026-10-05 |
