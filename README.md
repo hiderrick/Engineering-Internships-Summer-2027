@@ -3,11 +3,13 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-15 07:47 UTC — 356 active postings, 14 new this run._
+_Last updated: 2026-10-15 18:44 UTC — 359 active postings, 3 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | yondu | Mechatronics Intern (Spring/Summer) | Gardena, CA | [Apply](https://www.linkedin.com/jobs/view/4478814931) | 2026-10-15 |
+| Nissan Motor Corporation | AV Mechanical Engineering Intern - Spring 2027 - Santa Clara, CA | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/4479847210) | 2026-10-15 |
+| Nissan Motor Corporation | AI Robotics Research Intern - Summer 2027 - Santa Clara, CA | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/4479828834) | 2026-10-15 |
 | Leonardo DRS | Senior Technical Intern - Mechanical | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/4477047666) | 2026-10-15 |
 | Johnson & Johnson | External Manufacturing Center of Excellence Intern | New Brunswick, NJ; Hopewell Township, NJ | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/EM-Center-of-Excellence-Intern_R-103760) | 2026-10-15 |
 | Ferrovias | Manufacturing Engineer Intern | California, United States | [Apply](https://www.linkedin.com/jobs/view/4476667668) | 2026-10-15 |
@@ -43,6 +45,7 @@ _Last updated: 2026-10-15 07:47 UTC — 356 active postings, 14 new this run._
 | Bosch USA | Robotics Research Intern | Sunnyvale, CA | [Apply](https://www.linkedin.com/jobs/view/4475687108) | 2026-10-12 |
 | Bosch Home Comfort | Robotics Research Intern | Sunnyvale, CA | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154911489) | 2026-10-12 |
 | Bedrock Robotics | Hardware Engineer Intern | SF | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/f9b20a47-d4b7-48a2-96d6-4e65941fd873/application?embed=true) | 2026-10-12 |
+| Allison Transmission | Internship - Manufacturing Engineer | Greater Indianapolis | [Apply](https://www.linkedin.com/jobs/view/4477941327) | 2026-10-12 |
 | P2S | Mechanical Engineer Internship - Summer 2027 | Irvine, CA | [Apply](https://www.linkedin.com/jobs/view/4476881650) | 2026-10-10 |
 | P2S | Lighting Design Engineer Internship - Summer 2027 | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4476877851) | 2026-10-10 |
 | Meter | Hardware Engineer Intern | SF | [Apply](https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true) | 2026-10-10 |
