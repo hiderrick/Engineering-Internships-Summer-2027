@@ -3,16 +3,19 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-15 18:44 UTC — 359 active postings, 3 new this run._
+_Last updated: 2026-10-16 07:35 UTC — 362 active postings, 3 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | yondu | Mechatronics Intern (Spring/Summer) | Gardena, CA | [Apply](https://www.linkedin.com/jobs/view/4478814931) | 2026-10-15 |
+| Texas Instruments | Device Reliability Engineer Intern | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081) | 2026-10-15 |
 | Nissan Motor Corporation | AV Mechanical Engineering Intern - Spring 2027 - Santa Clara, CA | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/4479847210) | 2026-10-15 |
 | Nissan Motor Corporation | AI Robotics Research Intern - Summer 2027 - Santa Clara, CA | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/4479828834) | 2026-10-15 |
+| Meta | Quality and Reliability Engineer Intern | Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1624891432439039) | 2026-10-15 |
 | Leonardo DRS | Senior Technical Intern - Mechanical | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/4477047666) | 2026-10-15 |
 | Johnson & Johnson | External Manufacturing Center of Excellence Intern | New Brunswick, NJ; Hopewell Township, NJ | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/EM-Center-of-Excellence-Intern_R-103760) | 2026-10-15 |
 | Ferrovias | Manufacturing Engineer Intern | California, United States | [Apply](https://www.linkedin.com/jobs/view/4476667668) | 2026-10-15 |
+| Altera | FPGA IP Design Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----Intern_R03324) | 2026-10-15 |
 | Advanced Sterilization Products | Mechanical Engineering Intern | Irvine, CA | [Apply](https://www.linkedin.com/jobs/view/4479773936) | 2026-10-15 |
 | onsemi | Manufacturing AI Engineering Intern | Hopewell Junction, NY | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642) | 2026-10-14 |
 | RTX | Electro-Optics Systems Engineer Intern | Goleta, CA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960) | 2026-10-14 |
