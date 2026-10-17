@@ -33,3 +33,4 @@
 2026-10-16 07:35 UTC | sources={'linkedin': 'ERROR: GET failed after 3 attempts: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=manufacturing+engineer+intern&location=United+States&f_TPR=r604800%22&start=10&f_E=1 (HTTP Error 429: Too Many Requests)', 'simplify': 57, 'ats': 20} | new=3 | total=362
 2026-10-16 18:29 UTC | sources={'linkedin': 147, 'simplify': 57, 'ats': 20} | new=4 | total=366
 2026-10-17 07:15 UTC | sources={'linkedin': 'ERROR: GET failed after 3 attempts: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=hardware+engineer+intern&location=United+States&f_TPR=r604800%22&start=10&f_E=1 (HTTP Error 429: Too Many Requests)', 'simplify': 61, 'ats': 20} | new=4 | total=370
+2026-10-17 17:35 UTC | sources={'linkedin': 148, 'simplify': 61, 'ats': 20} | new=2 | total=372

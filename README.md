@@ -3,10 +3,12 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-17 07:15 UTC — 370 active postings, 4 new this run._
+_Last updated: 2026-10-17 17:35 UTC — 372 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| CesiumAstro | Summer 2027 - Flight Dynamics Internship | Huntsville, AL | [Apply](https://www.linkedin.com/jobs/view/4480585872) | 2026-10-17 |
+| CACI International Inc | Aerospace Engineer Intern - Summer 2027 | Aberdeen Proving Ground, MD | [Apply](https://www.linkedin.com/jobs/view/4477776728) | 2026-10-17 |
 | University of Texas at Austin | Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Science | Austin, TX | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant--Remote-Sensing--UAV-Satellite-Image-Processing--and-Computer-Science_R_00049490) | 2026-10-16 |
 | Textron | 2027 Internship - Aerodynamics Engineer | Wichita, KS | [Apply](https://www.linkedin.com/jobs/view/4477710111) | 2026-10-16 |
 | Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721615591) | 2026-10-16 |
