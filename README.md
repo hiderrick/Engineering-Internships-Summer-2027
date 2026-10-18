@@ -3,15 +3,19 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-17 17:35 UTC — 372 active postings, 2 new this run._
+_Last updated: 2026-10-18 07:29 UTC — 376 active postings, 4 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Leonardo | Test Systems Engineer Intern | Edinburgh, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Systems-Engineer_R0034207) | 2026-10-18 |
+| Leonardo | Hardware Engineer Intern | Luton, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Hardware-Engineer_R0032911) | 2026-10-18 |
 | CesiumAstro | Summer 2027 - Flight Dynamics Internship | Huntsville, AL | [Apply](https://www.linkedin.com/jobs/view/4480585872) | 2026-10-17 |
 | CACI International Inc | Aerospace Engineer Intern - Summer 2027 | Aberdeen Proving Ground, MD | [Apply](https://www.linkedin.com/jobs/view/4477776728) | 2026-10-17 |
+| CACI International Inc | Aerospace Engineer Intern - Summer 2027 | Aberdeen Proving Ground, MD | [Apply](https://www.linkedin.com/jobs/view/4477770926) | 2026-10-17 |
 | University of Texas at Austin | Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Science | Austin, TX | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant--Remote-Sensing--UAV-Satellite-Image-Processing--and-Computer-Science_R_00049490) | 2026-10-16 |
 | Textron | 2027 Internship - Aerodynamics Engineer | Wichita, KS | [Apply](https://www.linkedin.com/jobs/view/4477710111) | 2026-10-16 |
 | Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721615591) | 2026-10-16 |
+| Micron Technology | Memory Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112529) | 2026-10-16 |
 | Meta | Production Systems Engineer Intern | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/4536253699919879) | 2026-10-16 |
 | Alliaxis | Manufacturing Excellence Co-op Student | Oakville, ON, Canada | [Apply](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-2) | 2026-10-16 |
 | yondu | Mechatronics Intern (Spring/Summer) | Gardena, CA | [Apply](https://www.linkedin.com/jobs/view/4478814931) | 2026-10-15 |
