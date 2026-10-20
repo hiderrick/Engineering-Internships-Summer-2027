@@ -1,5 +1,152 @@
 [
  {
+  "id": "linkedin:4478664197",
+  "source": "linkedin",
+  "company": "The Aerospace Corporation",
+  "title": "2027 Electromechanical Undergraduate Intern",
+  "location": "El Segundo, CA",
+  "url": "https://www.linkedin.com/jobs/view/4478664197",
+  "date_posted": "2026-10-20",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "linkedin:4481501574",
+  "source": "linkedin",
+  "company": "Los Alamos National Laboratory",
+  "title": "Robotics & Automation Intern - Undergraduate",
+  "location": "Los Alamos, NM",
+  "url": "https://www.linkedin.com/jobs/view/4481501574",
+  "date_posted": "2026-10-20",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "linkedin:4481516781",
+  "source": "linkedin",
+  "company": "Impulse Space",
+  "title": "Propulsion Engineering Intern (Summer 2027)",
+  "location": "Redondo Beach, CA",
+  "url": "https://www.linkedin.com/jobs/view/4481516781",
+  "date_posted": "2026-10-20",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "linkedin:4481501812",
+  "source": "linkedin",
+  "company": "Clean Harbors",
+  "title": "Mechanical Project Engineer Intern - Summer 2027",
+  "location": "Dugway, UT",
+  "url": "https://www.linkedin.com/jobs/view/4481501812",
+  "date_posted": "2026-10-20",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "linkedin:4481233799",
+  "source": "linkedin",
+  "company": "Ursa Major",
+  "title": "2027 Summer In-Space Propulsion Engineering Intern",
+  "location": "Berthoud, CO",
+  "url": "https://www.linkedin.com/jobs/view/4481233799",
+  "date_posted": "2026-10-19",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "simplify:230b2e34-559a-447a-a712-6fe2661159c2",
+  "source": "simplify",
+  "company": "The Allen Institute for AI",
+  "title": "Research Intern - Robotics",
+  "location": "Seattle, WA",
+  "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641",
+  "date_posted": "2026-10-19",
+  "term": "Spring 2027, Summer 2027",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "linkedin:4480207700",
+  "source": "linkedin",
+  "company": "Stryker",
+  "title": "Summer 2027 Internship - Mechanical Engineering - California",
+  "location": "San Jose, CA",
+  "url": "https://www.linkedin.com/jobs/view/4480207700",
+  "date_posted": "2026-10-19",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "linkedin:4479979417",
+  "source": "linkedin",
+  "company": "Stryker",
+  "title": "Summer 2027 Internship - Mechanical Engineering - California",
+  "location": "Fremont, CA",
+  "url": "https://www.linkedin.com/jobs/view/4479979417",
+  "date_posted": "2026-10-19",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "simplify:f5b59029-db98-4468-a347-16a833889859",
+  "source": "simplify",
+  "company": "Micron Technology",
+  "title": "HBM Design Engineer Intern - HBM",
+  "location": "Richardson, TX",
+  "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545",
+  "date_posted": "2026-10-19",
+  "term": "N/A",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "simplify:2e48d484-f46d-4b03-9fd0-f475823d90c1",
+  "source": "simplify",
+  "company": "Micron Technology",
+  "title": "Design Engineer Intern - High Bandwidth Memory",
+  "location": "Richardson, TX",
+  "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552",
+  "date_posted": "2026-10-19",
+  "term": "N/A",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "simplify:a889da3c-0293-4e84-82f0-2a1461d9ef61",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - Robotics Hardware",
+  "location": "Redmond, WA",
+  "url": "https://www.metacareers.com/jobs/2105411693413958",
+  "date_posted": "2026-10-19",
+  "term": "N/A",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "simplify:b8db69f4-9b3f-4c48-9334-daa51e9d5fc7",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - 3D-grounded Generalist Model for Robotics",
+  "location": "Redmond, WA",
+  "url": "https://www.metacareers.com/jobs/2267351860492630",
+  "date_posted": "2026-10-19",
+  "term": "N/A",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "simplify:30a3c80e-840f-4169-9d2e-0719e250cf1a",
+  "source": "simplify",
+  "company": "Keysight Technologies",
+  "title": "R&D Hardware Engineer Intern",
+  "location": "Santa Clara, CA",
+  "url": "https://jobs.keysight.com/jobs/54804?icims=1",
+  "date_posted": "2026-10-19",
+  "term": "N/A",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "simplify:9f100b0b-5ea2-4aea-b312-c15d32e8e8c8",
+  "source": "simplify",
+  "company": "Carrier Global",
+  "title": "Test Engineer Intern",
+  "location": "Fort Wayne, IN",
+  "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233",
+  "date_posted": "2026-10-19",
+  "term": "Summer 2026",
+  "first_seen": "2026-10-20"
+ },
+ {
   "id": "simplify:59bdfd45-b610-4452-a4b4-cbf96c4990ee",
   "source": "simplify",
   "company": "Leonardo",
@@ -271,6 +418,17 @@
   "date_posted": "2026-10-14",
   "term": "Summer 2027",
   "first_seen": "2026-10-15"
+ },
+ {
+  "id": "simplify:e8d5904f-b5d2-4f6e-ae9d-04ae36fddf96",
+  "source": "simplify",
+  "company": "RTX",
+  "title": "Systems Engineer Intern",
+  "location": "Marlborough, MA",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697",
+  "date_posted": "2026-10-14",
+  "term": "N/A",
+  "first_seen": "2026-10-20"
  },
  {
   "id": "simplify:39d525df-99b2-499c-b7b8-c1c7349b46ef",
@@ -998,6 +1156,17 @@
   "url": "https://www.linkedin.com/jobs/view/4476911384",
   "date_posted": "2026-10-07",
   "first_seen": "2026-10-07"
+ },
+ {
+  "id": "simplify:1ab7eba7-7331-4200-83ba-421b4d593c6b",
+  "source": "simplify",
+  "company": "Hewlett Packard Enterprise",
+  "title": "Hardware Engineer Intern",
+  "location": "Sunnyvale, CA",
+  "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214159",
+  "date_posted": "2026-10-07",
+  "term": "N/A",
+  "first_seen": "2026-10-20"
  },
  {
   "id": "simplify:4a6e8ef4-3dae-4beb-a21a-7d28fe814b98",

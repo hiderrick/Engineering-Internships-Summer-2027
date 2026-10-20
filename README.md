@@ -3,10 +3,24 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-19 20:16 UTC — 376 active postings._
+_Last updated: 2026-10-20 07:58 UTC — 392 active postings, 16 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| The Aerospace Corporation | 2027 Electromechanical Undergraduate Intern | El Segundo, CA | [Apply](https://www.linkedin.com/jobs/view/4478664197) | 2026-10-20 |
+| Los Alamos National Laboratory | Robotics & Automation Intern - Undergraduate | Los Alamos, NM | [Apply](https://www.linkedin.com/jobs/view/4481501574) | 2026-10-20 |
+| Impulse Space | Propulsion Engineering Intern (Summer 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4481516781) | 2026-10-20 |
+| Clean Harbors | Mechanical Project Engineer Intern - Summer 2027 | Dugway, UT | [Apply](https://www.linkedin.com/jobs/view/4481501812) | 2026-10-20 |
+| Ursa Major | 2027 Summer In-Space Propulsion Engineering Intern | Berthoud, CO | [Apply](https://www.linkedin.com/jobs/view/4481233799) | 2026-10-19 |
+| The Allen Institute for AI | Research Intern - Robotics | Seattle, WA | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) | 2026-10-19 |
+| Stryker | Summer 2027 Internship - Mechanical Engineering - California | San Jose, CA | [Apply](https://www.linkedin.com/jobs/view/4480207700) | 2026-10-19 |
+| Stryker | Summer 2027 Internship - Mechanical Engineering - California | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/4479979417) | 2026-10-19 |
+| Micron Technology | HBM Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545) | 2026-10-19 |
+| Micron Technology | Design Engineer Intern - High Bandwidth Memory | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552) | 2026-10-19 |
+| Meta | Research Scientist Intern - Robotics Hardware | Redmond, WA | [Apply](https://www.metacareers.com/jobs/2105411693413958) | 2026-10-19 |
+| Meta | Research Scientist Intern - 3D-grounded Generalist Model for Robotics | Redmond, WA | [Apply](https://www.metacareers.com/jobs/2267351860492630) | 2026-10-19 |
+| Keysight Technologies | R&D Hardware Engineer Intern | Santa Clara, CA | [Apply](https://jobs.keysight.com/jobs/54804?icims=1) | 2026-10-19 |
+| Carrier Global | Test Engineer Intern | Fort Wayne, IN | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233) | 2026-10-19 |
 | Leonardo | Test Systems Engineer Intern | Edinburgh, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Systems-Engineer_R0034207) | 2026-10-18 |
 | Leonardo | Hardware Engineer Intern | Luton, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Hardware-Engineer_R0032911) | 2026-10-18 |
 | CesiumAstro | Summer 2027 - Flight Dynamics Internship | Huntsville, AL | [Apply](https://www.linkedin.com/jobs/view/4480585872) | 2026-10-17 |
@@ -33,6 +47,7 @@ _Last updated: 2026-10-19 20:16 UTC — 376 active postings._
 | Advanced Sterilization Products | Mechanical Engineering Intern | Irvine, CA | [Apply](https://www.linkedin.com/jobs/view/4479773936) | 2026-10-15 |
 | onsemi | Manufacturing AI Engineering Intern | Hopewell Junction, NY | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642) | 2026-10-14 |
 | RTX | Electro-Optics Systems Engineer Intern | Goleta, CA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960) | 2026-10-14 |
+| RTX | Systems Engineer Intern | Marlborough, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697) | 2026-10-14 |
 | Nissan Global | AI Robotics Research Intern | Santa Clara, CA | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267) | 2026-10-14 |
 | Meta | Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs | Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1758435721926913) | 2026-10-14 |
 | Meta | Research Scientist Intern - Robotics Foundation Models Mid-Training - PhD | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/1658187582680157) | 2026-10-14 |
@@ -102,6 +117,7 @@ _Last updated: 2026-10-19 20:16 UTC — 376 active postings._
 | Nissan Global | Systems Engineer Intern - Summer 2027 | Canton, MS | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882) | 2026-10-07 |
 | Lexair, Inc. | Spring Intern Co-Op Mechanical Engineer | Lexington, KY | [Apply](https://www.linkedin.com/jobs/view/4475178955) | 2026-10-07 |
 | Impulse Space | Avionics Mechanical Engineering Intern (Summer 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4476911384) | 2026-10-07 |
+| Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214159) | 2026-10-07 |
 | General Motors | Systems Engineer Intern - Asd | Milford, MI; Warren, MI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989) | 2026-10-07 |
 | General Dynamics Mission Systems | Manufacturing Engineering Intern | Scottsdale, AZ | [Apply](https://www.linkedin.com/jobs/view/4475494738) | 2026-10-07 |
 | Vantor | Summer Internship: Aerospace Modeling & Simulation | Herndon, VA | [Apply](https://www.linkedin.com/jobs/view/4476352601) | 2026-10-06 |
