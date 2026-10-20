@@ -3,13 +3,18 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-20 07:58 UTC — 392 active postings, 16 new this run._
+_Last updated: 2026-10-20 18:48 UTC — 397 active postings, 5 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| York Space Systems | Mechanical Design Engineering Intern | Greenwood Village, CO | [Apply](https://www.linkedin.com/jobs/view/4478908604) | 2026-10-20 |
+| Vermeer Corporation | Manufacturing Engineer Intern | Piedmont, SC | [Apply](https://www.linkedin.com/jobs/view/4480458894) | 2026-10-20 |
 | The Aerospace Corporation | 2027 Electromechanical Undergraduate Intern | El Segundo, CA | [Apply](https://www.linkedin.com/jobs/view/4478664197) | 2026-10-20 |
 | Los Alamos National Laboratory | Robotics & Automation Intern - Undergraduate | Los Alamos, NM | [Apply](https://www.linkedin.com/jobs/view/4481501574) | 2026-10-20 |
+| Los Alamos National Laboratory | Robotics & Automation Intern - Graduate | Los Alamos, NM | [Apply](https://www.linkedin.com/jobs/view/4481578168) | 2026-10-20 |
+| Keysight Technologies | R&D Hardware Engineer Intern | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/4478635568) | 2026-10-20 |
 | Impulse Space | Propulsion Engineering Intern (Summer 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4481516781) | 2026-10-20 |
+| Graphcore | Manufacturing Operations Intern - Product Test | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894363002) | 2026-10-20 |
 | Clean Harbors | Mechanical Project Engineer Intern - Summer 2027 | Dugway, UT | [Apply](https://www.linkedin.com/jobs/view/4481501812) | 2026-10-20 |
 | Ursa Major | 2027 Summer In-Space Propulsion Engineering Intern | Berthoud, CO | [Apply](https://www.linkedin.com/jobs/view/4481233799) | 2026-10-19 |
 | The Allen Institute for AI | Research Intern - Robotics | Seattle, WA | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) | 2026-10-19 |

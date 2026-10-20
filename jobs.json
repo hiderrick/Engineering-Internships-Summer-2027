@@ -1,5 +1,25 @@
 [
  {
+  "id": "linkedin:4478908604",
+  "source": "linkedin",
+  "company": "York Space Systems",
+  "title": "Mechanical Design Engineering Intern",
+  "location": "Greenwood Village, CO",
+  "url": "https://www.linkedin.com/jobs/view/4478908604",
+  "date_posted": "2026-10-20",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "linkedin:4480458894",
+  "source": "linkedin",
+  "company": "Vermeer Corporation",
+  "title": "Manufacturing Engineer Intern",
+  "location": "Piedmont, SC",
+  "url": "https://www.linkedin.com/jobs/view/4480458894",
+  "date_posted": "2026-10-20",
+  "first_seen": "2026-10-20"
+ },
+ {
   "id": "linkedin:4478664197",
   "source": "linkedin",
   "company": "The Aerospace Corporation",
@@ -20,6 +40,26 @@
   "first_seen": "2026-10-20"
  },
  {
+  "id": "linkedin:4481578168",
+  "source": "linkedin",
+  "company": "Los Alamos National Laboratory",
+  "title": "Robotics & Automation Intern - Graduate",
+  "location": "Los Alamos, NM",
+  "url": "https://www.linkedin.com/jobs/view/4481578168",
+  "date_posted": "2026-10-20",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "linkedin:4478635568",
+  "source": "linkedin",
+  "company": "Keysight Technologies",
+  "title": "R&D Hardware Engineer Intern",
+  "location": "Santa Clara, CA",
+  "url": "https://www.linkedin.com/jobs/view/4478635568",
+  "date_posted": "2026-10-20",
+  "first_seen": "2026-10-20"
+ },
+ {
   "id": "linkedin:4481516781",
   "source": "linkedin",
   "company": "Impulse Space",
@@ -27,6 +67,17 @@
   "location": "Redondo Beach, CA",
   "url": "https://www.linkedin.com/jobs/view/4481516781",
   "date_posted": "2026-10-20",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "simplify:4a82d709-fc63-4a27-be84-b20df8cf3359",
+  "source": "simplify",
+  "company": "Graphcore",
+  "title": "Manufacturing Operations Intern - Product Test",
+  "location": "Bristol, UK",
+  "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894363002",
+  "date_posted": "2026-10-20",
+  "term": "Summer 2027",
   "first_seen": "2026-10-20"
  },
  {
