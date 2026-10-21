@@ -3,19 +3,28 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-20 18:48 UTC — 397 active postings, 5 new this run._
+_Last updated: 2026-10-21 08:03 UTC — 406 active postings, 9 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Zebra Technologies | Mechanical Engineer Intern | Holtsville, NY | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627) | 2026-10-20 |
 | York Space Systems | Mechanical Design Engineering Intern | Greenwood Village, CO | [Apply](https://www.linkedin.com/jobs/view/4478908604) | 2026-10-20 |
 | Vermeer Corporation | Manufacturing Engineer Intern | Piedmont, SC | [Apply](https://www.linkedin.com/jobs/view/4480458894) | 2026-10-20 |
 | The Aerospace Corporation | 2027 Electromechanical Undergraduate Intern | El Segundo, CA | [Apply](https://www.linkedin.com/jobs/view/4478664197) | 2026-10-20 |
+| Skydio | Wireless Hardware Engineer Intern | San Mateo, CA | [Apply](https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true) | 2026-10-20 |
+| Micron Technology | Design Engineer Intern - Pathfinding | San Jose, CA; Folsom, CA | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189) | 2026-10-20 |
+| Meta | Research Scientist Intern - Computational Imaging and Robotics | Redmond, WA | [Apply](https://www.metacareers.com/jobs/2857194467985784) | 2026-10-20 |
 | Los Alamos National Laboratory | Robotics & Automation Intern - Undergraduate | Los Alamos, NM | [Apply](https://www.linkedin.com/jobs/view/4481501574) | 2026-10-20 |
 | Los Alamos National Laboratory | Robotics & Automation Intern - Graduate | Los Alamos, NM | [Apply](https://www.linkedin.com/jobs/view/4481578168) | 2026-10-20 |
 | Keysight Technologies | R&D Hardware Engineer Intern | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/4478635568) | 2026-10-20 |
 | Impulse Space | Propulsion Engineering Intern (Summer 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4481516781) | 2026-10-20 |
+| Green Guava Tech Labs | Robotics Simulation On-Job Intern | Boston, MA | [Apply](https://www.linkedin.com/jobs/view/4481784253) | 2026-10-20 |
 | Graphcore | Manufacturing Operations Intern - Product Test | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894363002) | 2026-10-20 |
+| Dell Technologies | Hardware Engineer 1 Intern | Austin, TX | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141) | 2026-10-20 |
 | Clean Harbors | Mechanical Project Engineer Intern - Summer 2027 | Dugway, UT | [Apply](https://www.linkedin.com/jobs/view/4481501812) | 2026-10-20 |
+| Analog Devices | Analog Design Engineer Intern - Audio | Edinburgh, UK | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Audio-_R267095) | 2026-10-20 |
+| Analog Devices | Analog Design Engineer Intern - Power Management | Edinburgh, UK | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Power-Management-_R267094-1) | 2026-10-20 |
+| Altera | FPGA IP Design Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299) | 2026-10-20 |
 | Ursa Major | 2027 Summer In-Space Propulsion Engineering Intern | Berthoud, CO | [Apply](https://www.linkedin.com/jobs/view/4481233799) | 2026-10-19 |
 | The Allen Institute for AI | Research Intern - Robotics | Seattle, WA | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) | 2026-10-19 |
 | Stryker | Summer 2027 Internship - Mechanical Engineering - California | San Jose, CA | [Apply](https://www.linkedin.com/jobs/view/4480207700) | 2026-10-19 |
