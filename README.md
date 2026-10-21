@@ -3,10 +3,12 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-21 08:03 UTC — 406 active postings, 9 new this run._
+_Last updated: 2026-10-21 19:00 UTC — 408 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Meta | Research Scientist Intern - Robotics - World Models & Embodied AI | London, UK | [Apply](https://www.metacareers.com/jobs/2281070982817094) | 2026-10-21 |
+| Analog Devices | Analog Design Engineer Intern | United Kingdom | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern_R267421) | 2026-10-21 |
 | Zebra Technologies | Mechanical Engineer Intern | Holtsville, NY | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627) | 2026-10-20 |
 | York Space Systems | Mechanical Design Engineering Intern | Greenwood Village, CO | [Apply](https://www.linkedin.com/jobs/view/4478908604) | 2026-10-20 |
 | Vermeer Corporation | Manufacturing Engineer Intern | Piedmont, SC | [Apply](https://www.linkedin.com/jobs/view/4480458894) | 2026-10-20 |
