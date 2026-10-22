@@ -3,10 +3,11 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-22 08:01 UTC — 416 active postings, 8 new this run._
+_Last updated: 2026-10-22 18:55 UTC — 418 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Oshkosh | Digital Manufacturing Intern | Spartanburg, SC | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065) | 2026-10-22 |
 | Qualcomm | Display Systems Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661677) | 2026-10-21 |
 | Parsons | Computer Vision/Robotics Intern | Westminster, CO | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402) | 2026-10-21 |
 | NVIDIA | Research Intern - Robotic Perception and Learning | Seattle, WA; Redmond, WA; Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) | 2026-10-21 |
@@ -42,6 +43,7 @@ _Last updated: 2026-10-22 08:01 UTC — 416 active postings, 8 new this run._
 | Meta | Research Scientist Intern - Robotics Hardware | Redmond, WA | [Apply](https://www.metacareers.com/jobs/2105411693413958) | 2026-10-19 |
 | Meta | Research Scientist Intern - 3D-grounded Generalist Model for Robotics | Redmond, WA | [Apply](https://www.metacareers.com/jobs/2267351860492630) | 2026-10-19 |
 | Keysight Technologies | R&D Hardware Engineer Intern | Santa Clara, CA | [Apply](https://jobs.keysight.com/jobs/54804?icims=1) | 2026-10-19 |
+| Hilmar | Intern - Manufacturing (3 Openings) | Hilmar, CA | [Apply](https://www.linkedin.com/jobs/view/4481502244) | 2026-10-19 |
 | Carrier Global | Test Engineer Intern | Fort Wayne, IN | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233) | 2026-10-19 |
 | Leonardo | Test Systems Engineer Intern | Edinburgh, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Systems-Engineer_R0034207) | 2026-10-18 |
 | Leonardo | Hardware Engineer Intern | Luton, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Hardware-Engineer_R0032911) | 2026-10-18 |
