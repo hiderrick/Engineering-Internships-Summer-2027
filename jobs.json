@@ -1,5 +1,38 @@
 [
  {
+  "id": "simplify:d953ea49-1b23-4215-b939-c264146bd112",
+  "source": "simplify",
+  "company": "Qualcomm",
+  "title": "Display Systems Engineer Intern",
+  "location": "Markham, ON, Canada",
+  "url": "https://qualcomm.eightfold.ai/careers/job/446721661677",
+  "date_posted": "2026-10-21",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-22"
+ },
+ {
+  "id": "simplify:697dae09-767d-472a-a894-401a312cd1c9",
+  "source": "simplify",
+  "company": "Parsons",
+  "title": "Computer Vision/Robotics Intern",
+  "location": "Westminster, CO",
+  "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402",
+  "date_posted": "2026-10-21",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-22"
+ },
+ {
+  "id": "simplify:70557434-b7bd-444b-9ab3-93a161ec0253",
+  "source": "simplify",
+  "company": "NVIDIA",
+  "title": "Research Intern - Robotic Perception and Learning",
+  "location": "Seattle, WA; Redmond, WA; Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089",
+  "date_posted": "2026-10-21",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-22"
+ },
+ {
   "id": "simplify:2649142c-09b6-4a9e-84cd-10f97d29c2c1",
   "source": "simplify",
   "company": "Meta",
@@ -9,6 +42,39 @@
   "date_posted": "2026-10-21",
   "term": "N/A",
   "first_seen": "2026-10-21"
+ },
+ {
+  "id": "simplify:cfaefc82-5787-4e0b-8091-f6b29bce3bda",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - Foundational Models for Robotics Research",
+  "location": "Menlo Park, CA",
+  "url": "https://www.metacareers.com/jobs/1078644001656413",
+  "date_posted": "2026-10-21",
+  "term": "N/A",
+  "first_seen": "2026-10-22"
+ },
+ {
+  "id": "simplify:b63c4110-277f-4996-b55f-2ae481bcaac2",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - Multimodal Learning for Robotics - PhD",
+  "location": "Burlingame, CA",
+  "url": "https://www.metacareers.com/jobs/1656954472496223",
+  "date_posted": "2026-10-21",
+  "term": "N/A",
+  "first_seen": "2026-10-22"
+ },
+ {
+  "id": "simplify:58a18c55-845e-4263-98d7-78701275167e",
+  "source": "simplify",
+  "company": "Anduril",
+  "title": "Robotics Engineer Co-op",
+  "location": "Quincy, MA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007",
+  "date_posted": "2026-10-21",
+  "term": "Winter 2027",
+  "first_seen": "2026-10-22"
  },
  {
   "id": "simplify:4133676f-6b7b-4e51-94b2-df7caa7496db",
@@ -464,6 +530,16 @@
   "url": "https://www.linkedin.com/jobs/view/4480125839",
   "date_posted": "2026-10-15",
   "first_seen": "2026-10-16"
+ },
+ {
+  "id": "linkedin:4479743559",
+  "source": "linkedin",
+  "company": "PACCAR Engine Company",
+  "title": "Manufacturing Engineering/Hot Test Intern Spring 2027",
+  "location": "Columbus, MS",
+  "url": "https://www.linkedin.com/jobs/view/4479743559",
+  "date_posted": "2026-10-15",
+  "first_seen": "2026-10-22"
  },
  {
   "id": "linkedin:4479847210",
@@ -1222,6 +1298,16 @@
   "url": "https://www.linkedin.com/jobs/view/4477462977",
   "date_posted": "2026-10-08",
   "first_seen": "2026-10-09"
+ },
+ {
+  "id": "linkedin:4477461976",
+  "source": "linkedin",
+  "company": "AV",
+  "title": "Summer 2027 Autonomy & Robotics Engineering Intern",
+  "location": "Moorpark, CA",
+  "url": "https://www.linkedin.com/jobs/view/4477461976",
+  "date_posted": "2026-10-08",
+  "first_seen": "2026-10-22"
  },
  {
   "id": "simplify:560dca20-ee7d-4406-bef2-be998ced912d",

@@ -3,11 +3,17 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-21 19:00 UTC — 408 active postings, 2 new this run._
+_Last updated: 2026-10-22 08:01 UTC — 416 active postings, 8 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Qualcomm | Display Systems Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661677) | 2026-10-21 |
+| Parsons | Computer Vision/Robotics Intern | Westminster, CO | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402) | 2026-10-21 |
+| NVIDIA | Research Intern - Robotic Perception and Learning | Seattle, WA; Redmond, WA; Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) | 2026-10-21 |
 | Meta | Research Scientist Intern - Robotics - World Models & Embodied AI | London, UK | [Apply](https://www.metacareers.com/jobs/2281070982817094) | 2026-10-21 |
+| Meta | Research Scientist Intern - Foundational Models for Robotics Research | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/1078644001656413) | 2026-10-21 |
+| Meta | Research Scientist Intern - Multimodal Learning for Robotics - PhD | Burlingame, CA | [Apply](https://www.metacareers.com/jobs/1656954472496223) | 2026-10-21 |
+| Anduril | Robotics Engineer Co-op | Quincy, MA | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271842007) | 2026-10-21 |
 | Analog Devices | Analog Design Engineer Intern | United Kingdom | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern_R267421) | 2026-10-21 |
 | Zebra Technologies | Mechanical Engineer Intern | Holtsville, NY | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627) | 2026-10-20 |
 | York Space Systems | Mechanical Design Engineering Intern | Greenwood Village, CO | [Apply](https://www.linkedin.com/jobs/view/4478908604) | 2026-10-20 |
@@ -51,6 +57,7 @@ _Last updated: 2026-10-21 19:00 UTC — 408 active postings, 2 new this run._
 | yondu | Mechatronics Intern (Spring/Summer) | Gardena, CA | [Apply](https://www.linkedin.com/jobs/view/4478814931) | 2026-10-15 |
 | Texas Instruments | Device Reliability Engineer Intern | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081) | 2026-10-15 |
 | PACCAR Engine Company | Manufacturing Engineering/Assembly Intern Spring 2027 | Columbus, MS | [Apply](https://www.linkedin.com/jobs/view/4480125839) | 2026-10-15 |
+| PACCAR Engine Company | Manufacturing Engineering/Hot Test Intern Spring 2027 | Columbus, MS | [Apply](https://www.linkedin.com/jobs/view/4479743559) | 2026-10-15 |
 | Nissan Motor Corporation | AV Mechanical Engineering Intern - Spring 2027 - Santa Clara, CA | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/4479847210) | 2026-10-15 |
 | Nissan Motor Corporation | AI Robotics Research Intern - Summer 2027 - Santa Clara, CA | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/4479828834) | 2026-10-15 |
 | Meta | Quality and Reliability Engineer Intern | Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1624891432439039) | 2026-10-15 |
@@ -123,6 +130,7 @@ _Last updated: 2026-10-21 19:00 UTC — 408 active postings, 2 new this run._
 | Aptiv | Mechanical Engineering Intern - Tooling | Warren, OH | [Apply](https://www.linkedin.com/jobs/view/4477129376) | 2026-10-08 |
 | AeroVironment | Autonomy & Robotics Engineer Intern | Germantown, MD; Dayton, OH; Pottstown, PA; Albuquerque, NM; Sunrise, FL; Arlington County, Arlington, VA; Melbourne, FL; Petaluma, CA; Minneapolis, MN; Herndon, VA; Huntsville, AL; San Diego, CA; Moorpark, CA; Simi Valley, CA | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556) | 2026-10-08 |
 | AV | Summer 2027 Autonomy & Robotics Engineering Intern | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/4477462977) | 2026-10-08 |
+| AV | Summer 2027 Autonomy & Robotics Engineering Intern | Moorpark, CA | [Apply](https://www.linkedin.com/jobs/view/4477461976) | 2026-10-08 |
 | Werfen | Acute Care Hardware Systems Engineer Co-op | Bedford, MA | [Apply](https://careers-werfen.icims.com/jobs/10995/job?mobile=true&needsRedirect=false) | 2026-10-07 |
 | Waymo | 2027 Summer Intern, MS/PhD, Perception, Robotics | Mountain View, CA | [Apply](https://www.linkedin.com/jobs/view/4475496567) | 2026-10-07 |
 | Waymo | Perception Intern - Robotics | Mountain View, CA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227633) | 2026-10-07 |
