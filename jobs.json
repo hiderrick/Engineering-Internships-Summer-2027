@@ -1,5 +1,59 @@
 [
  {
+  "id": "simplify:2c21f399-8e2e-449c-84e9-1d5eb6369068",
+  "source": "simplify",
+  "company": "Amazon",
+  "title": "Economics Intern - Structural IO",
+  "location": "Seattle, WA; Arlington County, Arlington, VA; NYC; Bellevue, WA",
+  "url": "https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027",
+  "date_posted": "2026-10-23",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "simplify:ae4d3c51-a6cc-4491-a1a6-7872c85856f6",
+  "source": "simplify",
+  "company": "Amazon",
+  "title": "Frontier AI & Robotics Intern - Undergraduate",
+  "location": "SF",
+  "url": "https://amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics",
+  "date_posted": "2026-10-23",
+  "term": "N/A",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "simplify:f1608d09-987a-492d-8dc1-3007fd0b3f0e",
+  "source": "simplify",
+  "company": "Amazon",
+  "title": "Applied Science Intern - Frontier AI & Robotics",
+  "location": "Seattle, WA; SF",
+  "url": "https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics",
+  "date_posted": "2026-10-23",
+  "term": "Summer 2026, Fall 2026",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "linkedin:4482779329",
+  "source": "linkedin",
+  "company": "Ursa Major",
+  "title": "2027 Summer Propulsion Engineer, Hypersonic Vehicle Intern",
+  "location": "Berthoud, CO",
+  "url": "https://www.linkedin.com/jobs/view/4482779329",
+  "date_posted": "2026-10-22",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "simplify:e3e90086-74af-4597-8e04-73d96261bd06",
+  "source": "simplify",
+  "company": "Peak Energy",
+  "title": "Systems Integration and Test Engineer Intern",
+  "location": "Burlingame, CA",
+  "url": "https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007",
+  "date_posted": "2026-10-22",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-23"
+ },
+ {
   "id": "simplify:cfa0ad0d-5137-49c2-9578-79f159b122c1",
   "source": "simplify",
   "company": "Oshkosh",
@@ -9,6 +63,47 @@
   "date_posted": "2026-10-22",
   "term": "Summer 2026",
   "first_seen": "2026-10-22"
+ },
+ {
+  "id": "linkedin:4482708810",
+  "source": "linkedin",
+  "company": "Impulse Space",
+  "title": "Propulsion Engineering Intern (Summer 2027)",
+  "location": "Redondo Beach, CA",
+  "url": "https://www.linkedin.com/jobs/view/4482708810",
+  "date_posted": "2026-10-22",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "linkedin:4480073462",
+  "source": "linkedin",
+  "company": "DoorDash",
+  "title": "Mechanical Engineering, Intern - Labs (Summer 2027)",
+  "location": "Oakland, CA",
+  "url": "https://www.linkedin.com/jobs/view/4480073462",
+  "date_posted": "2026-10-22",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "linkedin:4480040666",
+  "source": "linkedin",
+  "company": "DoorDash",
+  "title": "Drone Operations, Intern - Labs (Summer 2027)",
+  "location": "San Francisco, CA",
+  "url": "https://www.linkedin.com/jobs/view/4480040666",
+  "date_posted": "2026-10-22",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "id": "simplify:817f555e-9822-4bbe-8c31-814342af525f",
+  "source": "simplify",
+  "company": "Ambarella",
+  "title": "Physical Design Engineer Intern",
+  "location": "United States",
+  "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393",
+  "date_posted": "2026-10-22",
+  "term": "N/A",
+  "first_seen": "2026-10-23"
  },
  {
   "id": "simplify:d953ea49-1b23-4215-b939-c264146bd112",
@@ -277,6 +372,16 @@
   "first_seen": "2026-10-21"
  },
  {
+  "id": "linkedin:4480711956",
+  "source": "linkedin",
+  "company": "Amphenol Borisch Technologies",
+  "title": "Manufacturing Engineer Intern - Spring 2027",
+  "location": "Grand Rapids, MI",
+  "url": "https://www.linkedin.com/jobs/view/4480711956",
+  "date_posted": "2026-10-20",
+  "first_seen": "2026-10-23"
+ },
+ {
   "id": "simplify:c4f91e7a-773d-4452-ad90-13a0491b66c1",
   "source": "simplify",
   "company": "Altera",
@@ -392,6 +497,16 @@
   "url": "https://www.linkedin.com/jobs/view/4481502244",
   "date_posted": "2026-10-19",
   "first_seen": "2026-10-22"
+ },
+ {
+  "id": "linkedin:4480281485",
+  "source": "linkedin",
+  "company": "Cirrus",
+  "title": "Manufacturing Engineering Intern",
+  "location": "Duluth, MN",
+  "url": "https://www.linkedin.com/jobs/view/4480281485",
+  "date_posted": "2026-10-19",
+  "first_seen": "2026-10-23"
  },
  {
   "id": "simplify:9f100b0b-5ea2-4aea-b312-c15d32e8e8c8",
@@ -541,6 +656,16 @@
   "date_posted": "2026-10-15",
   "term": "N/A",
   "first_seen": "2026-10-16"
+ },
+ {
+  "id": "linkedin:4479770366",
+  "source": "linkedin",
+  "company": "STS Metals Inc",
+  "title": "MANUFACTURING ENGINEER INTERN",
+  "location": "Santa Fe Springs, CA",
+  "url": "https://www.linkedin.com/jobs/view/4479770366",
+  "date_posted": "2026-10-15",
+  "first_seen": "2026-10-23"
  },
  {
   "id": "linkedin:4480125839",
@@ -1329,6 +1454,16 @@
   "url": "https://www.linkedin.com/jobs/view/4477461976",
   "date_posted": "2026-10-08",
   "first_seen": "2026-10-22"
+ },
+ {
+  "id": "linkedin:4477472505",
+  "source": "linkedin",
+  "company": "AV",
+  "title": "Summer 2027 Autonomy & Robotics Engineering Intern",
+  "location": "Petaluma, CA",
+  "url": "https://www.linkedin.com/jobs/view/4477472505",
+  "date_posted": "2026-10-08",
+  "first_seen": "2026-10-23"
  },
  {
   "id": "simplify:560dca20-ee7d-4406-bef2-be998ced912d",

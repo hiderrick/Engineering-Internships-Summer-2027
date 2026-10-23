@@ -3,11 +3,20 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-22 18:55 UTC — 418 active postings, 2 new this run._
+_Last updated: 2026-10-23 08:01 UTC — 431 active postings, 13 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Amazon | Economics Intern - Structural IO | Seattle, WA; Arlington County, Arlington, VA; NYC; Bellevue, WA | [Apply](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) | 2026-10-23 |
+| Amazon | Frontier AI & Robotics Intern - Undergraduate | SF | [Apply](https://amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics) | 2026-10-23 |
+| Amazon | Applied Science Intern - Frontier AI & Robotics | Seattle, WA; SF | [Apply](https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics) | 2026-10-23 |
+| Ursa Major | 2027 Summer Propulsion Engineer, Hypersonic Vehicle Intern | Berthoud, CO | [Apply](https://www.linkedin.com/jobs/view/4482779329) | 2026-10-22 |
+| Peak Energy | Systems Integration and Test Engineer Intern | Burlingame, CA | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007) | 2026-10-22 |
 | Oshkosh | Digital Manufacturing Intern | Spartanburg, SC | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065) | 2026-10-22 |
+| Impulse Space | Propulsion Engineering Intern (Summer 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4482708810) | 2026-10-22 |
+| DoorDash | Mechanical Engineering, Intern - Labs (Summer 2027) | Oakland, CA | [Apply](https://www.linkedin.com/jobs/view/4480073462) | 2026-10-22 |
+| DoorDash | Drone Operations, Intern - Labs (Summer 2027) | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4480040666) | 2026-10-22 |
+| Ambarella | Physical Design Engineer Intern | United States | [Apply](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393) | 2026-10-22 |
 | Qualcomm | Display Systems Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661677) | 2026-10-21 |
 | Parsons | Computer Vision/Robotics Intern | Westminster, CO | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402) | 2026-10-21 |
 | NVIDIA | Research Intern - Robotic Perception and Learning | Seattle, WA; Redmond, WA; Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) | 2026-10-21 |
@@ -33,6 +42,7 @@ _Last updated: 2026-10-22 18:55 UTC — 418 active postings, 2 new this run._
 | Clean Harbors | Mechanical Project Engineer Intern - Summer 2027 | Dugway, UT | [Apply](https://www.linkedin.com/jobs/view/4481501812) | 2026-10-20 |
 | Analog Devices | Analog Design Engineer Intern - Audio | Edinburgh, UK | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Audio-_R267095) | 2026-10-20 |
 | Analog Devices | Analog Design Engineer Intern - Power Management | Edinburgh, UK | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Power-Management-_R267094-1) | 2026-10-20 |
+| Amphenol Borisch Technologies | Manufacturing Engineer Intern - Spring 2027 | Grand Rapids, MI | [Apply](https://www.linkedin.com/jobs/view/4480711956) | 2026-10-20 |
 | Altera | FPGA IP Design Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299) | 2026-10-20 |
 | Ursa Major | 2027 Summer In-Space Propulsion Engineering Intern | Berthoud, CO | [Apply](https://www.linkedin.com/jobs/view/4481233799) | 2026-10-19 |
 | The Allen Institute for AI | Research Intern - Robotics | Seattle, WA | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) | 2026-10-19 |
@@ -44,6 +54,7 @@ _Last updated: 2026-10-22 18:55 UTC — 418 active postings, 2 new this run._
 | Meta | Research Scientist Intern - 3D-grounded Generalist Model for Robotics | Redmond, WA | [Apply](https://www.metacareers.com/jobs/2267351860492630) | 2026-10-19 |
 | Keysight Technologies | R&D Hardware Engineer Intern | Santa Clara, CA | [Apply](https://jobs.keysight.com/jobs/54804?icims=1) | 2026-10-19 |
 | Hilmar | Intern - Manufacturing (3 Openings) | Hilmar, CA | [Apply](https://www.linkedin.com/jobs/view/4481502244) | 2026-10-19 |
+| Cirrus | Manufacturing Engineering Intern | Duluth, MN | [Apply](https://www.linkedin.com/jobs/view/4480281485) | 2026-10-19 |
 | Carrier Global | Test Engineer Intern | Fort Wayne, IN | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233) | 2026-10-19 |
 | Leonardo | Test Systems Engineer Intern | Edinburgh, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Systems-Engineer_R0034207) | 2026-10-18 |
 | Leonardo | Hardware Engineer Intern | Luton, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Hardware-Engineer_R0032911) | 2026-10-18 |
@@ -58,6 +69,7 @@ _Last updated: 2026-10-22 18:55 UTC — 418 active postings, 2 new this run._
 | Alliaxis | Manufacturing Excellence Co-op Student | Oakville, ON, Canada | [Apply](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-2) | 2026-10-16 |
 | yondu | Mechatronics Intern (Spring/Summer) | Gardena, CA | [Apply](https://www.linkedin.com/jobs/view/4478814931) | 2026-10-15 |
 | Texas Instruments | Device Reliability Engineer Intern | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081) | 2026-10-15 |
+| STS Metals Inc | MANUFACTURING ENGINEER INTERN | Santa Fe Springs, CA | [Apply](https://www.linkedin.com/jobs/view/4479770366) | 2026-10-15 |
 | PACCAR Engine Company | Manufacturing Engineering/Assembly Intern Spring 2027 | Columbus, MS | [Apply](https://www.linkedin.com/jobs/view/4480125839) | 2026-10-15 |
 | PACCAR Engine Company | Manufacturing Engineering/Hot Test Intern Spring 2027 | Columbus, MS | [Apply](https://www.linkedin.com/jobs/view/4479743559) | 2026-10-15 |
 | Nissan Motor Corporation | AV Mechanical Engineering Intern - Spring 2027 - Santa Clara, CA | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/4479847210) | 2026-10-15 |
@@ -133,6 +145,7 @@ _Last updated: 2026-10-22 18:55 UTC — 418 active postings, 2 new this run._
 | AeroVironment | Autonomy & Robotics Engineer Intern | Germantown, MD; Dayton, OH; Pottstown, PA; Albuquerque, NM; Sunrise, FL; Arlington County, Arlington, VA; Melbourne, FL; Petaluma, CA; Minneapolis, MN; Herndon, VA; Huntsville, AL; San Diego, CA; Moorpark, CA; Simi Valley, CA | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556) | 2026-10-08 |
 | AV | Summer 2027 Autonomy & Robotics Engineering Intern | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/4477462977) | 2026-10-08 |
 | AV | Summer 2027 Autonomy & Robotics Engineering Intern | Moorpark, CA | [Apply](https://www.linkedin.com/jobs/view/4477461976) | 2026-10-08 |
+| AV | Summer 2027 Autonomy & Robotics Engineering Intern | Petaluma, CA | [Apply](https://www.linkedin.com/jobs/view/4477472505) | 2026-10-08 |
 | Werfen | Acute Care Hardware Systems Engineer Co-op | Bedford, MA | [Apply](https://careers-werfen.icims.com/jobs/10995/job?mobile=true&needsRedirect=false) | 2026-10-07 |
 | Waymo | 2027 Summer Intern, MS/PhD, Perception, Robotics | Mountain View, CA | [Apply](https://www.linkedin.com/jobs/view/4475496567) | 2026-10-07 |
 | Waymo | Perception Intern - Robotics | Mountain View, CA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227633) | 2026-10-07 |
