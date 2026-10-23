@@ -3,16 +3,19 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-23 08:01 UTC — 431 active postings, 13 new this run._
+_Last updated: 2026-10-23 18:46 UTC — 437 active postings, 6 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Volvo Group | Intern: Manufacturing Engineer (Spring 2027) | Hagerstown, MD | [Apply](https://www.linkedin.com/jobs/view/4482897919) | 2026-10-23 |
+| Volvo Group | Intern: Manufacturing Engineer Cab Factory (Spring 2027) | Dublin, VA | [Apply](https://www.linkedin.com/jobs/view/4483109489) | 2026-10-23 |
 | Amazon | Economics Intern - Structural IO | Seattle, WA; Arlington County, Arlington, VA; NYC; Bellevue, WA | [Apply](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) | 2026-10-23 |
 | Amazon | Frontier AI & Robotics Intern - Undergraduate | SF | [Apply](https://amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics) | 2026-10-23 |
 | Amazon | Applied Science Intern - Frontier AI & Robotics | Seattle, WA; SF | [Apply](https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics) | 2026-10-23 |
 | Ursa Major | 2027 Summer Propulsion Engineer, Hypersonic Vehicle Intern | Berthoud, CO | [Apply](https://www.linkedin.com/jobs/view/4482779329) | 2026-10-22 |
 | Peak Energy | Systems Integration and Test Engineer Intern | Burlingame, CA | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007) | 2026-10-22 |
 | Oshkosh | Digital Manufacturing Intern | Spartanburg, SC | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065) | 2026-10-22 |
+| L3Harris Technologies | Intern, Manufacturing Engineering | Tempe, AZ | [Apply](https://www.linkedin.com/jobs/view/4474178829) | 2026-10-22 |
 | Impulse Space | Propulsion Engineering Intern (Summer 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4482708810) | 2026-10-22 |
 | DoorDash | Mechanical Engineering, Intern - Labs (Summer 2027) | Oakland, CA | [Apply](https://www.linkedin.com/jobs/view/4480073462) | 2026-10-22 |
 | DoorDash | Drone Operations, Intern - Labs (Summer 2027) | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4480040666) | 2026-10-22 |
@@ -85,6 +88,7 @@ _Last updated: 2026-10-23 08:01 UTC — 431 active postings, 13 new this run._
 | onsemi | Manufacturing AI Engineering Intern | Hopewell Junction, NY | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642) | 2026-10-14 |
 | RTX | Electro-Optics Systems Engineer Intern | Goleta, CA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960) | 2026-10-14 |
 | RTX | Systems Engineer Intern | Marlborough, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697) | 2026-10-14 |
+| RTX | Electro-Optics Systems Engineer Intern | El Segundo, CA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880582) | 2026-10-14 |
 | Nissan Global | AI Robotics Research Intern | Santa Clara, CA | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267) | 2026-10-14 |
 | Meta | Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs | Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1758435721926913) | 2026-10-14 |
 | Meta | Research Scientist Intern - Robotics Foundation Models Mid-Training - PhD | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/1658187582680157) | 2026-10-14 |
@@ -106,6 +110,7 @@ _Last updated: 2026-10-23 08:01 UTC — 431 active postings, 13 new this run._
 | Astera Labs | Analog/Mixed Signal System Test Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005) | 2026-10-13 |
 | Astera Labs | Analog/Mixed-Signal IC Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) | 2026-10-13 |
 | Amazon | Hardware Development Engineer Intern Co-op - Robotics | North Reading, MA; Westborough, MA | [Apply](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) | 2026-10-13 |
+| RTX | Systems Engineer Co-op | Cedar Rapids, IA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432) | 2026-10-12 |
 | Meta | Research Scientist Intern - Robotics | Redmond, WA | [Apply](https://www.metacareers.com/jobs/2586686598441521) | 2026-10-12 |
 | Keysight Technologies | Research and Development Hardware Engineer Intern | Austin, TX | [Apply](https://jobs.keysight.com/jobs/54345?icims=1) | 2026-10-12 |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Guidance, Navigation, and Control Systems Engineer | Laurel, MD | [Apply](https://www.linkedin.com/jobs/view/4475689299) | 2026-10-12 |
@@ -424,6 +429,7 @@ _Last updated: 2026-10-23 08:01 UTC — 431 active postings, 13 new this run._
 | First Solar | Manufacturing Engineering Intern (Fall 2026/Spring 2027) | Perrysburg, OH | [Apply](https://www.linkedin.com/jobs/view/4453584373) | 2026-08-31 |
 | Stryten Energy | 2027 Summer Intern - Controls Engineer (Robotics & Automation) | Salina, KS | [Apply](https://www.linkedin.com/jobs/view/4461004008) | 2026-08-30 |
 | Oshkosh AeroTech | Engineering Intern - Mechanical (Summer 2027) | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/4458655482) | 2026-08-27 |
+| Klein Tools | Manufacturing Engineer Intern | Elk Grove Village, IL | [Apply](https://www.linkedin.com/jobs/view/4459891141) | 2026-08-27 |
 | Miller Electric Mfg. LLC | Manufacturing Engineer Intern | Appleton, WI | [Apply](https://www.linkedin.com/jobs/view/4458796719) | 2026-08-25 |
 | Warp | Robotics engineer intern | Los Angeles Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4457186695) | 2026-08-24 |
 | Freeform | Mechanical Engineering Intern (Spring 2027) | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4457115118) | 2026-08-24 |
