@@ -3,12 +3,13 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-24 07:40 UTC — 442 active postings, 5 new this run._
+_Last updated: 2026-10-24 17:41 UTC — 443 active postings, 1 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | Scrap Labs | Mechanical Engineering Intern, Machine Design (Spring 2027) | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4483305498) | 2026-10-24 |
 | Meta | Research Scientist Intern - Policy Learning for Robotics - PhD | Redmond, WA | [Apply](https://www.metacareers.com/jobs/2554989011673624) | 2026-10-24 |
+| Ferrovias | Manufacturing Engineer Intern | California, United States | [Apply](https://www.linkedin.com/jobs/view/4480669711) | 2026-10-24 |
 | Volvo Group | Intern: Manufacturing Engineer (Spring 2027) | Hagerstown, MD | [Apply](https://www.linkedin.com/jobs/view/4482897919) | 2026-10-23 |
 | Volvo Group | Intern: Manufacturing Engineer Cab Factory (Spring 2027) | Dublin, VA | [Apply](https://www.linkedin.com/jobs/view/4483109489) | 2026-10-23 |
 | Intel | AI Hardware Engineer Intern | Santa Clara, CA; Folsom, CA | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533) | 2026-10-23 |
