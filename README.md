@@ -3,15 +3,20 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-23 18:46 UTC — 437 active postings, 6 new this run._
+_Last updated: 2026-10-24 07:40 UTC — 442 active postings, 5 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Scrap Labs | Mechanical Engineering Intern, Machine Design (Spring 2027) | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4483305498) | 2026-10-24 |
+| Meta | Research Scientist Intern - Policy Learning for Robotics - PhD | Redmond, WA | [Apply](https://www.metacareers.com/jobs/2554989011673624) | 2026-10-24 |
 | Volvo Group | Intern: Manufacturing Engineer (Spring 2027) | Hagerstown, MD | [Apply](https://www.linkedin.com/jobs/view/4482897919) | 2026-10-23 |
 | Volvo Group | Intern: Manufacturing Engineer Cab Factory (Spring 2027) | Dublin, VA | [Apply](https://www.linkedin.com/jobs/view/4483109489) | 2026-10-23 |
+| Intel | AI Hardware Engineer Intern | Santa Clara, CA; Folsom, CA | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533) | 2026-10-23 |
+| GlobalFoundries | New Product Development Test Engineer Intern | Richardson, TX | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957) | 2026-10-23 |
 | Amazon | Economics Intern - Structural IO | Seattle, WA; Arlington County, Arlington, VA; NYC; Bellevue, WA | [Apply](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) | 2026-10-23 |
 | Amazon | Frontier AI & Robotics Intern - Undergraduate | SF | [Apply](https://amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics) | 2026-10-23 |
 | Amazon | Applied Science Intern - Frontier AI & Robotics | Seattle, WA; SF | [Apply](https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics) | 2026-10-23 |
+| Alpine, an ITW Company | Manufacturing Engineering Intern | Litchfield, IL | [Apply](https://www.linkedin.com/jobs/view/4483178073) | 2026-10-23 |
 | Ursa Major | 2027 Summer Propulsion Engineer, Hypersonic Vehicle Intern | Berthoud, CO | [Apply](https://www.linkedin.com/jobs/view/4482779329) | 2026-10-22 |
 | Peak Energy | Systems Integration and Test Engineer Intern | Burlingame, CA | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007) | 2026-10-22 |
 | Oshkosh | Digital Manufacturing Intern | Spartanburg, SC | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065) | 2026-10-22 |

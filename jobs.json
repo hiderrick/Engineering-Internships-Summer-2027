@@ -1,5 +1,26 @@
 [
  {
+  "id": "linkedin:4483305498",
+  "source": "linkedin",
+  "company": "Scrap Labs",
+  "title": "Mechanical Engineering Intern, Machine Design (Spring 2027)",
+  "location": "Boulder, CO",
+  "url": "https://www.linkedin.com/jobs/view/4483305498",
+  "date_posted": "2026-10-24",
+  "first_seen": "2026-10-24"
+ },
+ {
+  "id": "simplify:a9be1606-3d61-455b-a156-8ad79d30f2a3",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - Policy Learning for Robotics - PhD",
+  "location": "Redmond, WA",
+  "url": "https://www.metacareers.com/jobs/2554989011673624",
+  "date_posted": "2026-10-24",
+  "term": "N/A",
+  "first_seen": "2026-10-24"
+ },
+ {
   "id": "linkedin:4482897919",
   "source": "linkedin",
   "company": "Volvo Group",
@@ -18,6 +39,28 @@
   "url": "https://www.linkedin.com/jobs/view/4483109489",
   "date_posted": "2026-10-23",
   "first_seen": "2026-10-23"
+ },
+ {
+  "id": "simplify:4682062a-174a-4af2-b268-ac033f270793",
+  "source": "simplify",
+  "company": "Intel",
+  "title": "AI Hardware Engineer Intern",
+  "location": "Santa Clara, CA; Folsom, CA",
+  "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533",
+  "date_posted": "2026-10-23",
+  "term": "N/A",
+  "first_seen": "2026-10-24"
+ },
+ {
+  "id": "simplify:aa6b3f61-8852-49af-89cc-be95af37f033",
+  "source": "simplify",
+  "company": "GlobalFoundries",
+  "title": "New Product Development Test Engineer Intern",
+  "location": "Richardson, TX",
+  "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957",
+  "date_posted": "2026-10-23",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-24"
  },
  {
   "id": "simplify:2c21f399-8e2e-449c-84e9-1d5eb6369068",
@@ -51,6 +94,16 @@
   "date_posted": "2026-10-23",
   "term": "Summer 2026, Fall 2026",
   "first_seen": "2026-10-23"
+ },
+ {
+  "id": "linkedin:4483178073",
+  "source": "linkedin",
+  "company": "Alpine, an ITW Company",
+  "title": "Manufacturing Engineering Intern",
+  "location": "Litchfield, IL",
+  "url": "https://www.linkedin.com/jobs/view/4483178073",
+  "date_posted": "2026-10-23",
+  "first_seen": "2026-10-24"
  },
  {
   "id": "linkedin:4482779329",
