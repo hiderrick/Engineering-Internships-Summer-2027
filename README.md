@@ -3,10 +3,14 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-26 08:12 UTC — 444 active postings._
+_Last updated: 2026-10-26 20:12 UTC — 448 active postings, 4 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| WSP in the U.S. | Mechanical Engineering Intern - Summer 2027 | Kansas City, MO | [Apply](https://www.linkedin.com/jobs/view/4483702530) | 2026-10-26 |
+| S&C Electric Company | Mechanical Engineer (Facilities) Intern | Chicago, IL | [Apply](https://www.linkedin.com/jobs/view/4483706828) | 2026-10-26 |
+| Collins Aerospace | Manufacturing Engineering Intern (Summer 2027) | Troy, OH | [Apply](https://www.linkedin.com/jobs/view/4483705295) | 2026-10-26 |
+| Cadillac Formula 1 Team | Aerodynamics AI Industrial Placement Intern | Silverstone, Towcester, UK | [Apply](https://apply.workable.com/cadillacf1team/j/82D7937EEE/apply) | 2026-10-26 |
 | Avynera Studios | Manufacturing Engineering Intern | Broomfield, CO | [Apply](https://www.linkedin.com/jobs/view/4481096166) | 2026-10-25 |
 | Scrap Labs | Mechanical Engineering Intern, Machine Design (Spring 2027) | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4483305498) | 2026-10-24 |
 | Meta | Research Scientist Intern - Policy Learning for Robotics - PhD | Redmond, WA | [Apply](https://www.metacareers.com/jobs/2554989011673624) | 2026-10-24 |
