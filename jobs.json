@@ -1,5 +1,16 @@
 [
  {
+  "id": "simplify:9f53c835-37e0-454c-9b71-662641264345",
+  "source": "simplify",
+  "company": "lowRISC CIC",
+  "title": "Design Engineer Intern",
+  "location": "Cambridge, UK",
+  "url": "https://lowrisc.applytojob.com/apply/YDXpDtU0O2/Summer-Internship-Design-Engineer",
+  "date_posted": "2026-10-27",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-27"
+ },
+ {
   "id": "simplify:7e1845c8-0856-45a5-92cb-e20daea7e6ca",
   "source": "simplify",
   "company": "Toyota Research Institute",
@@ -8,6 +19,26 @@
   "url": "https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply",
   "date_posted": "2026-10-27",
   "term": "Summer 2027",
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "linkedin:4483653560",
+  "source": "linkedin",
+  "company": "Red Oak Technologies",
+  "title": "Engineering Intern \u2013 Robotics & 3D Sensing Technology",
+  "location": "San Francisco, CA",
+  "url": "https://www.linkedin.com/jobs/view/4483653560",
+  "date_posted": "2026-10-27",
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "linkedin:4481869782",
+  "source": "linkedin",
+  "company": "Meta",
+  "title": "Research Scientist Intern, Robotics",
+  "location": "Burlingame, CA",
+  "url": "https://www.linkedin.com/jobs/view/4481869782",
+  "date_posted": "2026-10-27",
   "first_seen": "2026-10-27"
  },
  {

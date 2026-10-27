@@ -3,11 +3,14 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-27 08:26 UTC — 463 active postings, 15 new this run._
+_Last updated: 2026-10-27 19:43 UTC — 466 active postings, 3 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| lowRISC CIC | Design Engineer Intern | Cambridge, UK | [Apply](https://lowrisc.applytojob.com/apply/YDXpDtU0O2/Summer-Internship-Design-Engineer) | 2026-10-27 |
 | Toyota Research Institute | Robotics Intern - Trustworthy Learning under Uncertainty | Los Altos, CA | [Apply](https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply) | 2026-10-27 |
+| Red Oak Technologies | Engineering Intern – Robotics & 3D Sensing Technology | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4483653560) | 2026-10-27 |
+| Meta | Research Scientist Intern, Robotics | Burlingame, CA | [Apply](https://www.linkedin.com/jobs/view/4481869782) | 2026-10-27 |
 | HP IQ | Wireless Automation and Test Engineer Intern - Wireless Automation and Test | SF | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6114741004) | 2026-10-27 |
 | WSP in the U.S. | Mechanical Engineering Intern - Summer 2027 | Kansas City, MO | [Apply](https://www.linkedin.com/jobs/view/4483702530) | 2026-10-26 |
 | Toyota Research Institute | Robotics Intern - World Foundation Models | Los Altos, CA | [Apply](https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478/apply) | 2026-10-26 |
