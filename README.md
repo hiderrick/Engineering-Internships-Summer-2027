@@ -3,14 +3,29 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-26 20:12 UTC — 448 active postings, 4 new this run._
+_Last updated: 2026-10-27 08:26 UTC — 463 active postings, 15 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Toyota Research Institute | Robotics Intern - Trustworthy Learning under Uncertainty | Los Altos, CA | [Apply](https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply) | 2026-10-27 |
+| HP IQ | Wireless Automation and Test Engineer Intern - Wireless Automation and Test | SF | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6114741004) | 2026-10-27 |
 | WSP in the U.S. | Mechanical Engineering Intern - Summer 2027 | Kansas City, MO | [Apply](https://www.linkedin.com/jobs/view/4483702530) | 2026-10-26 |
+| Toyota Research Institute | Robotics Intern - World Foundation Models | Los Altos, CA | [Apply](https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478/apply) | 2026-10-26 |
+| Toyota Research Institute | Robotics Intern - Post-Training and Continual Learning | Los Altos, CA | [Apply](https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43/apply) | 2026-10-26 |
+| Texas Instruments | Analog Design Engineer Intern | Santa Clara, CA | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682) | 2026-10-26 |
+| Skydio | Autonomy Engineer Intern, Simulation & Robotics, 2027 (HQ) | San Mateo, CA | [Apply](https://www.linkedin.com/jobs/view/4483745407) | 2026-10-26 |
+| Skydio | Autonomy Engineer Intern - Simulation & Robotics | San Mateo, CA | [Apply](https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true) | 2026-10-26 |
 | S&C Electric Company | Mechanical Engineer (Facilities) Intern | Chicago, IL | [Apply](https://www.linkedin.com/jobs/view/4483706828) | 2026-10-26 |
+| Meta | Research Scientist Intern - Robotics | Burlingame, CA | [Apply](https://www.metacareers.com/jobs/1471718241508516) | 2026-10-26 |
+| Kenworth Truck Co. | Summer 2027 - Mechanical Design Engineer Intern | Kirkland, WA | [Apply](https://www.linkedin.com/jobs/view/4483738805) | 2026-10-26 |
+| Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214067) | 2026-10-26 |
 | Collins Aerospace | Manufacturing Engineering Intern (Summer 2027) | Troy, OH | [Apply](https://www.linkedin.com/jobs/view/4483705295) | 2026-10-26 |
 | Cadillac Formula 1 Team | Aerodynamics AI Industrial Placement Intern | Silverstone, Towcester, UK | [Apply](https://apply.workable.com/cadillacf1team/j/82D7937EEE/apply) | 2026-10-26 |
+| Boston Dynamics | Systems Test Engineer Co-op | Waltham, MA | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312) | 2026-10-26 |
+| Booz Allen | Systems Engineer Intern | Albuquerque, NM | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games--Systems-Engineer-Intern---Albuquerque--NM_R0252337) | 2026-10-26 |
+| Booz Allen | Summer Games Systems Engineer Intern | Lexington, MA | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273) | 2026-10-26 |
+| Booz Allen | Systems Engineer Intern | Dayton, OH | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342) | 2026-10-26 |
+| Booz Allen | Systems Engineer Intern - Summer Games | Detroit, MI | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games--Systems-Engineer-Intern---Royal-Oaks--MI_R0252341) | 2026-10-26 |
 | Avynera Studios | Manufacturing Engineering Intern | Broomfield, CO | [Apply](https://www.linkedin.com/jobs/view/4481096166) | 2026-10-25 |
 | Scrap Labs | Mechanical Engineering Intern, Machine Design (Spring 2027) | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4483305498) | 2026-10-24 |
 | Meta | Research Scientist Intern - Policy Learning for Robotics - PhD | Redmond, WA | [Apply](https://www.metacareers.com/jobs/2554989011673624) | 2026-10-24 |

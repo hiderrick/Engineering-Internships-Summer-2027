@@ -1,5 +1,27 @@
 [
  {
+  "id": "simplify:7e1845c8-0856-45a5-92cb-e20daea7e6ca",
+  "source": "simplify",
+  "company": "Toyota Research Institute",
+  "title": "Robotics Intern - Trustworthy Learning under Uncertainty",
+  "location": "Los Altos, CA",
+  "url": "https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply",
+  "date_posted": "2026-10-27",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "simplify:d6d3b025-0991-4f92-ba7a-a3fb13c696fd",
+  "source": "simplify",
+  "company": "HP IQ",
+  "title": "Wireless Automation and Test Engineer Intern - Wireless Automation and Test",
+  "location": "SF",
+  "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114741004",
+  "date_posted": "2026-10-27",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-27"
+ },
+ {
   "id": "linkedin:4483702530",
   "source": "linkedin",
   "company": "WSP in the U.S.",
@@ -10,6 +32,60 @@
   "first_seen": "2026-10-26"
  },
  {
+  "id": "simplify:06117524-06d7-43ef-9ecc-89fd1e7e9baf",
+  "source": "simplify",
+  "company": "Toyota Research Institute",
+  "title": "Robotics Intern - World Foundation Models",
+  "location": "Los Altos, CA",
+  "url": "https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478/apply",
+  "date_posted": "2026-10-26",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "simplify:3b05f3a4-1622-4f61-b297-a8f25863dce7",
+  "source": "simplify",
+  "company": "Toyota Research Institute",
+  "title": "Robotics Intern - Post-Training and Continual Learning",
+  "location": "Los Altos, CA",
+  "url": "https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43/apply",
+  "date_posted": "2026-10-26",
+  "term": "N/A",
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "simplify:bf4404e9-f7b4-4efb-82fe-8b3c7a092d4d",
+  "source": "simplify",
+  "company": "Texas Instruments",
+  "title": "Analog Design Engineer Intern",
+  "location": "Santa Clara, CA",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682",
+  "date_posted": "2026-10-26",
+  "term": "N/A",
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "linkedin:4483745407",
+  "source": "linkedin",
+  "company": "Skydio",
+  "title": "Autonomy Engineer Intern, Simulation & Robotics, 2027 (HQ)",
+  "location": "San Mateo, CA",
+  "url": "https://www.linkedin.com/jobs/view/4483745407",
+  "date_posted": "2026-10-26",
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "simplify:af44a97e-7851-4c17-95b2-1f4d3f8e5d53",
+  "source": "simplify",
+  "company": "Skydio",
+  "title": "Autonomy Engineer Intern - Simulation & Robotics",
+  "location": "San Mateo, CA",
+  "url": "https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true",
+  "date_posted": "2026-10-26",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-27"
+ },
+ {
   "id": "linkedin:4483706828",
   "source": "linkedin",
   "company": "S&C Electric Company",
@@ -18,6 +94,38 @@
   "url": "https://www.linkedin.com/jobs/view/4483706828",
   "date_posted": "2026-10-26",
   "first_seen": "2026-10-26"
+ },
+ {
+  "id": "simplify:92e8fd7c-adad-452b-b860-8c155f7b905d",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - Robotics",
+  "location": "Burlingame, CA",
+  "url": "https://www.metacareers.com/jobs/1471718241508516",
+  "date_posted": "2026-10-26",
+  "term": "N/A",
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "linkedin:4483738805",
+  "source": "linkedin",
+  "company": "Kenworth Truck Co.",
+  "title": "Summer 2027 - Mechanical Design Engineer Intern",
+  "location": "Kirkland, WA",
+  "url": "https://www.linkedin.com/jobs/view/4483738805",
+  "date_posted": "2026-10-26",
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "simplify:1d2964b6-07a1-49b7-a854-43e615ba1604",
+  "source": "simplify",
+  "company": "Hewlett Packard Enterprise",
+  "title": "Hardware Engineer Intern",
+  "location": "Sunnyvale, CA",
+  "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214067",
+  "date_posted": "2026-10-26",
+  "term": "N/A",
+  "first_seen": "2026-10-27"
  },
  {
   "id": "linkedin:4483705295",
@@ -39,6 +147,61 @@
   "date_posted": "2026-10-26",
   "term": "N/A",
   "first_seen": "2026-10-26"
+ },
+ {
+  "id": "simplify:14ed48ad-0973-4d16-8719-d1200c19dc70",
+  "source": "simplify",
+  "company": "Boston Dynamics",
+  "title": "Systems Test Engineer Co-op",
+  "location": "Waltham, MA",
+  "url": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312",
+  "date_posted": "2026-10-26",
+  "term": "N/A",
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "simplify:f1276b45-1dc3-4ceb-8560-5b4741b33a8b",
+  "source": "simplify",
+  "company": "Booz Allen",
+  "title": "Systems Engineer Intern",
+  "location": "Albuquerque, NM",
+  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games--Systems-Engineer-Intern---Albuquerque--NM_R0252337",
+  "date_posted": "2026-10-26",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "simplify:8c2d4fa4-d2b6-4ca2-bf92-4bbd38e700d1",
+  "source": "simplify",
+  "company": "Booz Allen",
+  "title": "Summer Games Systems Engineer Intern",
+  "location": "Lexington, MA",
+  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273",
+  "date_posted": "2026-10-26",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "simplify:5f3ee0c2-89e2-4e7a-a6f4-0dfa76336d4d",
+  "source": "simplify",
+  "company": "Booz Allen",
+  "title": "Systems Engineer Intern",
+  "location": "Dayton, OH",
+  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342",
+  "date_posted": "2026-10-26",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-27"
+ },
+ {
+  "id": "simplify:5b845bf6-dc2f-44da-bb1c-afb5cf727cde",
+  "source": "simplify",
+  "company": "Booz Allen",
+  "title": "Systems Engineer Intern - Summer Games",
+  "location": "Detroit, MI",
+  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games--Systems-Engineer-Intern---Royal-Oaks--MI_R0252341",
+  "date_posted": "2026-10-26",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-27"
  },
  {
   "id": "linkedin:4481096166",
