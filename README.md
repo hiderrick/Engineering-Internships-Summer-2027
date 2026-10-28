@@ -3,15 +3,25 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-27 19:43 UTC — 466 active postings, 3 new this run._
+_Last updated: 2026-10-28 09:04 UTC — 477 active postings, 11 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Siemens | Building Automation Design Engineer Internship | Harleysville, PA | [Apply](https://www.linkedin.com/jobs/view/4483831964) | 2026-10-28 |
+| GrayMatter Robotics | Robotics Engineering Intern: Systems & Applications | Carson, CA | [Apply](https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320/application?embed=true) | 2026-10-28 |
+| AV | Mechanical Engineering Intern - Space Technologies | Albuquerque, NM | [Apply](https://www.linkedin.com/jobs/view/4484425081) | 2026-10-28 |
 | lowRISC CIC | Design Engineer Intern | Cambridge, UK | [Apply](https://lowrisc.applytojob.com/apply/YDXpDtU0O2/Summer-Internship-Design-Engineer) | 2026-10-27 |
 | Toyota Research Institute | Robotics Intern - Trustworthy Learning under Uncertainty | Los Altos, CA | [Apply](https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply) | 2026-10-27 |
 | Red Oak Technologies | Engineering Intern – Robotics & 3D Sensing Technology | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4483653560) | 2026-10-27 |
+| Northrop Grumman | 2027 Mechanical Engineering Intern - Clearfield UT | Clearfield, UT | [Apply](https://www.linkedin.com/jobs/view/4484278290) | 2026-10-27 |
+| Nissan Global | Physical AI Manufacturing Intern | Smyrna, TN | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526) | 2026-10-27 |
 | Meta | Research Scientist Intern, Robotics | Burlingame, CA | [Apply](https://www.linkedin.com/jobs/view/4481869782) | 2026-10-27 |
 | HP IQ | Wireless Automation and Test Engineer Intern - Wireless Automation and Test | SF | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6114741004) | 2026-10-27 |
+| HP IQ | Product Design Engineering Intern | SF | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6141235004) | 2026-10-27 |
+| Enercon Services, Inc. | Intern- Mechanical Engineer - Pipeline and Power Generation Group | Peachtree Corners, GA | [Apply](https://www.linkedin.com/jobs/view/4483822049) | 2026-10-27 |
+| Centific | Robotics Intern | Palo Alto, CA; Redmond, WA | [Apply](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Robotics-Intern_JR107981) | 2026-10-27 |
+| AeroVironment | Test Engineer Intern - Space Technologies | Albuquerque, NM | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253) | 2026-10-27 |
+| AV | Manufacturing Engineering Intern | Petaluma, CA | [Apply](https://www.linkedin.com/jobs/view/4484260895) | 2026-10-27 |
 | WSP in the U.S. | Mechanical Engineering Intern - Summer 2027 | Kansas City, MO | [Apply](https://www.linkedin.com/jobs/view/4483702530) | 2026-10-26 |
 | Toyota Research Institute | Robotics Intern - World Foundation Models | Los Altos, CA | [Apply](https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478/apply) | 2026-10-26 |
 | Toyota Research Institute | Robotics Intern - Post-Training and Continual Learning | Los Altos, CA | [Apply](https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43/apply) | 2026-10-26 |
@@ -98,6 +108,7 @@ _Last updated: 2026-10-27 19:43 UTC — 466 active postings, 3 new this run._
 | Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721615591) | 2026-10-16 |
 | Micron Technology | Memory Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112529) | 2026-10-16 |
 | Meta | Production Systems Engineer Intern | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/4536253699919879) | 2026-10-16 |
+| General Magic | Design Engineer Co-op | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/generalmagic/5c0e1614-de0c-4a8a-b37a-86af8f92b506/application?embed=true) | 2026-10-16 |
 | Alliaxis | Manufacturing Excellence Co-op Student | Oakville, ON, Canada | [Apply](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-2) | 2026-10-16 |
 | yondu | Mechatronics Intern (Spring/Summer) | Gardena, CA | [Apply](https://www.linkedin.com/jobs/view/4478814931) | 2026-10-15 |
 | Texas Instruments | Device Reliability Engineer Intern | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081) | 2026-10-15 |

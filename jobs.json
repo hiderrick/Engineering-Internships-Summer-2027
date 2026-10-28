@@ -1,5 +1,36 @@
 [
  {
+  "id": "linkedin:4483831964",
+  "source": "linkedin",
+  "company": "Siemens",
+  "title": "Building Automation Design Engineer Internship",
+  "location": "Harleysville, PA",
+  "url": "https://www.linkedin.com/jobs/view/4483831964",
+  "date_posted": "2026-10-28",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "id": "simplify:901b53ec-fba2-40bc-89d6-a7200607ee62",
+  "source": "simplify",
+  "company": "GrayMatter Robotics",
+  "title": "Robotics Engineering Intern: Systems & Applications",
+  "location": "Carson, CA",
+  "url": "https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320/application?embed=true",
+  "date_posted": "2026-10-28",
+  "term": "Fall 2026",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "id": "linkedin:4484425081",
+  "source": "linkedin",
+  "company": "AV",
+  "title": "Mechanical Engineering Intern - Space Technologies",
+  "location": "Albuquerque, NM",
+  "url": "https://www.linkedin.com/jobs/view/4484425081",
+  "date_posted": "2026-10-28",
+  "first_seen": "2026-10-28"
+ },
+ {
   "id": "simplify:9f53c835-37e0-454c-9b71-662641264345",
   "source": "simplify",
   "company": "lowRISC CIC",
@@ -32,6 +63,27 @@
   "first_seen": "2026-10-27"
  },
  {
+  "id": "linkedin:4484278290",
+  "source": "linkedin",
+  "company": "Northrop Grumman",
+  "title": "2027 Mechanical Engineering Intern - Clearfield UT",
+  "location": "Clearfield, UT",
+  "url": "https://www.linkedin.com/jobs/view/4484278290",
+  "date_posted": "2026-10-27",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "id": "simplify:026e14ea-24a4-4452-8ecd-d51f7622df1b",
+  "source": "simplify",
+  "company": "Nissan Global",
+  "title": "Physical AI Manufacturing Intern",
+  "location": "Smyrna, TN",
+  "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526",
+  "date_posted": "2026-10-27",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-28"
+ },
+ {
   "id": "linkedin:4481869782",
   "source": "linkedin",
   "company": "Meta",
@@ -51,6 +103,59 @@
   "date_posted": "2026-10-27",
   "term": "Summer 2027",
   "first_seen": "2026-10-27"
+ },
+ {
+  "id": "simplify:88e69973-8eee-44d0-91fe-a0c3dce55ece",
+  "source": "simplify",
+  "company": "HP IQ",
+  "title": "Product Design Engineering Intern",
+  "location": "SF",
+  "url": "https://job-boards.greenhouse.io/hpiq/jobs/6141235004",
+  "date_posted": "2026-10-27",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "id": "linkedin:4483822049",
+  "source": "linkedin",
+  "company": "Enercon Services, Inc.",
+  "title": "Intern- Mechanical Engineer - Pipeline and Power Generation Group",
+  "location": "Peachtree Corners, GA",
+  "url": "https://www.linkedin.com/jobs/view/4483822049",
+  "date_posted": "2026-10-27",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "id": "simplify:a5fd5222-6570-4e85-b109-2323b3abdff7",
+  "source": "simplify",
+  "company": "Centific",
+  "title": "Robotics Intern",
+  "location": "Palo Alto, CA; Redmond, WA",
+  "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Robotics-Intern_JR107981",
+  "date_posted": "2026-10-27",
+  "term": "N/A",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "id": "simplify:abdc08b7-985c-4809-b5df-e1cf7cfea0dd",
+  "source": "simplify",
+  "company": "AeroVironment",
+  "title": "Test Engineer Intern - Space Technologies",
+  "location": "Albuquerque, NM",
+  "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253",
+  "date_posted": "2026-10-27",
+  "term": "Summer 2026",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "id": "linkedin:4484260895",
+  "source": "linkedin",
+  "company": "AV",
+  "title": "Manufacturing Engineering Intern",
+  "location": "Petaluma, CA",
+  "url": "https://www.linkedin.com/jobs/view/4484260895",
+  "date_posted": "2026-10-27",
+  "first_seen": "2026-10-28"
  },
  {
   "id": "linkedin:4483702530",
@@ -962,6 +1067,17 @@
   "date_posted": "2026-10-16",
   "term": "N/A",
   "first_seen": "2026-10-17"
+ },
+ {
+  "id": "simplify:1aa5987c-ec80-457f-9cf4-f0ad07ae342e",
+  "source": "simplify",
+  "company": "General Magic",
+  "title": "Design Engineer Co-op",
+  "location": "Toronto, ON, Canada",
+  "url": "https://jobs.ashbyhq.com/generalmagic/5c0e1614-de0c-4a8a-b37a-86af8f92b506/application?embed=true",
+  "date_posted": "2026-10-16",
+  "term": "N/A",
+  "first_seen": "2026-10-28"
  },
  {
   "id": "simplify:bd9058ee-980b-490d-9910-f4d7f92372ed",
