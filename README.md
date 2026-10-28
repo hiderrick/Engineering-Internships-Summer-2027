@@ -3,12 +3,17 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-28 09:04 UTC — 477 active postings, 11 new this run._
+_Last updated: 2026-10-28 19:57 UTC — 483 active postings, 6 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| WorldEngine AI | Research Intern - Robotics Data - Real-to-Sim | SF | [Apply](https://jobs.ashbyhq.com/worldengine/ba22a6ae-9b75-4078-83c4-d908a29ccdd9/application?embed=true) | 2026-10-28 |
 | Siemens | Building Automation Design Engineer Internship | Harleysville, PA | [Apply](https://www.linkedin.com/jobs/view/4483831964) | 2026-10-28 |
+| Lockheed Martin | Mechanical Engineer - Internship | Owego, NY | [Apply](https://www.linkedin.com/jobs/view/4482532230) | 2026-10-28 |
+| Intuitive | Robotics Engineering Intern | Sunnyvale, CA | [Apply](https://www.linkedin.com/jobs/view/4484730130) | 2026-10-28 |
+| Hillphoenix | Robotic Manufacturing Intern | Chester, VA | [Apply](https://www.linkedin.com/jobs/view/4482523922) | 2026-10-28 |
 | GrayMatter Robotics | Robotics Engineering Intern: Systems & Applications | Carson, CA | [Apply](https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320/application?embed=true) | 2026-10-28 |
+| Altera | FPGA Hardware Design Engineer Intern | Marlow, UK | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Hardware-Design-Engineer_R02748) | 2026-10-28 |
 | AV | Mechanical Engineering Intern - Space Technologies | Albuquerque, NM | [Apply](https://www.linkedin.com/jobs/view/4484425081) | 2026-10-28 |
 | lowRISC CIC | Design Engineer Intern | Cambridge, UK | [Apply](https://lowrisc.applytojob.com/apply/YDXpDtU0O2/Summer-Internship-Design-Engineer) | 2026-10-27 |
 | Toyota Research Institute | Robotics Intern - Trustworthy Learning under Uncertainty | Los Altos, CA | [Apply](https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply) | 2026-10-27 |
@@ -16,6 +21,7 @@ _Last updated: 2026-10-28 09:04 UTC — 477 active postings, 11 new this run._
 | Northrop Grumman | 2027 Mechanical Engineering Intern - Clearfield UT | Clearfield, UT | [Apply](https://www.linkedin.com/jobs/view/4484278290) | 2026-10-27 |
 | Nissan Global | Physical AI Manufacturing Intern | Smyrna, TN | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526) | 2026-10-27 |
 | Meta | Research Scientist Intern, Robotics | Burlingame, CA | [Apply](https://www.linkedin.com/jobs/view/4481869782) | 2026-10-27 |
+| Introba | Intern, Mechanical Engineering Designer (Fire Protection Designer) | St Louis, MO | [Apply](https://www.linkedin.com/jobs/view/4483678131) | 2026-10-27 |
 | HP IQ | Wireless Automation and Test Engineer Intern - Wireless Automation and Test | SF | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6114741004) | 2026-10-27 |
 | HP IQ | Product Design Engineering Intern | SF | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6141235004) | 2026-10-27 |
 | Enercon Services, Inc. | Intern- Mechanical Engineer - Pipeline and Power Generation Group | Peachtree Corners, GA | [Apply](https://www.linkedin.com/jobs/view/4483822049) | 2026-10-27 |
