@@ -1,5 +1,15 @@
 [
  {
+  "id": "linkedin:4484907509",
+  "source": "linkedin",
+  "company": "Arc",
+  "title": "Manufacturing Engineering Intern",
+  "location": "Torrance, CA",
+  "url": "https://www.linkedin.com/jobs/view/4484907509",
+  "date_posted": "2026-10-29",
+  "first_seen": "2026-10-29"
+ },
+ {
   "id": "simplify:8a663ec7-fe0a-4e60-a261-2a2d6db4b95b",
   "source": "simplify",
   "company": "WorldEngine AI",
@@ -9,6 +19,17 @@
   "date_posted": "2026-10-28",
   "term": "N/A",
   "first_seen": "2026-10-28"
+ },
+ {
+  "id": "simplify:653fe1d6-4806-43f5-824b-dec64c459a99",
+  "source": "simplify",
+  "company": "Viavi Solutions",
+  "title": "Hardware Engineer Co-op Intern",
+  "location": "Germantown, MD",
+  "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Intern_260005108-1",
+  "date_posted": "2026-10-28",
+  "term": "N/A",
+  "first_seen": "2026-10-29"
  },
  {
   "id": "linkedin:4483831964",
@@ -29,6 +50,17 @@
   "url": "https://www.linkedin.com/jobs/view/4482532230",
   "date_posted": "2026-10-28",
   "first_seen": "2026-10-28"
+ },
+ {
+  "id": "simplify:5d4a2e1b-0381-4b6d-bcf8-601636e1a627",
+  "source": "simplify",
+  "company": "Intuitive Surgical",
+  "title": "Robotics Engineer Intern",
+  "location": "Sunnyvale, CA",
+  "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313717",
+  "date_posted": "2026-10-28",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-29"
  },
  {
   "id": "linkedin:4484730130",
@@ -62,6 +94,17 @@
   "first_seen": "2026-10-28"
  },
  {
+  "id": "simplify:08f5ae2c-794c-4da3-94f0-d72a0a5e2b56",
+  "source": "simplify",
+  "company": "Amazon",
+  "title": "Robotics Applied Scientist 2 Intern",
+  "location": "Seattle, WA; North Reading, MA; NYC; Bellevue, WA; Sunnyvale, CA; Westborough, MA",
+  "url": "https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states",
+  "date_posted": "2026-10-28",
+  "term": "Winter 2027, Spring 2027, Summer 2027, Fall 2027",
+  "first_seen": "2026-10-29"
+ },
+ {
   "id": "simplify:0eed735c-1927-426f-bfd1-9ef4216f2f6e",
   "source": "simplify",
   "company": "Altera",
@@ -81,6 +124,17 @@
   "url": "https://www.linkedin.com/jobs/view/4484425081",
   "date_posted": "2026-10-28",
   "first_seen": "2026-10-28"
+ },
+ {
+  "id": "simplify:545bd8c9-5b0a-4acd-9cd7-e53ef6f722b3",
+  "source": "simplify",
+  "company": "ABB",
+  "title": "AI Robotics Intern",
+  "location": "San Jose, CA",
+  "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-Intern--Fall-2026_JR00044846",
+  "date_posted": "2026-10-28",
+  "term": "Fall 2026",
+  "first_seen": "2026-10-29"
  },
  {
   "id": "simplify:9f53c835-37e0-454c-9b71-662641264345",
@@ -186,6 +240,16 @@
   "url": "https://www.linkedin.com/jobs/view/4483822049",
   "date_posted": "2026-10-27",
   "first_seen": "2026-10-28"
+ },
+ {
+  "id": "linkedin:4483811650",
+  "source": "linkedin",
+  "company": "Enercon Services, Inc.",
+  "title": "Intern- Mechanical Engineer - Pipeline and Power Generation Group",
+  "location": "Kennesaw, GA",
+  "url": "https://www.linkedin.com/jobs/view/4483811650",
+  "date_posted": "2026-10-27",
+  "first_seen": "2026-10-29"
  },
  {
   "id": "simplify:a5fd5222-6570-4e85-b109-2323b3abdff7",
@@ -431,6 +495,16 @@
   "date_posted": "2026-10-24",
   "term": "N/A",
   "first_seen": "2026-10-24"
+ },
+ {
+  "id": "linkedin:4482004452",
+  "source": "linkedin",
+  "company": "FlightSafety International",
+  "title": "Aeronautical Engineer Internship - Summer 2027",
+  "location": "Urbana, IL",
+  "url": "https://www.linkedin.com/jobs/view/4482004452",
+  "date_posted": "2026-10-24",
+  "first_seen": "2026-10-29"
  },
  {
   "id": "linkedin:4480669711",

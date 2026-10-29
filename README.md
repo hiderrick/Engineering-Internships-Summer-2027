@@ -3,18 +3,23 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-28 19:57 UTC — 483 active postings, 6 new this run._
+_Last updated: 2026-10-29 09:01 UTC — 490 active postings, 7 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Arc | Manufacturing Engineering Intern | Torrance, CA | [Apply](https://www.linkedin.com/jobs/view/4484907509) | 2026-10-29 |
 | WorldEngine AI | Research Intern - Robotics Data - Real-to-Sim | SF | [Apply](https://jobs.ashbyhq.com/worldengine/ba22a6ae-9b75-4078-83c4-d908a29ccdd9/application?embed=true) | 2026-10-28 |
+| Viavi Solutions | Hardware Engineer Co-op Intern | Germantown, MD | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Intern_260005108-1) | 2026-10-28 |
 | Siemens | Building Automation Design Engineer Internship | Harleysville, PA | [Apply](https://www.linkedin.com/jobs/view/4483831964) | 2026-10-28 |
 | Lockheed Martin | Mechanical Engineer - Internship | Owego, NY | [Apply](https://www.linkedin.com/jobs/view/4482532230) | 2026-10-28 |
+| Intuitive Surgical | Robotics Engineer Intern | Sunnyvale, CA | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000158313717) | 2026-10-28 |
 | Intuitive | Robotics Engineering Intern | Sunnyvale, CA | [Apply](https://www.linkedin.com/jobs/view/4484730130) | 2026-10-28 |
 | Hillphoenix | Robotic Manufacturing Intern | Chester, VA | [Apply](https://www.linkedin.com/jobs/view/4482523922) | 2026-10-28 |
 | GrayMatter Robotics | Robotics Engineering Intern: Systems & Applications | Carson, CA | [Apply](https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320/application?embed=true) | 2026-10-28 |
+| Amazon | Robotics Applied Scientist 2 Intern | Seattle, WA; North Reading, MA; NYC; Bellevue, WA; Sunnyvale, CA; Westborough, MA | [Apply](https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states) | 2026-10-28 |
 | Altera | FPGA Hardware Design Engineer Intern | Marlow, UK | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Hardware-Design-Engineer_R02748) | 2026-10-28 |
 | AV | Mechanical Engineering Intern - Space Technologies | Albuquerque, NM | [Apply](https://www.linkedin.com/jobs/view/4484425081) | 2026-10-28 |
+| ABB | AI Robotics Intern | San Jose, CA | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-Intern--Fall-2026_JR00044846) | 2026-10-28 |
 | lowRISC CIC | Design Engineer Intern | Cambridge, UK | [Apply](https://lowrisc.applytojob.com/apply/YDXpDtU0O2/Summer-Internship-Design-Engineer) | 2026-10-27 |
 | Toyota Research Institute | Robotics Intern - Trustworthy Learning under Uncertainty | Los Altos, CA | [Apply](https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply) | 2026-10-27 |
 | Red Oak Technologies | Engineering Intern – Robotics & 3D Sensing Technology | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4483653560) | 2026-10-27 |
@@ -25,6 +30,7 @@ _Last updated: 2026-10-28 19:57 UTC — 483 active postings, 6 new this run._
 | HP IQ | Wireless Automation and Test Engineer Intern - Wireless Automation and Test | SF | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6114741004) | 2026-10-27 |
 | HP IQ | Product Design Engineering Intern | SF | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6141235004) | 2026-10-27 |
 | Enercon Services, Inc. | Intern- Mechanical Engineer - Pipeline and Power Generation Group | Peachtree Corners, GA | [Apply](https://www.linkedin.com/jobs/view/4483822049) | 2026-10-27 |
+| Enercon Services, Inc. | Intern- Mechanical Engineer - Pipeline and Power Generation Group | Kennesaw, GA | [Apply](https://www.linkedin.com/jobs/view/4483811650) | 2026-10-27 |
 | Centific | Robotics Intern | Palo Alto, CA; Redmond, WA | [Apply](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Robotics-Intern_JR107981) | 2026-10-27 |
 | AeroVironment | Test Engineer Intern - Space Technologies | Albuquerque, NM | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253) | 2026-10-27 |
 | AV | Manufacturing Engineering Intern | Petaluma, CA | [Apply](https://www.linkedin.com/jobs/view/4484260895) | 2026-10-27 |
@@ -48,6 +54,7 @@ _Last updated: 2026-10-28 19:57 UTC — 483 active postings, 6 new this run._
 | Avynera Studios | Manufacturing Engineering Intern | Broomfield, CO | [Apply](https://www.linkedin.com/jobs/view/4481096166) | 2026-10-25 |
 | Scrap Labs | Mechanical Engineering Intern, Machine Design (Spring 2027) | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4483305498) | 2026-10-24 |
 | Meta | Research Scientist Intern - Policy Learning for Robotics - PhD | Redmond, WA | [Apply](https://www.metacareers.com/jobs/2554989011673624) | 2026-10-24 |
+| FlightSafety International | Aeronautical Engineer Internship - Summer 2027 | Urbana, IL | [Apply](https://www.linkedin.com/jobs/view/4482004452) | 2026-10-24 |
 | Ferrovias | Manufacturing Engineer Intern | California, United States | [Apply](https://www.linkedin.com/jobs/view/4480669711) | 2026-10-24 |
 | Volvo Group | Intern: Manufacturing Engineer (Spring 2027) | Hagerstown, MD | [Apply](https://www.linkedin.com/jobs/view/4482897919) | 2026-10-23 |
 | Volvo Group | Intern: Manufacturing Engineer Cab Factory (Spring 2027) | Dublin, VA | [Apply](https://www.linkedin.com/jobs/view/4483109489) | 2026-10-23 |
