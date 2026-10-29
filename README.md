@@ -3,10 +3,11 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-29 09:01 UTC — 490 active postings, 7 new this run._
+_Last updated: 2026-10-29 19:55 UTC — 491 active postings, 1 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Impulse Space | Avionics Mechanical Engineering Intern (Summer 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4484979796) | 2026-10-29 |
 | Arc | Manufacturing Engineering Intern | Torrance, CA | [Apply](https://www.linkedin.com/jobs/view/4484907509) | 2026-10-29 |
 | WorldEngine AI | Research Intern - Robotics Data - Real-to-Sim | SF | [Apply](https://jobs.ashbyhq.com/worldengine/ba22a6ae-9b75-4078-83c4-d908a29ccdd9/application?embed=true) | 2026-10-28 |
 | Viavi Solutions | Hardware Engineer Co-op Intern | Germantown, MD | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Intern_260005108-1) | 2026-10-28 |
