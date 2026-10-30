@@ -3,11 +3,13 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-30 09:11 UTC — 503 active postings, 12 new this run._
+_Last updated: 2026-10-30 19:46 UTC — 506 active postings, 3 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | Stratolaunch | Manufacturing Systems & Data Intern - Systems | Mojave, CA | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008) | 2026-10-30 |
+| Johns Hopkins Applied Physics Laboratory | 2027 Internship - Robotics Engineer – Maritime Systems | Laurel, MD | [Apply](https://www.linkedin.com/jobs/view/4483490459) | 2026-10-30 |
+| Johns Hopkins Applied Physics Laboratory | Robotics Engineer Intern - Maritime Systems | Laurel, MD | [Apply](https://careers.jhuapl.edu/jobs/60742?icims=1) | 2026-10-30 |
 | Horizon Lane | Manufacturing Engineer Interns | California, CA | [Apply](https://www.linkedin.com/jobs/view/4483408961) | 2026-10-30 |
 | E2 Consulting Engineers, LP | Substation Design Engineer Intern –Part Time | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/4485268314) | 2026-10-30 |
 | Astera Institute | Robotics Systems Intern | California, United States | [Apply](https://www.linkedin.com/jobs/view/4485289404) | 2026-10-30 |
@@ -43,6 +45,7 @@ _Last updated: 2026-10-30 09:11 UTC — 503 active postings, 12 new this run._
 | HP IQ | Product Design Engineering Intern | SF | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6141235004) | 2026-10-27 |
 | Enercon Services, Inc. | Intern- Mechanical Engineer - Pipeline and Power Generation Group | Peachtree Corners, GA | [Apply](https://www.linkedin.com/jobs/view/4483822049) | 2026-10-27 |
 | Enercon Services, Inc. | Intern- Mechanical Engineer - Pipeline and Power Generation Group | Kennesaw, GA | [Apply](https://www.linkedin.com/jobs/view/4483811650) | 2026-10-27 |
+| Cisco | Hardware Engineer I (Intern) - United States | San Jose, CA | [Apply](https://www.linkedin.com/jobs/view/4467457028) | 2026-10-27 |
 | Centific | Robotics Intern | Palo Alto, CA; Redmond, WA | [Apply](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Robotics-Intern_JR107981) | 2026-10-27 |
 | AeroVironment | Test Engineer Intern - Space Technologies | Albuquerque, NM | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253) | 2026-10-27 |
 | AV | Manufacturing Engineering Intern | Petaluma, CA | [Apply](https://www.linkedin.com/jobs/view/4484260895) | 2026-10-27 |
