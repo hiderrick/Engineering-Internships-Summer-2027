@@ -3,11 +3,22 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-29 19:55 UTC — 491 active postings, 1 new this run._
+_Last updated: 2026-10-30 09:11 UTC — 503 active postings, 12 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Stratolaunch | Manufacturing Systems & Data Intern - Systems | Mojave, CA | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008) | 2026-10-30 |
+| Horizon Lane | Manufacturing Engineer Interns | California, CA | [Apply](https://www.linkedin.com/jobs/view/4483408961) | 2026-10-30 |
+| E2 Consulting Engineers, LP | Substation Design Engineer Intern –Part Time | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/4485268314) | 2026-10-30 |
+| Astera Institute | Robotics Systems Intern | California, United States | [Apply](https://www.linkedin.com/jobs/view/4485289404) | 2026-10-30 |
+| ASML | Internship - Mechatronics Engineer | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/4485280282) | 2026-10-30 |
+| Toyota Research Institute | Robotics Intern - Human-Machine Interaction Research | Los Altos, CA | [Apply](https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8/apply) | 2026-10-29 |
+| Palona AI | PhD Research Intern - Robotics & Physical AI | Los Altos, CA | [Apply](https://apply.workable.com/palona/j/7B3B722546/apply) | 2026-10-29 |
+| Northrop Grumman | Systems Engineer Intern | Woodland Hills, LA | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1) | 2026-10-29 |
+| NVIDIA | VLSI CAD Timing Intern - Applied AI | Santa Clara, CA; United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) | 2026-10-29 |
+| Lunar Energy | Hardware Test Engineer Intern | Mountain View, CA | [Apply](https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004) | 2026-10-29 |
 | Impulse Space | Avionics Mechanical Engineering Intern (Summer 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4484979796) | 2026-10-29 |
+| Heart Aerospace | Mechanical Design Intern, Mechanical Systems | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4485254413) | 2026-10-29 |
 | Arc | Manufacturing Engineering Intern | Torrance, CA | [Apply](https://www.linkedin.com/jobs/view/4484907509) | 2026-10-29 |
 | WorldEngine AI | Research Intern - Robotics Data - Real-to-Sim | SF | [Apply](https://jobs.ashbyhq.com/worldengine/ba22a6ae-9b75-4078-83c4-d908a29ccdd9/application?embed=true) | 2026-10-28 |
 | Viavi Solutions | Hardware Engineer Co-op Intern | Germantown, MD | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Intern_260005108-1) | 2026-10-28 |
@@ -160,6 +171,7 @@ _Last updated: 2026-10-29 19:55 UTC — 491 active postings, 1 new this run._
 | Keysight Technologies | R&D Hardware Design Engineer Intern | Santa Rosa, CA | [Apply](https://jobs.keysight.com/jobs/54389?icims=1) | 2026-10-13 |
 | Keysight Technologies | R&D Hardware Design Engineer, Intern | Santa Rosa, CA | [Apply](https://www.linkedin.com/jobs/view/4476472799) | 2026-10-13 |
 | Hewlett Packard Enterprise | Thermal/Mechanical Engineering Intern | Spring, TX | [Apply](https://www.linkedin.com/jobs/view/4478716138) | 2026-10-13 |
+| GE Vernova | GE Vernova Investment Casting Manufacturing Internship – 2027 | Schenectady, NY | [Apply](https://www.linkedin.com/jobs/view/4479213928) | 2026-10-13 |
 | Draper | Acoustic and Vibration Technologies Intern - Summer 2027 | Cambridge, MA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) | 2026-10-13 |
 | Astera Labs | Analog/Mixed Signal System Test Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005) | 2026-10-13 |
 | Astera Labs | Analog/Mixed-Signal IC Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) | 2026-10-13 |

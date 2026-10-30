@@ -1,5 +1,111 @@
 [
  {
+  "id": "simplify:ac27249b-0f36-44ff-a07c-513168c4e98b",
+  "source": "simplify",
+  "company": "Stratolaunch",
+  "title": "Manufacturing Systems & Data Intern - Systems",
+  "location": "Mojave, CA",
+  "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008",
+  "date_posted": "2026-10-30",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-30"
+ },
+ {
+  "id": "linkedin:4483408961",
+  "source": "linkedin",
+  "company": "Horizon Lane",
+  "title": "Manufacturing Engineer Interns",
+  "location": "California, CA",
+  "url": "https://www.linkedin.com/jobs/view/4483408961",
+  "date_posted": "2026-10-30",
+  "first_seen": "2026-10-30"
+ },
+ {
+  "id": "linkedin:4485268314",
+  "source": "linkedin",
+  "company": "E2 Consulting Engineers, LP",
+  "title": "Substation Design Engineer Intern \u2013Part Time",
+  "location": "San Diego, CA",
+  "url": "https://www.linkedin.com/jobs/view/4485268314",
+  "date_posted": "2026-10-30",
+  "first_seen": "2026-10-30"
+ },
+ {
+  "id": "linkedin:4485289404",
+  "source": "linkedin",
+  "company": "Astera Institute",
+  "title": "Robotics Systems Intern",
+  "location": "California, United States",
+  "url": "https://www.linkedin.com/jobs/view/4485289404",
+  "date_posted": "2026-10-30",
+  "first_seen": "2026-10-30"
+ },
+ {
+  "id": "linkedin:4485280282",
+  "source": "linkedin",
+  "company": "ASML",
+  "title": "Internship - Mechatronics Engineer",
+  "location": "Wilton Center, CT",
+  "url": "https://www.linkedin.com/jobs/view/4485280282",
+  "date_posted": "2026-10-30",
+  "first_seen": "2026-10-30"
+ },
+ {
+  "id": "simplify:40dcbe28-8038-44a9-8c60-1b92462057e6",
+  "source": "simplify",
+  "company": "Toyota Research Institute",
+  "title": "Robotics Intern - Human-Machine Interaction Research",
+  "location": "Los Altos, CA",
+  "url": "https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8/apply",
+  "date_posted": "2026-10-29",
+  "term": "Summer 2026",
+  "first_seen": "2026-10-30"
+ },
+ {
+  "id": "simplify:0e52218c-4dba-446d-89a2-b1377acfb004",
+  "source": "simplify",
+  "company": "Palona AI",
+  "title": "PhD Research Intern - Robotics & Physical AI",
+  "location": "Los Altos, CA",
+  "url": "https://apply.workable.com/palona/j/7B3B722546/apply",
+  "date_posted": "2026-10-29",
+  "term": "N/A",
+  "first_seen": "2026-10-30"
+ },
+ {
+  "id": "simplify:b9797b22-811f-4d42-b0c1-22917f860e5a",
+  "source": "simplify",
+  "company": "Northrop Grumman",
+  "title": "Systems Engineer Intern",
+  "location": "Woodland Hills, LA",
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1",
+  "date_posted": "2026-10-29",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-30"
+ },
+ {
+  "id": "simplify:6ba1d622-dff1-406f-b2d2-00d66540c3f3",
+  "source": "simplify",
+  "company": "NVIDIA",
+  "title": "VLSI CAD Timing Intern - Applied AI",
+  "location": "Santa Clara, CA; United States",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
+  "date_posted": "2026-10-29",
+  "term": "Summer 2027",
+  "first_seen": "2026-10-30"
+ },
+ {
+  "id": "simplify:42ce9d03-f003-41c2-bda0-34698bc83276",
+  "source": "simplify",
+  "company": "Lunar Energy",
+  "title": "Hardware Test Engineer Intern",
+  "location": "Mountain View, CA",
+  "url": "https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004",
+  "date_posted": "2026-10-29",
+  "term": "Spring 2027",
+  "first_seen": "2026-10-30"
+ },
+ {
   "id": "linkedin:4484979796",
   "source": "linkedin",
   "company": "Impulse Space",
@@ -8,6 +114,16 @@
   "url": "https://www.linkedin.com/jobs/view/4484979796",
   "date_posted": "2026-10-29",
   "first_seen": "2026-10-29"
+ },
+ {
+  "id": "linkedin:4485254413",
+  "source": "linkedin",
+  "company": "Heart Aerospace",
+  "title": "Mechanical Design Intern, Mechanical Systems",
+  "location": "Los Angeles, CA",
+  "url": "https://www.linkedin.com/jobs/view/4485254413",
+  "date_posted": "2026-10-29",
+  "first_seen": "2026-10-30"
  },
  {
   "id": "linkedin:4484907509",
@@ -1614,6 +1730,16 @@
   "url": "https://www.linkedin.com/jobs/view/4478716138",
   "date_posted": "2026-10-13",
   "first_seen": "2026-10-14"
+ },
+ {
+  "id": "linkedin:4479213928",
+  "source": "linkedin",
+  "company": "GE Vernova",
+  "title": "GE Vernova Investment Casting Manufacturing Internship \u2013 2027",
+  "location": "Schenectady, NY",
+  "url": "https://www.linkedin.com/jobs/view/4479213928",
+  "date_posted": "2026-10-13",
+  "first_seen": "2026-10-30"
  },
  {
   "id": "simplify:947e4dcb-1124-4048-a1f3-ae39c39fa2cb",
