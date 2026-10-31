@@ -3,16 +3,21 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-10-30 19:46 UTC — 506 active postings, 3 new this run._
+_Last updated: 2026-10-31 09:00 UTC — 511 active postings, 5 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | Stratolaunch | Manufacturing Systems & Data Intern - Systems | Mojave, CA | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008) | 2026-10-30 |
+| Samsung | SRAM Design Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003) | 2026-10-30 |
+| Keysight Technologies | Quality Engineer Intern | Roseville, CA | [Apply](https://jobs.keysight.com/jobs/54736?icims=1) | 2026-10-30 |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Robotics Engineer – Maritime Systems | Laurel, MD | [Apply](https://www.linkedin.com/jobs/view/4483490459) | 2026-10-30 |
 | Johns Hopkins Applied Physics Laboratory | Robotics Engineer Intern - Maritime Systems | Laurel, MD | [Apply](https://careers.jhuapl.edu/jobs/60742?icims=1) | 2026-10-30 |
+| Itron | Systems Engineer Intern | West Union, SC | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-1) | 2026-10-30 |
 | Horizon Lane | Manufacturing Engineer Interns | California, CA | [Apply](https://www.linkedin.com/jobs/view/4483408961) | 2026-10-30 |
 | E2 Consulting Engineers, LP | Substation Design Engineer Intern –Part Time | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/4485268314) | 2026-10-30 |
+| Cadillac Formula 1 Team | Aerodynamics AI Industrial Placement Intern | Indianapolis, IN | [Apply](https://apply.workable.com/cadillacf1team/j/7995A5E448/apply) | 2026-10-30 |
 | Astera Institute | Robotics Systems Intern | California, United States | [Apply](https://www.linkedin.com/jobs/view/4485289404) | 2026-10-30 |
+| Altera | Hardware Design Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367) | 2026-10-30 |
 | ASML | Internship - Mechatronics Engineer | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/4485280282) | 2026-10-30 |
 | Toyota Research Institute | Robotics Intern - Human-Machine Interaction Research | Los Altos, CA | [Apply](https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8/apply) | 2026-10-29 |
 | Palona AI | PhD Research Intern - Robotics & Physical AI | Los Altos, CA | [Apply](https://apply.workable.com/palona/j/7B3B722546/apply) | 2026-10-29 |
