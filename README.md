@@ -3,10 +3,13 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-02 10:12 UTC — 512 active postings, 1 new this run._
+_Last updated: 2026-11-02 22:55 UTC — 515 active postings, 3 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Semtech | Test Engineer Intern | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667) | 2026-11-02 |
+| Peterbilt Motors Company | 2027 Summer Internship: Design Engineer- Routings Development | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/4486452542) | 2026-11-02 |
+| Peterbilt Motors Company | 2027 Summer Internship: Design Engineer- Low Cab Forward | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/4486448665) | 2026-11-02 |
 | Stratolaunch | Manufacturing Systems & Data Intern - Systems | Mojave, CA | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008) | 2026-10-30 |
 | Samsung | SRAM Design Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003) | 2026-10-30 |
 | Keysight Technologies | Quality Engineer Intern | Roseville, CA | [Apply](https://jobs.keysight.com/jobs/54736?icims=1) | 2026-10-30 |
