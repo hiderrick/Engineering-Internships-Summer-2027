@@ -3,7 +3,7 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-01 19:15 UTC — 511 active postings._
+_Last updated: 2026-11-02 10:12 UTC — 512 active postings, 1 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
@@ -464,6 +464,7 @@ _Last updated: 2026-11-01 19:15 UTC — 511 active postings._
 | Zipline | Mechanical Engineer Intern (Spring 2027) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4455771486) | 2026-09-09 |
 | Thermo Fisher Scientific | Manufacturing Engineering Intern | Carlsbad, CA | [Apply](https://www.linkedin.com/jobs/view/4463582990) | 2026-09-09 |
 | Pyka | Mechanical Engineering Internship - Winter/Spring 2027 (Dropship, Early Interest) | Alameda, CA | [Apply](https://www.linkedin.com/jobs/view/4465314630) | 2026-09-09 |
+| ITW Hartness | Manufacturing Engineer Intern | Greenville, SC | [Apply](https://www.linkedin.com/jobs/view/4465363092) | 2026-09-09 |
 | Hermeus | Manufacturing Engineering Intern - Spring/Summer/Fall 2027 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4465081017) | 2026-09-09 |
 | Hermeus | Mechanical Engineering Intern - Spring/Summer 2027 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4465079428) | 2026-09-09 |
 | Hermeus | Propulsion Component Engineering Intern - Spring 2027 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4461777165) | 2026-09-09 |
