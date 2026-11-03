@@ -3,13 +3,22 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-02 22:55 UTC — 515 active postings, 3 new this run._
+_Last updated: 2026-11-03 10:12 UTC — 526 active postings, 11 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Peterbilt Motors Company | 2027 Summer Internship: Design Engineer- Air Systems Development | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/4486813204) | 2026-11-03 |
+| Peterbilt Motors Company | 2027 Summer Internship: Design Engineer- Chassis Development | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/4486495890) | 2026-11-03 |
 | Semtech | Test Engineer Intern | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667) | 2026-11-02 |
+| Qualcomm | Digital Design Engineer Intern | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913672) | 2026-11-02 |
 | Peterbilt Motors Company | 2027 Summer Internship: Design Engineer- Routings Development | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/4486452542) | 2026-11-02 |
 | Peterbilt Motors Company | 2027 Summer Internship: Design Engineer- Low Cab Forward | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/4486448665) | 2026-11-02 |
+| Meta | Research Scientist Intern - Robotic Control Policy | Redmond, WA | [Apply](https://www.metacareers.com/jobs/1872420890835857) | 2026-11-02 |
+| Meta | Research Scientist Intern - Interactive Physics Simulation for Robotics | Redmond, WA | [Apply](https://www.metacareers.com/jobs/1143164681833409) | 2026-11-02 |
+| Corning | Haptic Metrology & Stylus Tablet Development Intern | Corning, NY | [Apply](https://corningjobs.corning.com/job/Corning-Intern,-Haptic-Metrology-&-Stylus-Tablet-Development-Summer-2027-NY-14831/1446860600/?ats=successfactors) | 2026-11-02 |
+| Copeland | Mechanical Engineering Internship Program (Spring & Summer 2027) | St Louis, MO | [Apply](https://www.linkedin.com/jobs/view/4484609778) | 2026-11-02 |
+| Copeland | Mechanical Engineering Internship Program (Spring & Summer 2027) | Sidney, OH | [Apply](https://www.linkedin.com/jobs/view/4484602969) | 2026-11-02 |
+| Ciena | Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op) | Montreal, QC, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040) | 2026-11-02 |
 | Stratolaunch | Manufacturing Systems & Data Intern - Systems | Mojave, CA | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008) | 2026-10-30 |
 | Samsung | SRAM Design Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003) | 2026-10-30 |
 | Keysight Technologies | Quality Engineer Intern | Roseville, CA | [Apply](https://jobs.keysight.com/jobs/54736?icims=1) | 2026-10-30 |
@@ -136,6 +145,7 @@ _Last updated: 2026-11-02 22:55 UTC — 515 active postings, 3 new this run._
 | Carrier Global | Test Engineer Intern | Fort Wayne, IN | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233) | 2026-10-19 |
 | Leonardo | Test Systems Engineer Intern | Edinburgh, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Systems-Engineer_R0034207) | 2026-10-18 |
 | Leonardo | Hardware Engineer Intern | Luton, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Hardware-Engineer_R0032911) | 2026-10-18 |
+| Harbinger | Intern, Powertrain Manufacturing | Garden Grove, CA | [Apply](https://www.linkedin.com/jobs/view/4463794629) | 2026-10-18 |
 | CesiumAstro | Summer 2027 - Flight Dynamics Internship | Huntsville, AL | [Apply](https://www.linkedin.com/jobs/view/4480585872) | 2026-10-17 |
 | CACI International Inc | Aerospace Engineer Intern - Summer 2027 | Aberdeen Proving Ground, MD | [Apply](https://www.linkedin.com/jobs/view/4477776728) | 2026-10-17 |
 | CACI International Inc | Aerospace Engineer Intern - Summer 2027 | Aberdeen Proving Ground, MD | [Apply](https://www.linkedin.com/jobs/view/4477770926) | 2026-10-17 |
@@ -171,6 +181,7 @@ _Last updated: 2026-11-02 22:55 UTC — 515 active postings, 3 new this run._
 | Meta | Manufacturing Test Engineer Intern - AI | Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/954380870617862) | 2026-10-14 |
 | Meta | Hardware Engineer Intern - Camera & Sensing Architecture | Redmond, WA; Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/29216393121298039) | 2026-10-14 |
 | Field AI | Robotics Research Intern - Embodied AI | Irvine, CA | [Apply](https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply) | 2026-10-14 |
+| Cisco | Hardware Engineer II Intern - United States | San Jose, CA | [Apply](https://www.linkedin.com/jobs/view/4470622600) | 2026-10-14 |
 | 7-Eleven | Robotics Engineering Intern | Irving, TX | [Apply](https://www.linkedin.com/jobs/view/4479272629) | 2026-10-14 |
 | Wing | Mechanical Engineering Intern, Summer 2027 | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/4478183021) | 2026-10-13 |
 | Wing | Aerodynamics Engineering Intern, Summer 2027 | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/4478183019) | 2026-10-13 |

@@ -1,5 +1,25 @@
 [
  {
+  "id": "linkedin:4486813204",
+  "source": "linkedin",
+  "company": "Peterbilt Motors Company",
+  "title": "2027 Summer Internship: Design Engineer- Air Systems Development",
+  "location": "Denton, TX",
+  "url": "https://www.linkedin.com/jobs/view/4486813204",
+  "date_posted": "2026-11-03",
+  "first_seen": "2026-11-03"
+ },
+ {
+  "id": "linkedin:4486495890",
+  "source": "linkedin",
+  "company": "Peterbilt Motors Company",
+  "title": "2027 Summer Internship: Design Engineer- Chassis Development",
+  "location": "Denton, TX",
+  "url": "https://www.linkedin.com/jobs/view/4486495890",
+  "date_posted": "2026-11-03",
+  "first_seen": "2026-11-03"
+ },
+ {
   "id": "simplify:b82461c9-bd4a-4d07-9c86-a428e3f4566a",
   "source": "simplify",
   "company": "Semtech",
@@ -9,6 +29,17 @@
   "date_posted": "2026-11-02",
   "term": "N/A",
   "first_seen": "2026-11-02"
+ },
+ {
+  "id": "simplify:72e029a1-e47a-477e-a7d0-cb53cdd3468c",
+  "source": "simplify",
+  "company": "Qualcomm",
+  "title": "Digital Design Engineer Intern",
+  "location": "Toronto, ON, Canada",
+  "url": "https://qualcomm.eightfold.ai/careers/job/446721913672",
+  "date_posted": "2026-11-02",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-03"
  },
  {
   "id": "linkedin:4486452542",
@@ -29,6 +60,70 @@
   "url": "https://www.linkedin.com/jobs/view/4486448665",
   "date_posted": "2026-11-02",
   "first_seen": "2026-11-02"
+ },
+ {
+  "id": "simplify:6ec1e81b-4fcc-4f96-8e08-01f231df526c",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - Robotic Control Policy",
+  "location": "Redmond, WA",
+  "url": "https://www.metacareers.com/jobs/1872420890835857",
+  "date_posted": "2026-11-02",
+  "term": "N/A",
+  "first_seen": "2026-11-03"
+ },
+ {
+  "id": "simplify:805fa8a6-96cb-4f51-8398-5cca7acfe9a8",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - Interactive Physics Simulation for Robotics",
+  "location": "Redmond, WA",
+  "url": "https://www.metacareers.com/jobs/1143164681833409",
+  "date_posted": "2026-11-02",
+  "term": "N/A",
+  "first_seen": "2026-11-03"
+ },
+ {
+  "id": "simplify:b2d11e7f-5df2-478b-bced-42cf9f6b3b8f",
+  "source": "simplify",
+  "company": "Corning",
+  "title": "Haptic Metrology & Stylus Tablet Development Intern",
+  "location": "Corning, NY",
+  "url": "https://corningjobs.corning.com/job/Corning-Intern,-Haptic-Metrology-&-Stylus-Tablet-Development-Summer-2027-NY-14831/1446860600/?ats=successfactors",
+  "date_posted": "2026-11-02",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-03"
+ },
+ {
+  "id": "linkedin:4484609778",
+  "source": "linkedin",
+  "company": "Copeland",
+  "title": "Mechanical Engineering Internship Program (Spring & Summer 2027)",
+  "location": "St Louis, MO",
+  "url": "https://www.linkedin.com/jobs/view/4484609778",
+  "date_posted": "2026-11-02",
+  "first_seen": "2026-11-03"
+ },
+ {
+  "id": "linkedin:4484602969",
+  "source": "linkedin",
+  "company": "Copeland",
+  "title": "Mechanical Engineering Internship Program (Spring & Summer 2027)",
+  "location": "Sidney, OH",
+  "url": "https://www.linkedin.com/jobs/view/4484602969",
+  "date_posted": "2026-11-02",
+  "first_seen": "2026-11-03"
+ },
+ {
+  "id": "simplify:4cef3318-d05a-4bf7-852e-a4e0bc3d3945",
+  "source": "simplify",
+  "company": "Ciena",
+  "title": "Optical New Product Engineering Intern - New Product Introduction \u2013 Photonic Test Engineer (Co-op)",
+  "location": "Montreal, QC, Canada",
+  "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040",
+  "date_posted": "2026-11-02",
+  "term": "N/A",
+  "first_seen": "2026-11-03"
  },
  {
   "id": "simplify:ac27249b-0f36-44ff-a07c-513168c4e98b",
@@ -1364,6 +1459,16 @@
   "first_seen": "2026-10-18"
  },
  {
+  "id": "linkedin:4463794629",
+  "source": "linkedin",
+  "company": "Harbinger",
+  "title": "Intern, Powertrain Manufacturing",
+  "location": "Garden Grove, CA",
+  "url": "https://www.linkedin.com/jobs/view/4463794629",
+  "date_posted": "2026-10-18",
+  "first_seen": "2026-11-03"
+ },
+ {
   "id": "linkedin:4480585872",
   "source": "linkedin",
   "company": "CesiumAstro",
@@ -1732,6 +1837,16 @@
   "date_posted": "2026-10-14",
   "term": "Spring 2027, Summer 2027",
   "first_seen": "2026-10-14"
+ },
+ {
+  "id": "linkedin:4470622600",
+  "source": "linkedin",
+  "company": "Cisco",
+  "title": "Hardware Engineer II Intern - United States",
+  "location": "San Jose, CA",
+  "url": "https://www.linkedin.com/jobs/view/4470622600",
+  "date_posted": "2026-10-14",
+  "first_seen": "2026-11-03"
  },
  {
   "id": "linkedin:4479272629",
