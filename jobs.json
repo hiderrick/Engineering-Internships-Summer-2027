@@ -1,5 +1,70 @@
 [
  {
+  "id": "simplify:792c0825-337f-4b99-aa3f-bf1c72df18ac",
+  "source": "simplify",
+  "company": "Zebra Technologies",
+  "title": "Systems Engineer Intern",
+  "location": "Germantown, MD",
+  "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659",
+  "date_posted": "2026-11-04",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-04"
+ },
+ {
+  "id": "simplify:04e80c03-2cb1-479e-9bf5-067d57f8bfd3",
+  "source": "simplify",
+  "company": "L3Harris Technologies",
+  "title": "Systems Engineer Intern",
+  "location": "Nashville, TN",
+  "url": "https://jobs.l3harris.com/job/Nashville-Intern,-Systems-Engineering-TN-37203/1447657800/?ats=successfactors",
+  "date_posted": "2026-11-04",
+  "term": "N/A",
+  "first_seen": "2026-11-04"
+ },
+ {
+  "id": "linkedin:4487509161",
+  "source": "linkedin",
+  "company": "Impulse Space",
+  "title": "Manufacturing Engineering Intern (Spring 2027)",
+  "location": "Redondo Beach, CA",
+  "url": "https://www.linkedin.com/jobs/view/4487509161",
+  "date_posted": "2026-11-04",
+  "first_seen": "2026-11-04"
+ },
+ {
+  "id": "simplify:ce532e1e-900b-4395-b485-90b14f6687f5",
+  "source": "simplify",
+  "company": "Bosch Home Comfort",
+  "title": "Project Management / Test Engineer Intern",
+  "location": "Plymouth, MI",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159649749",
+  "date_posted": "2026-11-04",
+  "term": "N/A",
+  "first_seen": "2026-11-04"
+ },
+ {
+  "id": "simplify:548cd2a3-8ee2-4f86-94ec-3f6d550e9b8f",
+  "source": "simplify",
+  "company": "Xanadu",
+  "title": "Photonics Test Engineer Intern",
+  "location": "Toronto, ON, Canada",
+  "url": "https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4",
+  "date_posted": "2026-11-03",
+  "term": "N/A",
+  "first_seen": "2026-11-04"
+ },
+ {
+  "id": "simplify:07c0aaba-5e5e-4d4f-a281-4ab944ab655c",
+  "source": "simplify",
+  "company": "Teledyne",
+  "title": "Thermal Test Co-op",
+  "location": "Montreal, QC, Canada",
+  "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Montreal-QC-TDY/Stagiaire-en-tests-thermiques--Thermal-Test-Co-op_REQ37169",
+  "date_posted": "2026-11-03",
+  "term": "N/A",
+  "first_seen": "2026-11-04"
+ },
+ {
   "id": "linkedin:4486813204",
   "source": "linkedin",
   "company": "Peterbilt Motors Company",
@@ -18,6 +83,39 @@
   "url": "https://www.linkedin.com/jobs/view/4486495890",
   "date_posted": "2026-11-03",
   "first_seen": "2026-11-03"
+ },
+ {
+  "id": "simplify:a8192ed5-e5e9-415e-a09c-8bbc96ebe4bd",
+  "source": "simplify",
+  "company": "Moderna",
+  "title": "mRNA Design Engineer Co-op",
+  "location": "Cambridge, MA",
+  "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20128",
+  "date_posted": "2026-11-03",
+  "term": "Winter 2027",
+  "first_seen": "2026-11-04"
+ },
+ {
+  "id": "simplify:a0b8884a-5b8e-414d-8606-98972b7a41e3",
+  "source": "simplify",
+  "company": "Hewlett Packard Enterprise",
+  "title": "Hardware Engineer Intern",
+  "location": "Westford, MA",
+  "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Hardware-Engineering-Intern_1214170",
+  "date_posted": "2026-11-03",
+  "term": "N/A",
+  "first_seen": "2026-11-04"
+ },
+ {
+  "id": "simplify:af6fdf38-6eaa-4d83-b6cd-42adfe581363",
+  "source": "simplify",
+  "company": "Arlo Technologies",
+  "title": "Hardware Engineer Co-op",
+  "location": "Richmond, BC, Canada",
+  "url": "https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100446",
+  "date_posted": "2026-11-03",
+  "term": "N/A",
+  "first_seen": "2026-11-04"
  },
  {
   "id": "simplify:b82461c9-bd4a-4d07-9c86-a428e3f4566a",
@@ -1782,6 +1880,16 @@
   "date_posted": "2026-10-14",
   "term": "Summer 2027",
   "first_seen": "2026-10-15"
+ },
+ {
+  "id": "linkedin:4469006109",
+  "source": "linkedin",
+  "company": "Micron Technology",
+  "title": "Intern - Design Engineer, HBM",
+  "location": "Richardson, TX",
+  "url": "https://www.linkedin.com/jobs/view/4469006109",
+  "date_posted": "2026-10-14",
+  "first_seen": "2026-11-04"
  },
  {
   "id": "simplify:5dda5cf0-7ad7-41aa-9942-9cccb3a303b8",

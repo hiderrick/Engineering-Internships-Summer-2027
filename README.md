@@ -3,12 +3,21 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-03 20:41 UTC — 526 active postings._
+_Last updated: 2026-11-04 20:58 UTC — 536 active postings, 10 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Zebra Technologies | Systems Engineer Intern | Germantown, MD | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659) | 2026-11-04 |
+| L3Harris Technologies | Systems Engineer Intern | Nashville, TN | [Apply](https://jobs.l3harris.com/job/Nashville-Intern,-Systems-Engineering-TN-37203/1447657800/?ats=successfactors) | 2026-11-04 |
+| Impulse Space | Manufacturing Engineering Intern (Spring 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4487509161) | 2026-11-04 |
+| Bosch Home Comfort | Project Management / Test Engineer Intern | Plymouth, MI | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000159649749) | 2026-11-04 |
+| Xanadu | Photonics Test Engineer Intern | Toronto, ON, Canada | [Apply](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) | 2026-11-03 |
+| Teledyne | Thermal Test Co-op | Montreal, QC, Canada | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Montreal-QC-TDY/Stagiaire-en-tests-thermiques--Thermal-Test-Co-op_REQ37169) | 2026-11-03 |
 | Peterbilt Motors Company | 2027 Summer Internship: Design Engineer- Air Systems Development | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/4486813204) | 2026-11-03 |
 | Peterbilt Motors Company | 2027 Summer Internship: Design Engineer- Chassis Development | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/4486495890) | 2026-11-03 |
+| Moderna | mRNA Design Engineer Co-op | Cambridge, MA | [Apply](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20128) | 2026-11-03 |
+| Hewlett Packard Enterprise | Hardware Engineer Intern | Westford, MA | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Hardware-Engineering-Intern_1214170) | 2026-11-03 |
+| Arlo Technologies | Hardware Engineer Co-op | Richmond, BC, Canada | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100446) | 2026-11-03 |
 | Semtech | Test Engineer Intern | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667) | 2026-11-02 |
 | Qualcomm | Digital Design Engineer Intern | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913672) | 2026-11-02 |
 | Peterbilt Motors Company | 2027 Summer Internship: Design Engineer- Routings Development | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/4486452542) | 2026-11-02 |
@@ -176,6 +185,7 @@ _Last updated: 2026-11-03 20:41 UTC — 526 active postings._
 | RTX | Systems Engineer Intern | Marlborough, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697) | 2026-10-14 |
 | RTX | Electro-Optics Systems Engineer Intern | El Segundo, CA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880582) | 2026-10-14 |
 | Nissan Global | AI Robotics Research Intern | Santa Clara, CA | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267) | 2026-10-14 |
+| Micron Technology | Intern - Design Engineer, HBM | Richardson, TX | [Apply](https://www.linkedin.com/jobs/view/4469006109) | 2026-10-14 |
 | Meta | Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs | Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/1758435721926913) | 2026-10-14 |
 | Meta | Research Scientist Intern - Robotics Foundation Models Mid-Training - PhD | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/1658187582680157) | 2026-10-14 |
 | Meta | Manufacturing Test Engineer Intern - AI | Sunnyvale, CA | [Apply](https://www.metacareers.com/jobs/954380870617862) | 2026-10-14 |
