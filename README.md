@@ -3,14 +3,16 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-05 09:58 UTC — 548 active postings, 12 new this run._
+_Last updated: 2026-11-05 21:15 UTC — 551 active postings, 3 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Westinghouse Electric Company | Summer Intern - Systems Mechanical Engineering | Cranberry Township, PA | [Apply](https://www.linkedin.com/jobs/view/4486785128) | 2026-11-05 |
 | Toyota Research Institute | Robotics Research Intern - Manipulation | Los Altos, CA | [Apply](https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd/apply) | 2026-11-05 |
 | Texas Instruments | Analog IC Design Engineer Intern | Santa Clara, CA | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019660) | 2026-11-05 |
 | Tesla | Internship, Mechanical Engineer, Global Body Repair Business & Technical Operations (Winter/Spring 2027) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/4487734167) | 2026-11-05 |
 | Novelis | Automotive Engineering Co-op | Kennesaw, GA | [Apply](https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false) | 2026-11-05 |
+| Metalenz | Optical Metrology Intern | Boston, MA | [Apply](https://jobs.ashbyhq.com/metalenz/ecc0e9f9-e83e-4d72-abff-0bf6651850d4/application?embed=true) | 2026-11-05 |
 | General Dynamics Mission Systems | Systems Engineer Intern | Manassas, VA | [Apply](https://careers-gdms.icims.com/jobs/75141/job?mobile=true&needsRedirect=false) | 2026-11-05 |
 | General Dynamics Mission Systems | Systems Engineer Intern | Bloomington, MN | [Apply](https://careers-gdms.icims.com/jobs/75108/job?mobile=true&needsRedirect=false) | 2026-11-05 |
 | General Dynamics Mission Systems | Systems Engineer Intern - FCS Auxiliary and Training Systems | Pittsfield, MA | [Apply](https://careers-gdms.icims.com/jobs/74988/job?mobile=true&needsRedirect=false) | 2026-11-05 |
@@ -77,6 +79,7 @@ _Last updated: 2026-11-05 09:58 UTC — 548 active postings, 12 new this run._
 | Red Oak Technologies | Engineering Intern – Robotics & 3D Sensing Technology | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4483653560) | 2026-10-27 |
 | Northrop Grumman | 2027 Mechanical Engineering Intern - Clearfield UT | Clearfield, UT | [Apply](https://www.linkedin.com/jobs/view/4484278290) | 2026-10-27 |
 | Nissan Global | Physical AI Manufacturing Intern | Smyrna, TN | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526) | 2026-10-27 |
+| Micron Technology | Intern - Design Engineer, HBM | Richardson, TX | [Apply](https://www.linkedin.com/jobs/view/4474268526) | 2026-10-27 |
 | Meta | Research Scientist Intern, Robotics | Burlingame, CA | [Apply](https://www.linkedin.com/jobs/view/4481869782) | 2026-10-27 |
 | Introba | Intern, Mechanical Engineering Designer (Fire Protection Designer) | St Louis, MO | [Apply](https://www.linkedin.com/jobs/view/4483678131) | 2026-10-27 |
 | HP IQ | Wireless Automation and Test Engineer Intern - Wireless Automation and Test | SF | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6114741004) | 2026-10-27 |
