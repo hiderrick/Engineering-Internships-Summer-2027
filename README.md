@@ -3,14 +3,25 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-04 20:58 UTC — 536 active postings, 10 new this run._
+_Last updated: 2026-11-05 09:58 UTC — 548 active postings, 12 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Toyota Research Institute | Robotics Research Intern - Manipulation | Los Altos, CA | [Apply](https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd/apply) | 2026-11-05 |
+| Texas Instruments | Analog IC Design Engineer Intern | Santa Clara, CA | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019660) | 2026-11-05 |
+| Tesla | Internship, Mechanical Engineer, Global Body Repair Business & Technical Operations (Winter/Spring 2027) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/4487734167) | 2026-11-05 |
+| Novelis | Automotive Engineering Co-op | Kennesaw, GA | [Apply](https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false) | 2026-11-05 |
+| General Dynamics Mission Systems | Systems Engineer Intern | Manassas, VA | [Apply](https://careers-gdms.icims.com/jobs/75141/job?mobile=true&needsRedirect=false) | 2026-11-05 |
+| General Dynamics Mission Systems | Systems Engineer Intern | Bloomington, MN | [Apply](https://careers-gdms.icims.com/jobs/75108/job?mobile=true&needsRedirect=false) | 2026-11-05 |
+| General Dynamics Mission Systems | Systems Engineer Intern - FCS Auxiliary and Training Systems | Pittsfield, MA | [Apply](https://careers-gdms.icims.com/jobs/74988/job?mobile=true&needsRedirect=false) | 2026-11-05 |
 | Zebra Technologies | Systems Engineer Intern | Germantown, MD | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659) | 2026-11-04 |
+| Toyota Research Institute | Robotics Research Intern, Manipulation | Los Altos, CA | [Apply](https://www.linkedin.com/jobs/view/4487538633) | 2026-11-04 |
+| Samsung Research America | Robotics Lab Intern | Mountain View, CA | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927812002) | 2026-11-04 |
 | L3Harris Technologies | Systems Engineer Intern | Nashville, TN | [Apply](https://jobs.l3harris.com/job/Nashville-Intern,-Systems-Engineering-TN-37203/1447657800/?ats=successfactors) | 2026-11-04 |
+| Intel | Robotics PhD Intern | Hillsboro, OR; Phoenix, AZ | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Robotics-PhD-Intern_JR0288833) | 2026-11-04 |
 | Impulse Space | Manufacturing Engineering Intern (Spring 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4487509161) | 2026-11-04 |
 | Bosch Home Comfort | Project Management / Test Engineer Intern | Plymouth, MI | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000159649749) | 2026-11-04 |
+| AMD | Senior Systems Design Engineer Intern | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/95806?icims=1) | 2026-11-04 |
 | Xanadu | Photonics Test Engineer Intern | Toronto, ON, Canada | [Apply](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) | 2026-11-03 |
 | Teledyne | Thermal Test Co-op | Montreal, QC, Canada | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Montreal-QC-TDY/Stagiaire-en-tests-thermiques--Thermal-Test-Co-op_REQ37169) | 2026-11-03 |
 | Peterbilt Motors Company | 2027 Summer Internship: Design Engineer- Air Systems Development | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/4486813204) | 2026-11-03 |
@@ -56,6 +67,7 @@ _Last updated: 2026-11-04 20:58 UTC — 536 active postings, 10 new this run._
 | Intuitive | Robotics Engineering Intern | Sunnyvale, CA | [Apply](https://www.linkedin.com/jobs/view/4484730130) | 2026-10-28 |
 | Hillphoenix | Robotic Manufacturing Intern | Chester, VA | [Apply](https://www.linkedin.com/jobs/view/4482523922) | 2026-10-28 |
 | GrayMatter Robotics | Robotics Engineering Intern: Systems & Applications | Carson, CA | [Apply](https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320/application?embed=true) | 2026-10-28 |
+| Constellation Energy | Geothermal Production Analytics Engineer Intern | Middletown, CA | [Apply](https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us) | 2026-10-28 |
 | Amazon | Robotics Applied Scientist 2 Intern | Seattle, WA; North Reading, MA; NYC; Bellevue, WA; Sunnyvale, CA; Westborough, MA | [Apply](https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states) | 2026-10-28 |
 | Altera | FPGA Hardware Design Engineer Intern | Marlow, UK | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Hardware-Design-Engineer_R02748) | 2026-10-28 |
 | AV | Mechanical Engineering Intern - Space Technologies | Albuquerque, NM | [Apply](https://www.linkedin.com/jobs/view/4484425081) | 2026-10-28 |

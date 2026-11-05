@@ -1,5 +1,81 @@
 [
  {
+  "id": "simplify:adf27a1a-83ec-43d1-9803-5725ebe314bc",
+  "source": "simplify",
+  "company": "Toyota Research Institute",
+  "title": "Robotics Research Intern - Manipulation",
+  "location": "Los Altos, CA",
+  "url": "https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd/apply",
+  "date_posted": "2026-11-05",
+  "term": "N/A",
+  "first_seen": "2026-11-05"
+ },
+ {
+  "id": "simplify:692ed089-dd60-4de5-8ed9-0502b8138b5c",
+  "source": "simplify",
+  "company": "Texas Instruments",
+  "title": "Analog IC Design Engineer Intern",
+  "location": "Santa Clara, CA",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019660",
+  "date_posted": "2026-11-05",
+  "term": "N/A",
+  "first_seen": "2026-11-05"
+ },
+ {
+  "id": "linkedin:4487734167",
+  "source": "linkedin",
+  "company": "Tesla",
+  "title": "Internship, Mechanical Engineer, Global Body Repair Business & Technical Operations (Winter/Spring 2027)",
+  "location": "Austin, TX",
+  "url": "https://www.linkedin.com/jobs/view/4487734167",
+  "date_posted": "2026-11-05",
+  "first_seen": "2026-11-05"
+ },
+ {
+  "id": "simplify:6bc5b653-b20f-4693-af73-032c636a4618",
+  "source": "simplify",
+  "company": "Novelis",
+  "title": "Automotive Engineering Co-op",
+  "location": "Kennesaw, GA",
+  "url": "https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false",
+  "date_posted": "2026-11-05",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-05"
+ },
+ {
+  "id": "simplify:0ff66bea-367c-4fcd-932b-11b2ae359105",
+  "source": "simplify",
+  "company": "General Dynamics Mission Systems",
+  "title": "Systems Engineer Intern",
+  "location": "Manassas, VA",
+  "url": "https://careers-gdms.icims.com/jobs/75141/job?mobile=true&needsRedirect=false",
+  "date_posted": "2026-11-05",
+  "term": "N/A",
+  "first_seen": "2026-11-05"
+ },
+ {
+  "id": "simplify:b5870ec6-9637-4d19-953b-1a0b79dcf750",
+  "source": "simplify",
+  "company": "General Dynamics Mission Systems",
+  "title": "Systems Engineer Intern",
+  "location": "Bloomington, MN",
+  "url": "https://careers-gdms.icims.com/jobs/75108/job?mobile=true&needsRedirect=false",
+  "date_posted": "2026-11-05",
+  "term": "N/A",
+  "first_seen": "2026-11-05"
+ },
+ {
+  "id": "simplify:31b390de-ce34-4df7-9935-808f52002862",
+  "source": "simplify",
+  "company": "General Dynamics Mission Systems",
+  "title": "Systems Engineer Intern - FCS Auxiliary and Training Systems",
+  "location": "Pittsfield, MA",
+  "url": "https://careers-gdms.icims.com/jobs/74988/job?mobile=true&needsRedirect=false",
+  "date_posted": "2026-11-05",
+  "term": "N/A",
+  "first_seen": "2026-11-05"
+ },
+ {
   "id": "simplify:792c0825-337f-4b99-aa3f-bf1c72df18ac",
   "source": "simplify",
   "company": "Zebra Technologies",
@@ -11,6 +87,27 @@
   "first_seen": "2026-11-04"
  },
  {
+  "id": "linkedin:4487538633",
+  "source": "linkedin",
+  "company": "Toyota Research Institute",
+  "title": "Robotics Research Intern, Manipulation",
+  "location": "Los Altos, CA",
+  "url": "https://www.linkedin.com/jobs/view/4487538633",
+  "date_posted": "2026-11-04",
+  "first_seen": "2026-11-05"
+ },
+ {
+  "id": "simplify:20d830b6-40cc-421f-b108-1ab9adf3ef61",
+  "source": "simplify",
+  "company": "Samsung Research America",
+  "title": "Robotics Lab Intern",
+  "location": "Mountain View, CA",
+  "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927812002",
+  "date_posted": "2026-11-04",
+  "term": "Spring 2027",
+  "first_seen": "2026-11-05"
+ },
+ {
   "id": "simplify:04e80c03-2cb1-479e-9bf5-067d57f8bfd3",
   "source": "simplify",
   "company": "L3Harris Technologies",
@@ -20,6 +117,17 @@
   "date_posted": "2026-11-04",
   "term": "N/A",
   "first_seen": "2026-11-04"
+ },
+ {
+  "id": "simplify:ea9ed74c-2544-4843-9b30-be909c9c0ca8",
+  "source": "simplify",
+  "company": "Intel",
+  "title": "Robotics PhD Intern",
+  "location": "Hillsboro, OR; Phoenix, AZ",
+  "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Robotics-PhD-Intern_JR0288833",
+  "date_posted": "2026-11-04",
+  "term": "N/A",
+  "first_seen": "2026-11-05"
  },
  {
   "id": "linkedin:4487509161",
@@ -41,6 +149,17 @@
   "date_posted": "2026-11-04",
   "term": "N/A",
   "first_seen": "2026-11-04"
+ },
+ {
+  "id": "simplify:5af9e4a2-62e4-479e-a872-0450860c73bd",
+  "source": "simplify",
+  "company": "AMD",
+  "title": "Senior Systems Design Engineer Intern",
+  "location": "Markham, ON, Canada",
+  "url": "https://careers.amd.com/jobs/95806?icims=1",
+  "date_posted": "2026-11-04",
+  "term": "N/A",
+  "first_seen": "2026-11-05"
  },
  {
   "id": "simplify:548cd2a3-8ee2-4f86-94ec-3f6d550e9b8f",
@@ -518,6 +637,17 @@
   "date_posted": "2026-10-28",
   "term": "Fall 2026",
   "first_seen": "2026-10-28"
+ },
+ {
+  "id": "simplify:a13ec5a5-3635-45bd-83ca-08be107e7ef1",
+  "source": "simplify",
+  "company": "Constellation Energy",
+  "title": "Geothermal Production Analytics Engineer Intern",
+  "location": "Middletown, CA",
+  "url": "https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us",
+  "date_posted": "2026-10-28",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-05"
  },
  {
   "id": "simplify:08f5ae2c-794c-4da3-94f0-d72a0a5e2b56",
