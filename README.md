@@ -3,12 +3,18 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-05 21:15 UTC — 551 active postings, 3 new this run._
+_Last updated: 2026-11-06 10:01 UTC — 559 active postings, 8 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Zoox | Hardware Engineer Intern, Manufacturing Operations [Summer 2027] | Foster City, CA | [Apply](https://www.linkedin.com/jobs/view/4486938784) | 2026-11-06 |
+| Zoox | Hardware Engineer Intern - Vehicle Systems | Foster City, CA | [Apply](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b/apply) | 2026-11-06 |
+| Sierra Lobo, Inc. | Aerospace Engineer Intern - Spring/Summer 2027 | Milan, OH | [Apply](https://www.linkedin.com/jobs/view/4486927723) | 2026-11-06 |
+| ASML | Internship -Mechatronics Engineer | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/4488083737) | 2026-11-06 |
 | Westinghouse Electric Company | Summer Intern - Systems Mechanical Engineering | Cranberry Township, PA | [Apply](https://www.linkedin.com/jobs/view/4486785128) | 2026-11-05 |
+| Trust Automation, Inc. | Manufacturing Engineering Internships- Industrial or Manufacturing | San Luis Obispo, CA | [Apply](https://www.linkedin.com/jobs/view/4488068256) | 2026-11-05 |
 | Toyota Research Institute | Robotics Research Intern - Manipulation | Los Altos, CA | [Apply](https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd/apply) | 2026-11-05 |
+| Toyota Research Institute | Robotics Intern - Human-Robot Interaction | Cambridge, MA | [Apply](https://jobs.lever.co/tri/11da7518-14d4-4960-a3aa-57dc010f3642/apply) | 2026-11-05 |
 | Texas Instruments | Analog IC Design Engineer Intern | Santa Clara, CA | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019660) | 2026-11-05 |
 | Tesla | Internship, Mechanical Engineer, Global Body Repair Business & Technical Operations (Winter/Spring 2027) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/4487734167) | 2026-11-05 |
 | Novelis | Automotive Engineering Co-op | Kennesaw, GA | [Apply](https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false) | 2026-11-05 |
@@ -16,6 +22,8 @@ _Last updated: 2026-11-05 21:15 UTC — 551 active postings, 3 new this run._
 | General Dynamics Mission Systems | Systems Engineer Intern | Manassas, VA | [Apply](https://careers-gdms.icims.com/jobs/75141/job?mobile=true&needsRedirect=false) | 2026-11-05 |
 | General Dynamics Mission Systems | Systems Engineer Intern | Bloomington, MN | [Apply](https://careers-gdms.icims.com/jobs/75108/job?mobile=true&needsRedirect=false) | 2026-11-05 |
 | General Dynamics Mission Systems | Systems Engineer Intern - FCS Auxiliary and Training Systems | Pittsfield, MA | [Apply](https://careers-gdms.icims.com/jobs/74988/job?mobile=true&needsRedirect=false) | 2026-11-05 |
+| AstraZeneca | Manufacturing Digital and AI Intern | Gaithersburg, MD | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647) | 2026-11-05 |
+| Applied Materials | Metrology Engineer Co-op Intern | Tempe, AZ | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419) | 2026-11-05 |
 | Zebra Technologies | Systems Engineer Intern | Germantown, MD | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659) | 2026-11-04 |
 | Toyota Research Institute | Robotics Research Intern, Manipulation | Los Altos, CA | [Apply](https://www.linkedin.com/jobs/view/4487538633) | 2026-11-04 |
 | Samsung Research America | Robotics Lab Intern | Mountain View, CA | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927812002) | 2026-11-04 |

@@ -1,5 +1,46 @@
 [
  {
+  "id": "linkedin:4486938784",
+  "source": "linkedin",
+  "company": "Zoox",
+  "title": "Hardware Engineer Intern, Manufacturing Operations [Summer 2027]",
+  "location": "Foster City, CA",
+  "url": "https://www.linkedin.com/jobs/view/4486938784",
+  "date_posted": "2026-11-06",
+  "first_seen": "2026-11-06"
+ },
+ {
+  "id": "simplify:c1dbbda9-9a6c-4ee9-95bf-58b66d48f831",
+  "source": "simplify",
+  "company": "Zoox",
+  "title": "Hardware Engineer Intern - Vehicle Systems",
+  "location": "Foster City, CA",
+  "url": "https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b/apply",
+  "date_posted": "2026-11-06",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-06"
+ },
+ {
+  "id": "linkedin:4486927723",
+  "source": "linkedin",
+  "company": "Sierra Lobo, Inc.",
+  "title": "Aerospace Engineer Intern - Spring/Summer 2027",
+  "location": "Milan, OH",
+  "url": "https://www.linkedin.com/jobs/view/4486927723",
+  "date_posted": "2026-11-06",
+  "first_seen": "2026-11-06"
+ },
+ {
+  "id": "linkedin:4488083737",
+  "source": "linkedin",
+  "company": "ASML",
+  "title": "Internship -Mechatronics Engineer",
+  "location": "Wilton Center, CT",
+  "url": "https://www.linkedin.com/jobs/view/4488083737",
+  "date_posted": "2026-11-06",
+  "first_seen": "2026-11-06"
+ },
+ {
   "id": "linkedin:4486785128",
   "source": "linkedin",
   "company": "Westinghouse Electric Company",
@@ -8,6 +49,16 @@
   "url": "https://www.linkedin.com/jobs/view/4486785128",
   "date_posted": "2026-11-05",
   "first_seen": "2026-11-05"
+ },
+ {
+  "id": "linkedin:4488068256",
+  "source": "linkedin",
+  "company": "Trust Automation, Inc.",
+  "title": "Manufacturing Engineering Internships- Industrial or Manufacturing",
+  "location": "San Luis Obispo, CA",
+  "url": "https://www.linkedin.com/jobs/view/4488068256",
+  "date_posted": "2026-11-05",
+  "first_seen": "2026-11-06"
  },
  {
   "id": "simplify:adf27a1a-83ec-43d1-9803-5725ebe314bc",
@@ -19,6 +70,17 @@
   "date_posted": "2026-11-05",
   "term": "N/A",
   "first_seen": "2026-11-05"
+ },
+ {
+  "id": "simplify:c856142a-f394-49c5-b12d-1b6b4aaade29",
+  "source": "simplify",
+  "company": "Toyota Research Institute",
+  "title": "Robotics Intern - Human-Robot Interaction",
+  "location": "Cambridge, MA",
+  "url": "https://jobs.lever.co/tri/11da7518-14d4-4960-a3aa-57dc010f3642/apply",
+  "date_posted": "2026-11-05",
+  "term": "N/A",
+  "first_seen": "2026-11-06"
  },
  {
   "id": "simplify:692ed089-dd60-4de5-8ed9-0502b8138b5c",
@@ -95,6 +157,28 @@
   "date_posted": "2026-11-05",
   "term": "N/A",
   "first_seen": "2026-11-05"
+ },
+ {
+  "id": "simplify:ba1f1bc5-e94b-415b-84c8-61a6c4affb8b",
+  "source": "simplify",
+  "company": "AstraZeneca",
+  "title": "Manufacturing Digital and AI Intern",
+  "location": "Gaithersburg, MD",
+  "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647",
+  "date_posted": "2026-11-05",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-06"
+ },
+ {
+  "id": "simplify:e038b171-9e84-4c1a-af41-0c25c39b27cc",
+  "source": "simplify",
+  "company": "Applied Materials",
+  "title": "Metrology Engineer Co-op Intern",
+  "location": "Tempe, AZ",
+  "url": "https://amat.wd1.myworkdayjobs.com/External/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419",
+  "date_posted": "2026-11-05",
+  "term": "Winter 2027, Spring 2027",
+  "first_seen": "2026-11-06"
  },
  {
   "id": "simplify:792c0825-337f-4b99-aa3f-bf1c72df18ac",
