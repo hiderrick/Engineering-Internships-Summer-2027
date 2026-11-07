@@ -74,3 +74,4 @@
 2026-11-06 10:01 UTC | sources={'linkedin': 156, 'simplify': 64, 'ats': 19} | new=8 | total=559
 2026-11-06 20:38 UTC | sources={'linkedin': 156, 'simplify': 63, 'ats': 19} | new=7 | total=566
 2026-11-07 09:22 UTC | sources={'linkedin': 156, 'simplify': 65, 'ats': 19} | new=6 | total=572
+2026-11-07 19:08 UTC | sources={'linkedin': 'ERROR: GET failed after 3 attempts: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=mechanical+engineering+intern&location=United+States&f_TPR=r604800%22&start=0&f_E=1 (HTTP Error 429: Too Many Requests)', 'simplify': 65, 'ats': 19} | new=0 | total=572
