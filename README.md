@@ -3,19 +3,25 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-06 20:38 UTC — 566 active postings, 7 new this run._
+_Last updated: 2026-11-07 09:22 UTC — 572 active postings, 6 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| ASML | Internship – Mechatronics Engineer | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/4488490889) | 2026-11-07 |
 | Zoox | Hardware Engineer Intern, Manufacturing Operations [Summer 2027] | Foster City, CA | [Apply](https://www.linkedin.com/jobs/view/4486938784) | 2026-11-06 |
 | Zoox | Hardware Engineer Intern - Vehicle Systems | Foster City, CA | [Apply](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b/apply) | 2026-11-06 |
 | Zoox | Hardware Engineer Intern, Vehicle Development [Summer 2027] | Foster City, CA | [Apply](https://www.linkedin.com/jobs/view/4486951438) | 2026-11-06 |
 | Toyota Research Institute | Robotics Intern - World Action Models for Robot Policy | Cambridge, MA | [Apply](https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d/apply) | 2026-11-06 |
+| Teva Pharmaceuticals | Automation & Robotics Intern (Summer 2027) | Davie, FL | [Apply](https://www.linkedin.com/jobs/view/4488425766) | 2026-11-06 |
 | Sierra Lobo, Inc. | Aerospace Engineer Intern - Spring/Summer 2027 | Milan, OH | [Apply](https://www.linkedin.com/jobs/view/4486927723) | 2026-11-06 |
 | Rivian and Volkswagen Group Technologies | Mechatronics Lab Engineering Intern | Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application?embed=true) | 2026-11-06 |
+| Qualcomm | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) | 2026-11-06 |
+| Meta | Research Scientist Intern - Robotics Foundation Models - Agentic RL | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/1414987577372371) | 2026-11-06 |
+| Enovation Controls | Manufacturing Engineering Test Intern | Tulsa, OK | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648371) | 2026-11-06 |
 | DwyerOmega | Manufacturing Engineering Intern - Spring 2027 Start | San Marcos, CA | [Apply](https://www.linkedin.com/jobs/view/4488173962) | 2026-11-06 |
 | Avynera Studios | Manufacturing Engineering Intern | Broomfield, CO | [Apply](https://www.linkedin.com/jobs/view/4486243522) | 2026-11-06 |
 | ASML | Internship -Mechatronics Engineer | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/4488083737) | 2026-11-06 |
+| ASML | Computational Imaging and Metrology Engineer Intern | San Jose, CA | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102) | 2026-11-06 |
 | AAF International (American Air Filter) | Manufacturing Engineering Intern - Washington NC | Washington, NC | [Apply](https://www.linkedin.com/jobs/view/4486251906) | 2026-11-06 |
 | AAF International (American Air Filter) | Manufacturing Engineer INTERN - Fayetteville, Arkansas | Fayetteville, AR | [Apply](https://www.linkedin.com/jobs/view/4486264454) | 2026-11-06 |
 | Westinghouse Electric Company | Summer Intern - Systems Mechanical Engineering | Cranberry Township, PA | [Apply](https://www.linkedin.com/jobs/view/4486785128) | 2026-11-05 |

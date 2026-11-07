@@ -1,5 +1,15 @@
 [
  {
+  "id": "linkedin:4488490889",
+  "source": "linkedin",
+  "company": "ASML",
+  "title": "Internship \u2013 Mechatronics Engineer",
+  "location": "Wilton Center, CT",
+  "url": "https://www.linkedin.com/jobs/view/4488490889",
+  "date_posted": "2026-11-07",
+  "first_seen": "2026-11-07"
+ },
+ {
   "id": "linkedin:4486938784",
   "source": "linkedin",
   "company": "Zoox",
@@ -42,6 +52,16 @@
   "first_seen": "2026-11-06"
  },
  {
+  "id": "linkedin:4488425766",
+  "source": "linkedin",
+  "company": "Teva Pharmaceuticals",
+  "title": "Automation & Robotics Intern (Summer 2027)",
+  "location": "Davie, FL",
+  "url": "https://www.linkedin.com/jobs/view/4488425766",
+  "date_posted": "2026-11-06",
+  "first_seen": "2026-11-07"
+ },
+ {
   "id": "linkedin:4486927723",
   "source": "linkedin",
   "company": "Sierra Lobo, Inc.",
@@ -61,6 +81,39 @@
   "date_posted": "2026-11-06",
   "term": "Winter 2027, Summer 2027",
   "first_seen": "2026-11-06"
+ },
+ {
+  "id": "simplify:e33aa1d6-a247-4d85-88bb-0e5ab82df7d5",
+  "source": "simplify",
+  "company": "Qualcomm",
+  "title": "Digital Design Engineer Intern - Interim Engineering Intern - Systems",
+  "location": "Toronto, ON, Canada",
+  "url": "https://qualcomm.eightfold.ai/careers/job/446722005254",
+  "date_posted": "2026-11-06",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-07"
+ },
+ {
+  "id": "simplify:d4373beb-9b94-4d3e-8145-7efff9fd8b79",
+  "source": "simplify",
+  "company": "Meta",
+  "title": "Research Scientist Intern - Robotics Foundation Models - Agentic RL",
+  "location": "Menlo Park, CA",
+  "url": "https://www.metacareers.com/jobs/1414987577372371",
+  "date_posted": "2026-11-06",
+  "term": "N/A",
+  "first_seen": "2026-11-07"
+ },
+ {
+  "id": "simplify:2c162b91-d86c-4bad-8755-e98d41eb49ac",
+  "source": "simplify",
+  "company": "Enovation Controls",
+  "title": "Manufacturing Engineering Test Intern",
+  "location": "Tulsa, OK",
+  "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648371",
+  "date_posted": "2026-11-06",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-07"
  },
  {
   "id": "linkedin:4488173962",
@@ -91,6 +144,17 @@
   "url": "https://www.linkedin.com/jobs/view/4488083737",
   "date_posted": "2026-11-06",
   "first_seen": "2026-11-06"
+ },
+ {
+  "id": "simplify:3782f150-ff64-421e-b976-15d91c64802e",
+  "source": "simplify",
+  "company": "ASML",
+  "title": "Computational Imaging and Metrology Engineer Intern",
+  "location": "San Jose, CA",
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Computational-imaging-and-metrology-summer_J-00355102",
+  "date_posted": "2026-11-06",
+  "term": "N/A",
+  "first_seen": "2026-11-07"
  },
  {
   "id": "linkedin:4486251906",
