@@ -3,10 +3,11 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-09 10:31 UTC — 574 active postings, 2 new this run._
+_Last updated: 2026-11-09 23:38 UTC — 576 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Schweitzer Engineering Laboratories | Hardware Engineer Intern | Pullman, WA | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-24373-1) | 2026-11-09 |
 | Hermeus | Manufacturing Engineering Intern - Spring/Summer/Fall 2027 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4488827108) | 2026-11-09 |
 | Systems Planning & Analysis | Mechanical Engineer Intern | Arlington, VA | [Apply](https://www.linkedin.com/jobs/view/4488469330) | 2026-11-07 |
 | ASML | Internship – Mechatronics Engineer | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/4488490889) | 2026-11-07 |
@@ -548,6 +549,7 @@ _Last updated: 2026-11-09 10:31 UTC — 574 active postings, 2 new this run._
 | Steel Dynamics, Inc | Mechanical Engineering Internship | Sinton, TX | [Apply](https://www.linkedin.com/jobs/view/4460932066) | 2026-09-02 |
 | Mercury Marine | Mercury Marine: Mechatronics Intern | Fond du Lac, WI | [Apply](https://www.linkedin.com/jobs/view/4462114140) | 2026-09-02 |
 | Link Manufacturing | Manufacturing Engineering Intern (Academic School Year) | Sioux Center, IA | [Apply](https://www.linkedin.com/jobs/view/4462106720) | 2026-09-02 |
+| First Solar | Manufacturing Engineering Intern (Spring 2027) | Trinity, AL | [Apply](https://www.linkedin.com/jobs/view/4453713642) | 2026-09-02 |
 | Dream Robotics Inc | Robotics Engineering Intern | Mountain View, CA | [Apply](https://www.linkedin.com/jobs/view/4460698365) | 2026-09-02 |
 | Textron | 2027 Internship - Engineering Mechanical Systems - Hydraulics/Gear/Brakes | Wichita, KS | [Apply](https://www.linkedin.com/jobs/view/4461708292) | 2026-09-01 |
 | Textron | 2027 Internship - Engineering Mechanical Systems - ECS/IPS | Wichita, KS | [Apply](https://www.linkedin.com/jobs/view/4461719036) | 2026-09-01 |
