@@ -3,10 +3,12 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-08 19:13 UTC — 572 active postings._
+_Last updated: 2026-11-09 10:31 UTC — 574 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Hermeus | Manufacturing Engineering Intern - Spring/Summer/Fall 2027 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4488827108) | 2026-11-09 |
+| Systems Planning & Analysis | Mechanical Engineer Intern | Arlington, VA | [Apply](https://www.linkedin.com/jobs/view/4488469330) | 2026-11-07 |
 | ASML | Internship – Mechatronics Engineer | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/4488490889) | 2026-11-07 |
 | Zoox | Hardware Engineer Intern, Manufacturing Operations [Summer 2027] | Foster City, CA | [Apply](https://www.linkedin.com/jobs/view/4486938784) | 2026-11-06 |
 | Zoox | Hardware Engineer Intern - Vehicle Systems | Foster City, CA | [Apply](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b/apply) | 2026-11-06 |
