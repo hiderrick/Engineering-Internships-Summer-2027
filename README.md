@@ -3,12 +3,22 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-09 23:38 UTC — 576 active postings, 2 new this run._
+_Last updated: 2026-11-10 10:33 UTC — 587 active postings, 11 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Intuitive Surgical | Robotics and Controls Engineer Intern | Sunnyvale, CA | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160747319) | 2026-11-10 |
+| Intuitive | Robotics and Controls Engineering Intern | Sunnyvale, CA | [Apply](https://www.linkedin.com/jobs/view/4489183950) | 2026-11-10 |
+| Hermeus | Propulsion Component Engineering Intern - Spring 2027 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4487984817) | 2026-11-10 |
+| Hermeus | Mechanical Engineering Intern - Summer/Fall 2027 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4487990706) | 2026-11-10 |
+| Viavi Solutions | Digital Hardware Engineer Intern | Lenexa, KS | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Lenexa-KS-USA/Digital-Hardware-Engineering-Intern_260005289-1) | 2026-11-09 |
+| Toyota Research Institute | Robotics Intern - Teleoperation and Spatial Computing | Cambridge, MA | [Apply](https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871/apply) | 2026-11-09 |
 | Schweitzer Engineering Laboratories | Hardware Engineer Intern | Pullman, WA | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-24373-1) | 2026-11-09 |
+| RTX | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Winter-Spring--Onsite-_01871518) | 2026-11-09 |
+| RTX | Systems Engineer Intern | Cedar Rapids, IA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221) | 2026-11-09 |
+| Hewlett Packard Enterprise | Wireless Hardware Engineer Intern | San Jose, CA | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Hardware-Engineering-Intern_1218701) | 2026-11-09 |
 | Hermeus | Manufacturing Engineering Intern - Spring/Summer/Fall 2027 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4488827108) | 2026-11-09 |
+| Fresenius Medical Care | Verification and Validation Systems Engineer Co-op | Lawrence, MA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/V-V-Systems-Engineer-Co-op_R0277323) | 2026-11-09 |
 | Systems Planning & Analysis | Mechanical Engineer Intern | Arlington, VA | [Apply](https://www.linkedin.com/jobs/view/4488469330) | 2026-11-07 |
 | ASML | Internship – Mechatronics Engineer | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/4488490889) | 2026-11-07 |
 | Zoox | Hardware Engineer Intern, Manufacturing Operations [Summer 2027] | Foster City, CA | [Apply](https://www.linkedin.com/jobs/view/4486938784) | 2026-11-06 |
@@ -16,6 +26,7 @@ _Last updated: 2026-11-09 23:38 UTC — 576 active postings, 2 new this run._
 | Zoox | Hardware Engineer Intern, Vehicle Development [Summer 2027] | Foster City, CA | [Apply](https://www.linkedin.com/jobs/view/4486951438) | 2026-11-06 |
 | Toyota Research Institute | Robotics Intern - World Action Models for Robot Policy | Cambridge, MA | [Apply](https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d/apply) | 2026-11-06 |
 | Teva Pharmaceuticals | Automation & Robotics Intern (Summer 2027) | Davie, FL | [Apply](https://www.linkedin.com/jobs/view/4488425766) | 2026-11-06 |
+| Teva Pharmaceuticals | Automation & Robotics Intern (Summer 2027) | Davie, FL | [Apply](https://www.linkedin.com/jobs/view/4488438075) | 2026-11-06 |
 | Sierra Lobo, Inc. | Aerospace Engineer Intern - Spring/Summer 2027 | Milan, OH | [Apply](https://www.linkedin.com/jobs/view/4486927723) | 2026-11-06 |
 | Rivian and Volkswagen Group Technologies | Mechatronics Lab Engineering Intern | Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application?embed=true) | 2026-11-06 |
 | Qualcomm | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) | 2026-11-06 |
