@@ -3,14 +3,23 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-10 21:04 UTC — 587 active postings._
+_Last updated: 2026-11-11 09:56 UTC — 596 active postings, 9 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Analog Devices | Mechatronics Engineering Intern | Beaverton, OR | [Apply](https://www.linkedin.com/jobs/view/4489674460) | 2026-11-11 |
+| Volvo Group | Intern: Manufacturing Engineer (Summer 2027) | Hagerstown, MD | [Apply](https://www.linkedin.com/jobs/view/4489614536) | 2026-11-10 |
+| SoLa Impact | Manufacturing Engineering Intern | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4487835335) | 2026-11-10 |
+| Sanmina | Manufacturing Engineering Intern | San Jose, CA | [Apply](https://www.linkedin.com/jobs/view/4487830569) | 2026-11-10 |
+| Rambus | CAD Engineer Intern | San Jose, CA | [Apply](https://careers-rambus.icims.com/jobs/23121/job?mobile=true&needsRedirect=false) | 2026-11-10 |
+| Mack Trucks | Intern: Product Mechanical Engineer (Summer 2027) | Salem, VA | [Apply](https://www.linkedin.com/jobs/view/4489626216) | 2026-11-10 |
+| L3Harris Technologies | Intern, Manufacturing Engineer | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4489640174) | 2026-11-10 |
 | Intuitive Surgical | Robotics and Controls Engineer Intern | Sunnyvale, CA | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160747319) | 2026-11-10 |
 | Intuitive | Robotics and Controls Engineering Intern | Sunnyvale, CA | [Apply](https://www.linkedin.com/jobs/view/4489183950) | 2026-11-10 |
 | Hermeus | Propulsion Component Engineering Intern - Spring 2027 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4487984817) | 2026-11-10 |
 | Hermeus | Mechanical Engineering Intern - Summer/Fall 2027 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4487990706) | 2026-11-10 |
+| GlobalFoundries | Systems Engineer Intern | Richardson, TX | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045) | 2026-11-10 |
+| Constellation Brands | Digital Manufacturing Technology Intern | Rochester, NY; San Antonio, TX | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681) | 2026-11-10 |
 | Viavi Solutions | Digital Hardware Engineer Intern | Lenexa, KS | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Lenexa-KS-USA/Digital-Hardware-Engineering-Intern_260005289-1) | 2026-11-09 |
 | Toyota Research Institute | Robotics Intern - Teleoperation and Spatial Computing | Cambridge, MA | [Apply](https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871/apply) | 2026-11-09 |
 | Schweitzer Engineering Laboratories | Hardware Engineer Intern | Pullman, WA | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-24373-1) | 2026-11-09 |

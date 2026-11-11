@@ -1,5 +1,76 @@
 [
  {
+  "id": "linkedin:4489674460",
+  "source": "linkedin",
+  "company": "Analog Devices",
+  "title": "Mechatronics Engineering Intern",
+  "location": "Beaverton, OR",
+  "url": "https://www.linkedin.com/jobs/view/4489674460",
+  "date_posted": "2026-11-11",
+  "first_seen": "2026-11-11"
+ },
+ {
+  "id": "linkedin:4489614536",
+  "source": "linkedin",
+  "company": "Volvo Group",
+  "title": "Intern: Manufacturing Engineer (Summer 2027)",
+  "location": "Hagerstown, MD",
+  "url": "https://www.linkedin.com/jobs/view/4489614536",
+  "date_posted": "2026-11-10",
+  "first_seen": "2026-11-11"
+ },
+ {
+  "id": "linkedin:4487835335",
+  "source": "linkedin",
+  "company": "SoLa Impact",
+  "title": "Manufacturing Engineering Intern",
+  "location": "Los Angeles, CA",
+  "url": "https://www.linkedin.com/jobs/view/4487835335",
+  "date_posted": "2026-11-10",
+  "first_seen": "2026-11-11"
+ },
+ {
+  "id": "linkedin:4487830569",
+  "source": "linkedin",
+  "company": "Sanmina",
+  "title": "Manufacturing Engineering Intern",
+  "location": "San Jose, CA",
+  "url": "https://www.linkedin.com/jobs/view/4487830569",
+  "date_posted": "2026-11-10",
+  "first_seen": "2026-11-11"
+ },
+ {
+  "id": "simplify:425703fe-ec4e-4fde-a447-2415ec7cdeac",
+  "source": "simplify",
+  "company": "Rambus",
+  "title": "CAD Engineer Intern",
+  "location": "San Jose, CA",
+  "url": "https://careers-rambus.icims.com/jobs/23121/job?mobile=true&needsRedirect=false",
+  "date_posted": "2026-11-10",
+  "term": "N/A",
+  "first_seen": "2026-11-11"
+ },
+ {
+  "id": "linkedin:4489626216",
+  "source": "linkedin",
+  "company": "Mack Trucks",
+  "title": "Intern: Product Mechanical Engineer (Summer 2027)",
+  "location": "Salem, VA",
+  "url": "https://www.linkedin.com/jobs/view/4489626216",
+  "date_posted": "2026-11-10",
+  "first_seen": "2026-11-11"
+ },
+ {
+  "id": "linkedin:4489640174",
+  "source": "linkedin",
+  "company": "L3Harris Technologies",
+  "title": "Intern, Manufacturing Engineer",
+  "location": "Los Angeles, CA",
+  "url": "https://www.linkedin.com/jobs/view/4489640174",
+  "date_posted": "2026-11-10",
+  "first_seen": "2026-11-11"
+ },
+ {
   "id": "simplify:ec753813-5b9a-4724-aa04-29e2d05da32a",
   "source": "simplify",
   "company": "Intuitive Surgical",
@@ -39,6 +110,28 @@
   "url": "https://www.linkedin.com/jobs/view/4487990706",
   "date_posted": "2026-11-10",
   "first_seen": "2026-11-10"
+ },
+ {
+  "id": "simplify:ec960685-32ba-4b85-a1ed-2584192d31aa",
+  "source": "simplify",
+  "company": "GlobalFoundries",
+  "title": "Systems Engineer Intern",
+  "location": "Richardson, TX",
+  "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045",
+  "date_posted": "2026-11-10",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-11"
+ },
+ {
+  "id": "simplify:9ff0c472-dd4d-4201-9660-d99b20c9212c",
+  "source": "simplify",
+  "company": "Constellation Brands",
+  "title": "Digital Manufacturing Technology Intern",
+  "location": "Rochester, NY; San Antonio, TX",
+  "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681",
+  "date_posted": "2026-11-10",
+  "term": "N/A",
+  "first_seen": "2026-11-11"
  },
  {
   "id": "simplify:532e2d8b-3d5d-4469-b85c-3e90d722d47c",
