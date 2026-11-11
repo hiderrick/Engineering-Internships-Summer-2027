@@ -3,10 +3,12 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-11 09:56 UTC — 596 active postings, 9 new this run._
+_Last updated: 2026-11-11 21:38 UTC — 598 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Nexteer Automotive | Robotics & Physical AI Intern - Summer 2027 | Saginaw, MI | [Apply](https://www.linkedin.com/jobs/view/4489977772) | 2026-11-11 |
+| Apple | CAD Virtuoso Engineer Intern | Swindon, UK | [Apply](https://jobs.apple.com/en-us/details/200693133) | 2026-11-11 |
 | Analog Devices | Mechatronics Engineering Intern | Beaverton, OR | [Apply](https://www.linkedin.com/jobs/view/4489674460) | 2026-11-11 |
 | Volvo Group | Intern: Manufacturing Engineer (Summer 2027) | Hagerstown, MD | [Apply](https://www.linkedin.com/jobs/view/4489614536) | 2026-11-10 |
 | SoLa Impact | Manufacturing Engineering Intern | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4487835335) | 2026-11-10 |
