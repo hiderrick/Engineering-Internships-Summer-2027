@@ -3,11 +3,16 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-12 10:25 UTC — 601 active postings, 3 new this run._
+_Last updated: 2026-11-12 21:37 UTC — 606 active postings, 5 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Sonnax | Intern - Manufacturing Engineer | Bellows Falls, VT | [Apply](https://www.linkedin.com/jobs/view/4490353823) | 2026-11-12 |
+| Red Oak Technologies | Engineering Intern – Robotics, Camera Systems & 3D Sensing | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4489293295) | 2026-11-12 |
+| Northrop Grumman | 2027 Manufacturing Engineer Intern- Commerce CA | Commerce, CA | [Apply](https://www.linkedin.com/jobs/view/4490301173) | 2026-11-12 |
+| Lockheed Martin | Mechanical Engineer - Internship | Owego, NY | [Apply](https://www.linkedin.com/jobs/view/4488554643) | 2026-11-12 |
 | IMI | Mechatronics Intern | Farmington, CT | [Apply](https://www.linkedin.com/jobs/view/4490078972) | 2026-11-12 |
+| Analog Devices | Mechanical Engineer - Advanced Robotics Intern | Wilmington, MA | [Apply](https://www.linkedin.com/jobs/view/4488554075) | 2026-11-12 |
 | Nexteer Automotive | Robotics & Physical AI Intern - Summer 2027 | Saginaw, MI | [Apply](https://www.linkedin.com/jobs/view/4489977772) | 2026-11-11 |
 | Enercon Services, Inc. | Intern- Mechanical Engineer - Pipeline and Power Generation Group | Englewood, CO | [Apply](https://www.linkedin.com/jobs/view/4489058132) | 2026-11-11 |
 | Bloom Energy | Remote Monitoring Control Center Systems Engineer Intern | San Jose, CA | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Systems-Engineering-Intern_JR-25363) | 2026-11-11 |
