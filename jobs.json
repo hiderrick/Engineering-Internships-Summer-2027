@@ -1,5 +1,15 @@
 [
  {
+  "id": "linkedin:4490078972",
+  "source": "linkedin",
+  "company": "IMI",
+  "title": "Mechatronics Intern",
+  "location": "Farmington, CT",
+  "url": "https://www.linkedin.com/jobs/view/4490078972",
+  "date_posted": "2026-11-12",
+  "first_seen": "2026-11-12"
+ },
+ {
   "id": "linkedin:4489977772",
   "source": "linkedin",
   "company": "Nexteer Automotive",
@@ -8,6 +18,27 @@
   "url": "https://www.linkedin.com/jobs/view/4489977772",
   "date_posted": "2026-11-11",
   "first_seen": "2026-11-11"
+ },
+ {
+  "id": "linkedin:4489058132",
+  "source": "linkedin",
+  "company": "Enercon Services, Inc.",
+  "title": "Intern- Mechanical Engineer - Pipeline and Power Generation Group",
+  "location": "Englewood, CO",
+  "url": "https://www.linkedin.com/jobs/view/4489058132",
+  "date_posted": "2026-11-11",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "simplify:0782c3c1-9f23-435c-8099-773f0d072339",
+  "source": "simplify",
+  "company": "Bloom Energy",
+  "title": "Remote Monitoring Control Center Systems Engineer Intern",
+  "location": "San Jose, CA",
+  "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Systems-Engineering-Intern_JR-25363",
+  "date_posted": "2026-11-11",
+  "term": "Summer 2026",
+  "first_seen": "2026-11-12"
  },
  {
   "id": "simplify:cceaa90f-ed2e-4df2-b29a-b53f8da47d99",
