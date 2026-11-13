@@ -3,10 +3,14 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-13 10:13 UTC — 610 active postings, 4 new this run._
+_Last updated: 2026-11-13 21:03 UTC — 614 active postings, 4 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Northrop Grumman | 2027 Manufacturing Engineering Intern - Charlottesville VA | Charlottesville, VA | [Apply](https://www.linkedin.com/jobs/view/4490599834) | 2026-11-13 |
+| Northrop Grumman | 2027 Manufacturing Engineering Intern - Waynesboro VA | Charlottesville, VA | [Apply](https://www.linkedin.com/jobs/view/4490704638) | 2026-11-13 |
+| Lockheed Martin | Mechanical Engineer - Internship | Owego, NY | [Apply](https://www.linkedin.com/jobs/view/4488964635) | 2026-11-13 |
+| Lockheed Martin | Aerospace Engineer (Signature Management) - Intern | Palmdale, CA | [Apply](https://www.linkedin.com/jobs/view/4488993010) | 2026-11-13 |
 | Intuitive Machines | Propulsion Intern - Aerospace Engineering | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/4489516463) | 2026-11-13 |
 | Toyota Research Institute | Robotics Intern - Prototyping and Research Operations | Cambridge, MA | [Apply](https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628/apply) | 2026-11-12 |
 | Sonnax | Intern - Manufacturing Engineer | Bellows Falls, VT | [Apply](https://www.linkedin.com/jobs/view/4490353823) | 2026-11-12 |
