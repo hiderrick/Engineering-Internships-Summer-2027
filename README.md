@@ -3,14 +3,18 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-12 21:37 UTC — 606 active postings, 5 new this run._
+_Last updated: 2026-11-13 10:13 UTC — 610 active postings, 4 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Intuitive Machines | Propulsion Intern - Aerospace Engineering | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/4489516463) | 2026-11-13 |
+| Toyota Research Institute | Robotics Intern - Prototyping and Research Operations | Cambridge, MA | [Apply](https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628/apply) | 2026-11-12 |
 | Sonnax | Intern - Manufacturing Engineer | Bellows Falls, VT | [Apply](https://www.linkedin.com/jobs/view/4490353823) | 2026-11-12 |
+| Shield AI | Hardware Test Engineer Co-op | Dallas, TX | [Apply](https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a/apply) | 2026-11-12 |
 | Red Oak Technologies | Engineering Intern – Robotics, Camera Systems & 3D Sensing | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4489293295) | 2026-11-12 |
 | Northrop Grumman | 2027 Manufacturing Engineer Intern- Commerce CA | Commerce, CA | [Apply](https://www.linkedin.com/jobs/view/4490301173) | 2026-11-12 |
 | Lockheed Martin | Mechanical Engineer - Internship | Owego, NY | [Apply](https://www.linkedin.com/jobs/view/4488554643) | 2026-11-12 |
+| Impulse Space | Manufacturing Engineering Intern (Spring 2027) | Redondo Beach, CA | [Apply](https://www.linkedin.com/jobs/view/4490507911) | 2026-11-12 |
 | IMI | Mechatronics Intern | Farmington, CT | [Apply](https://www.linkedin.com/jobs/view/4490078972) | 2026-11-12 |
 | Analog Devices | Mechanical Engineer - Advanced Robotics Intern | Wilmington, MA | [Apply](https://www.linkedin.com/jobs/view/4488554075) | 2026-11-12 |
 | Nexteer Automotive | Robotics & Physical AI Intern - Summer 2027 | Saginaw, MI | [Apply](https://www.linkedin.com/jobs/view/4489977772) | 2026-11-11 |
