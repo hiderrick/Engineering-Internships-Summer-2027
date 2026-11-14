@@ -3,7 +3,7 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-14 09:35 UTC — 626 active postings, 12 new this run._
+_Last updated: 2026-11-14 19:32 UTC — 627 active postings, 1 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
@@ -19,6 +19,7 @@ _Last updated: 2026-11-14 09:35 UTC — 626 active postings, 12 new this run._
 | Lockheed Martin | Mechanical Engineer - Internship | Owego, NY | [Apply](https://www.linkedin.com/jobs/view/4488964635) | 2026-11-13 |
 | Lockheed Martin | Aerospace Engineer (Signature Management) - Intern | Palmdale, CA | [Apply](https://www.linkedin.com/jobs/view/4488993010) | 2026-11-13 |
 | Lockheed Martin | Mechanical Engineer - Internship | Owego, NY | [Apply](https://www.linkedin.com/jobs/view/4488976159) | 2026-11-13 |
+| Lockheed Martin | Aerospace Engineer (Signature Management) - Intern | Palmdale, CA | [Apply](https://www.linkedin.com/jobs/view/4488986096) | 2026-11-13 |
 | Lightmatter | Hardware Test Engineer Intern | Mountain View, CA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473869008) | 2026-11-13 |
 | Koch Industries | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197821) | 2026-11-13 |
 | Intuitive Machines | Propulsion Intern - Aerospace Engineering | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/4489516463) | 2026-11-13 |
