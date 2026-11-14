@@ -3,15 +3,26 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-13 21:03 UTC — 614 active postings, 4 new this run._
+_Last updated: 2026-11-14 09:35 UTC — 626 active postings, 12 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Toyota Research Institute | Research Intern - Continual Adaptation for Robotics | Cambridge, MA | [Apply](https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac/apply) | 2026-11-13 |
+| Texas Instruments | Analog Design Engineer Intern - Power | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019495) | 2026-11-13 |
+| Texas Instruments | Analog Design Engineer Intern - High-speed/RF/mm-wave | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016349) | 2026-11-13 |
+| Texas Instruments | Analog Design Engineer Intern - High-Speed/RF | Santa Clara, CA | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016352) | 2026-11-13 |
+| Texas Instruments | Analog Design Engineer Intern - GaN Device | Santa Clara, CA | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016345) | 2026-11-13 |
+| Reliable Robotics | Hardware Test Engineer Intern | Mountain View, CA | [Apply](https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e/application?embed=true) | 2026-11-13 |
+| Reliable Robotics | FPGA Design Engineer Intern | Mountain View, CA | [Apply](https://jobs.ashbyhq.com/reliable-robotics/131987a0-ede9-4291-9cd2-1aaadabd2a54/application?embed=true) | 2026-11-13 |
 | Northrop Grumman | 2027 Manufacturing Engineering Intern - Charlottesville VA | Charlottesville, VA | [Apply](https://www.linkedin.com/jobs/view/4490599834) | 2026-11-13 |
 | Northrop Grumman | 2027 Manufacturing Engineering Intern - Waynesboro VA | Charlottesville, VA | [Apply](https://www.linkedin.com/jobs/view/4490704638) | 2026-11-13 |
 | Lockheed Martin | Mechanical Engineer - Internship | Owego, NY | [Apply](https://www.linkedin.com/jobs/view/4488964635) | 2026-11-13 |
 | Lockheed Martin | Aerospace Engineer (Signature Management) - Intern | Palmdale, CA | [Apply](https://www.linkedin.com/jobs/view/4488993010) | 2026-11-13 |
+| Lockheed Martin | Mechanical Engineer - Internship | Owego, NY | [Apply](https://www.linkedin.com/jobs/view/4488976159) | 2026-11-13 |
+| Lightmatter | Hardware Test Engineer Intern | Mountain View, CA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473869008) | 2026-11-13 |
+| Koch Industries | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197821) | 2026-11-13 |
 | Intuitive Machines | Propulsion Intern - Aerospace Engineering | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/4489516463) | 2026-11-13 |
+| Amazon | Robotics Applied Scientist 2 Intern - Robotics | Seattle, WA; North Reading, MA; NYC; Bellevue, WA; Sunnyvale, CA; Westborough, MA | [Apply](https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states) | 2026-11-13 |
 | Toyota Research Institute | Robotics Intern - Prototyping and Research Operations | Cambridge, MA | [Apply](https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628/apply) | 2026-11-12 |
 | Sonnax | Intern - Manufacturing Engineer | Bellows Falls, VT | [Apply](https://www.linkedin.com/jobs/view/4490353823) | 2026-11-12 |
 | Shield AI | Hardware Test Engineer Co-op | Dallas, TX | [Apply](https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a/apply) | 2026-11-12 |
@@ -615,6 +626,7 @@ _Last updated: 2026-11-13 21:03 UTC — 614 active postings, 4 new this run._
 | Chromalloy Corporation | Engineering Intern - Automation & Robotics | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/4455946904) | 2026-08-18 |
 | Parametric (YC F25) | Mechatronics Engineer, Intern (Fall/Winter '26) | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/4454211374) | 2026-08-17 |
 | Faraday Future | Robotics Data Operator Intern | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4449695670) | 2026-08-05 |
+| Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/4447584431) | 2026-07-31 |
 | Rendezvous Robotics | Mechanical Engineering Intern (Spring 2027) | Golden, CO | [Apply](https://www.linkedin.com/jobs/view/4444260422) | 2026-07-23 |
 | Sorting Robotics | Robotics Engineering Co-Op Internship | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4440820591) | 2026-07-14 |
 | DMR Technologies | Drone Systems Engineering Intern | Lafayette, LA | [Apply](https://www.linkedin.com/jobs/view/4436672400) | 2026-07-11 |
