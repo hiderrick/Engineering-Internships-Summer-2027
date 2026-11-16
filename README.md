@@ -3,10 +3,16 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-16 10:16 UTC — 628 active postings, 1 new this run._
+_Last updated: 2026-11-16 23:33 UTC — 634 active postings, 6 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Toyota Research Institute | Research Intern - Spatial Intelligence for Robotics | Cambridge, MA | [Apply](https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e/apply) | 2026-11-16 |
+| Textron | 2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD | Hunt Valley, MD | [Apply](https://www.linkedin.com/jobs/view/4491532620) | 2026-11-16 |
+| Rocketdyne | Launch Propulsion Engineering Intern (Summer 2027) | Jupiter, FL | [Apply](https://www.linkedin.com/jobs/view/4490917523) | 2026-11-16 |
+| Hewlett Packard Enterprise | Thermal/Mechanical Engineering Intern | Spring, TX | [Apply](https://www.linkedin.com/jobs/view/4490605366) | 2026-11-16 |
+| General Motors | 2027 Manufacturing Intern - University of Buffalo | Lockport, NY | [Apply](https://www.linkedin.com/jobs/view/4490117133) | 2026-11-16 |
+| Ciena | Hardware Design Engineer Intern (Winter 2027) | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/4490107959) | 2026-11-16 |
 | IPEX | Manufacturing Excellence Co-op | Oakville, ON, Canada | [Apply](https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1) | 2026-11-15 |
 | Toyota Research Institute | Research Intern - Continual Adaptation for Robotics | Cambridge, MA | [Apply](https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac/apply) | 2026-11-13 |
 | Texas Instruments | Analog Design Engineer Intern - Power | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019495) | 2026-11-13 |
