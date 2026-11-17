@@ -3,11 +3,18 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-16 23:33 UTC — 634 active postings, 6 new this run._
+_Last updated: 2026-11-17 11:16 UTC — 642 active postings, 8 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| SurePoint Ag Systems | Drone Imaging Agronomy Intern | Manhattan, KS | [Apply](https://surepoint.bamboohr.com/careers/109/) | 2026-11-17 |
+| Punchcut | Design Engineer Intern | SF | [Apply](https://punchcut.bamboohr.com/careers/65/) | 2026-11-17 |
+| Peterbilt Motors Company | 2027 Summer Internship: Cost Reduction Mechanical Design Engineer | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/4490424578) | 2026-11-17 |
+| Intuitive Machines | Avionics Engineer – EE Design Engineer Intern | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/4490163519) | 2026-11-17 |
+| Hamilton Company | Mechanical Engineer Intern | Reno, NV | [Apply](https://www.linkedin.com/jobs/view/4490408019) | 2026-11-17 |
+| Canyon AeroConnect | Test Engineer Intern | Prescott, AZ | [Apply](https://canyonaeroconnect.bamboohr.com/careers/166/) | 2026-11-17 |
 | Toyota Research Institute | Research Intern - Spatial Intelligence for Robotics | Cambridge, MA | [Apply](https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e/apply) | 2026-11-16 |
+| Toyota Research Institute | Robotics Intern - World Models - Multimodal Sensing | Cambridge, MA | [Apply](https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3/apply) | 2026-11-16 |
 | Textron | 2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD | Hunt Valley, MD | [Apply](https://www.linkedin.com/jobs/view/4491532620) | 2026-11-16 |
 | Rocketdyne | Launch Propulsion Engineering Intern (Summer 2027) | Jupiter, FL | [Apply](https://www.linkedin.com/jobs/view/4490917523) | 2026-11-16 |
 | Hewlett Packard Enterprise | Thermal/Mechanical Engineering Intern | Spring, TX | [Apply](https://www.linkedin.com/jobs/view/4490605366) | 2026-11-16 |
@@ -49,6 +56,7 @@ _Last updated: 2026-11-16 23:33 UTC — 634 active postings, 6 new this run._
 | SoLa Impact | Manufacturing Engineering Intern | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4487835335) | 2026-11-10 |
 | Sanmina | Manufacturing Engineering Intern | San Jose, CA | [Apply](https://www.linkedin.com/jobs/view/4487830569) | 2026-11-10 |
 | Rambus | CAD Engineer Intern | San Jose, CA | [Apply](https://careers-rambus.icims.com/jobs/23121/job?mobile=true&needsRedirect=false) | 2026-11-10 |
+| Moderna | mRNA Design Engineer Co-op | Cambridge, MA | [Apply](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20125) | 2026-11-10 |
 | Mack Trucks | Intern: Product Mechanical Engineer (Summer 2027) | Salem, VA | [Apply](https://www.linkedin.com/jobs/view/4489626216) | 2026-11-10 |
 | L3Harris Technologies | Intern, Manufacturing Engineer | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/4489640174) | 2026-11-10 |
 | Intuitive Surgical | Robotics and Controls Engineer Intern | Sunnyvale, CA | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160747319) | 2026-11-10 |

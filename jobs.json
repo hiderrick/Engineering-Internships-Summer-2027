@@ -1,5 +1,68 @@
 [
  {
+  "id": "simplify:1c9dc088-116a-43ff-a6ae-6ab513f43e5e",
+  "source": "simplify",
+  "company": "SurePoint Ag Systems",
+  "title": "Drone Imaging Agronomy Intern",
+  "location": "Manhattan, KS",
+  "url": "https://surepoint.bamboohr.com/careers/109/",
+  "date_posted": "2026-11-17",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "simplify:909a8be2-be56-4b49-afc5-12397e8e0576",
+  "source": "simplify",
+  "company": "Punchcut",
+  "title": "Design Engineer Intern",
+  "location": "SF",
+  "url": "https://punchcut.bamboohr.com/careers/65/",
+  "date_posted": "2026-11-17",
+  "term": "N/A",
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "linkedin:4490424578",
+  "source": "linkedin",
+  "company": "Peterbilt Motors Company",
+  "title": "2027 Summer Internship: Cost Reduction Mechanical Design Engineer",
+  "location": "Denton, TX",
+  "url": "https://www.linkedin.com/jobs/view/4490424578",
+  "date_posted": "2026-11-17",
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "linkedin:4490163519",
+  "source": "linkedin",
+  "company": "Intuitive Machines",
+  "title": "Avionics Engineer \u2013 EE Design Engineer Intern",
+  "location": "Houston, TX",
+  "url": "https://www.linkedin.com/jobs/view/4490163519",
+  "date_posted": "2026-11-17",
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "linkedin:4490408019",
+  "source": "linkedin",
+  "company": "Hamilton Company",
+  "title": "Mechanical Engineer Intern",
+  "location": "Reno, NV",
+  "url": "https://www.linkedin.com/jobs/view/4490408019",
+  "date_posted": "2026-11-17",
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "simplify:85ef2153-9e8f-421b-8371-86e442ac09c7",
+  "source": "simplify",
+  "company": "Canyon AeroConnect",
+  "title": "Test Engineer Intern",
+  "location": "Prescott, AZ",
+  "url": "https://canyonaeroconnect.bamboohr.com/careers/166/",
+  "date_posted": "2026-11-17",
+  "term": "N/A",
+  "first_seen": "2026-11-17"
+ },
+ {
   "id": "simplify:7773a702-7d45-44c7-b86b-0b8ad53a257b",
   "source": "simplify",
   "company": "Toyota Research Institute",
@@ -9,6 +72,17 @@
   "date_posted": "2026-11-16",
   "term": "N/A",
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "simplify:6b1eaa5d-98a1-4f76-bc2d-7e99beb87572",
+  "source": "simplify",
+  "company": "Toyota Research Institute",
+  "title": "Robotics Intern - World Models - Multimodal Sensing",
+  "location": "Cambridge, MA",
+  "url": "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3/apply",
+  "date_posted": "2026-11-16",
+  "term": "N/A",
+  "first_seen": "2026-11-17"
  },
  {
   "id": "linkedin:4491532620",
@@ -435,6 +509,17 @@
   "date_posted": "2026-11-10",
   "term": "N/A",
   "first_seen": "2026-11-11"
+ },
+ {
+  "id": "simplify:5ee601fa-dabe-4eb8-ba08-3425be03a8e7",
+  "source": "simplify",
+  "company": "Moderna",
+  "title": "mRNA Design Engineer Co-op",
+  "location": "Cambridge, MA",
+  "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20125",
+  "date_posted": "2026-11-10",
+  "term": "Winter 2027",
+  "first_seen": "2026-11-17"
  },
  {
   "id": "linkedin:4489626216",
