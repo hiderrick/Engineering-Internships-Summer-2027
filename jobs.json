@@ -32,6 +32,16 @@
   "first_seen": "2026-11-17"
  },
  {
+  "id": "linkedin:4491422646",
+  "source": "linkedin",
+  "company": "LJC",
+  "title": "Mechanical Engineer Intern",
+  "location": "Greater St. Louis",
+  "url": "https://www.linkedin.com/jobs/view/4491422646",
+  "date_posted": "2026-11-17",
+  "first_seen": "2026-11-17"
+ },
+ {
   "id": "linkedin:4490163519",
   "source": "linkedin",
   "company": "Intuitive Machines",
@@ -52,6 +62,17 @@
   "first_seen": "2026-11-17"
  },
  {
+  "id": "simplify:bd1010aa-68a9-41eb-a219-6ae285501a4e",
+  "source": "simplify",
+  "company": "General Dynamics Mission Systems",
+  "title": "Systems Engineer Intern",
+  "location": "Pittsfield, MA",
+  "url": "https://careers-gdms.icims.com/jobs/80617/job?mobile=true&needsRedirect=false",
+  "date_posted": "2026-11-17",
+  "term": "N/A",
+  "first_seen": "2026-11-17"
+ },
+ {
   "id": "simplify:85ef2153-9e8f-421b-8371-86e442ac09c7",
   "source": "simplify",
   "company": "Canyon AeroConnect",
@@ -60,6 +81,16 @@
   "url": "https://canyonaeroconnect.bamboohr.com/careers/166/",
   "date_posted": "2026-11-17",
   "term": "N/A",
+  "first_seen": "2026-11-17"
+ },
+ {
+  "id": "linkedin:4491579872",
+  "source": "linkedin",
+  "company": "Astera Institute",
+  "title": "Robotics Systems Intern",
+  "location": "California, United States",
+  "url": "https://www.linkedin.com/jobs/view/4491579872",
+  "date_posted": "2026-11-17",
   "first_seen": "2026-11-17"
  },
  {
@@ -2086,6 +2117,16 @@
   "date_posted": "2026-10-23",
   "term": "Summer 2027",
   "first_seen": "2026-10-24"
+ },
+ {
+  "id": "linkedin:4491576184",
+  "source": "linkedin",
+  "company": "Castelion",
+  "title": "Mechanical Engineer Intern (Winter/Spring 2027)",
+  "location": "Torrance, CA",
+  "url": "https://www.linkedin.com/jobs/view/4491576184",
+  "date_posted": "2026-10-23",
+  "first_seen": "2026-11-17"
  },
  {
   "id": "simplify:2c21f399-8e2e-449c-84e9-1d5eb6369068",

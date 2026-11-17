@@ -3,16 +3,19 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-17 11:16 UTC — 642 active postings, 8 new this run._
+_Last updated: 2026-11-17 22:42 UTC — 646 active postings, 4 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | SurePoint Ag Systems | Drone Imaging Agronomy Intern | Manhattan, KS | [Apply](https://surepoint.bamboohr.com/careers/109/) | 2026-11-17 |
 | Punchcut | Design Engineer Intern | SF | [Apply](https://punchcut.bamboohr.com/careers/65/) | 2026-11-17 |
 | Peterbilt Motors Company | 2027 Summer Internship: Cost Reduction Mechanical Design Engineer | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/4490424578) | 2026-11-17 |
+| LJC | Mechanical Engineer Intern | Greater St. Louis | [Apply](https://www.linkedin.com/jobs/view/4491422646) | 2026-11-17 |
 | Intuitive Machines | Avionics Engineer – EE Design Engineer Intern | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/4490163519) | 2026-11-17 |
 | Hamilton Company | Mechanical Engineer Intern | Reno, NV | [Apply](https://www.linkedin.com/jobs/view/4490408019) | 2026-11-17 |
+| General Dynamics Mission Systems | Systems Engineer Intern | Pittsfield, MA | [Apply](https://careers-gdms.icims.com/jobs/80617/job?mobile=true&needsRedirect=false) | 2026-11-17 |
 | Canyon AeroConnect | Test Engineer Intern | Prescott, AZ | [Apply](https://canyonaeroconnect.bamboohr.com/careers/166/) | 2026-11-17 |
+| Astera Institute | Robotics Systems Intern | California, United States | [Apply](https://www.linkedin.com/jobs/view/4491579872) | 2026-11-17 |
 | Toyota Research Institute | Research Intern - Spatial Intelligence for Robotics | Cambridge, MA | [Apply](https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e/apply) | 2026-11-16 |
 | Toyota Research Institute | Robotics Intern - World Models - Multimodal Sensing | Cambridge, MA | [Apply](https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3/apply) | 2026-11-16 |
 | Textron | 2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD | Hunt Valley, MD | [Apply](https://www.linkedin.com/jobs/view/4491532620) | 2026-11-16 |
@@ -205,6 +208,7 @@ _Last updated: 2026-11-17 11:16 UTC — 642 active postings, 8 new this run._
 | Volvo Group | Intern: Manufacturing Engineer Cab Factory (Spring 2027) | Dublin, VA | [Apply](https://www.linkedin.com/jobs/view/4483109489) | 2026-10-23 |
 | Intel | AI Hardware Engineer Intern | Santa Clara, CA; Folsom, CA | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533) | 2026-10-23 |
 | GlobalFoundries | New Product Development Test Engineer Intern | Richardson, TX | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957) | 2026-10-23 |
+| Castelion | Mechanical Engineer Intern (Winter/Spring 2027) | Torrance, CA | [Apply](https://www.linkedin.com/jobs/view/4491576184) | 2026-10-23 |
 | Amazon | Economics Intern - Structural IO | Seattle, WA; Arlington County, Arlington, VA; NYC; Bellevue, WA | [Apply](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) | 2026-10-23 |
 | Amazon | Frontier AI & Robotics Intern - Undergraduate | SF | [Apply](https://amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics) | 2026-10-23 |
 | Amazon | Applied Science Intern - Frontier AI & Robotics | Seattle, WA; SF | [Apply](https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics) | 2026-10-23 |
