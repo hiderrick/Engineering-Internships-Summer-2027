@@ -3,11 +3,12 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-18 10:50 UTC — 652 active postings, 6 new this run._
+_Last updated: 2026-11-18 22:24 UTC — 653 active postings, 1 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | Veolia \| North America | Mechanical Engineering Intern | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4490840653) | 2026-11-18 |
+| Toyota Research Institute | Robotics Intern - Prototyping and Robotics Operations | Cambridge, MA | [Apply](https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply) | 2026-11-18 |
 | Warp Sciences | Robot Learning Intern - Robotics Learning | South SF | [Apply](https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9/application?embed=true) | 2026-11-17 |
 | Toyota Research Institute | Robotics Intern - Agentic Robotics | Cambridge, MA | [Apply](https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49/apply) | 2026-11-17 |
 | Texas Instruments | Analog IC Design Engineer Intern - AI/ML | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319) | 2026-11-17 |

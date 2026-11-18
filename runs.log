@@ -96,3 +96,4 @@
 2026-11-17 11:16 UTC | sources={'linkedin': 161, 'simplify': 48, 'ats': 19} | new=8 | total=642
 2026-11-17 22:42 UTC | sources={'linkedin': 160, 'simplify': 48, 'ats': 19} | new=4 | total=646
 2026-11-18 10:50 UTC | sources={'linkedin': 160, 'simplify': 52, 'ats': 19} | new=6 | total=652
+2026-11-18 22:24 UTC | sources={'linkedin': 'ERROR: GET failed after 3 attempts: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=hardware+engineer+intern&location=United+States&f_TPR=r604800%22&start=10&f_E=1 (HTTP Error 429: Too Many Requests)', 'simplify': 50, 'ats': 19} | new=1 | total=653
