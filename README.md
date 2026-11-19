@@ -3,12 +3,14 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-19 10:50 UTC — 660 active postings, 7 new this run._
+_Last updated: 2026-11-19 22:30 UTC — 662 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Volvo Construction Equipment | Intern: Mechanical Engineering - Hydraulics (Summer 2027) | Shippensburg, PA | [Apply](https://www.linkedin.com/jobs/view/4492478450) | 2026-11-19 |
 | Toyota Research Institute | Robotics Intern - Generalist Robot Learning | Los Altos, CA | [Apply](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply) | 2026-11-19 |
 | Northrop Grumman | 2027 Manufacturing Engineer Intern - Baltimore MD | Baltimore, MD | [Apply](https://www.linkedin.com/jobs/view/4492284659) | 2026-11-19 |
+| Micron Technology | Intern - Design Engineer, HBM | Richardson, TX | [Apply](https://www.linkedin.com/jobs/view/4492164067) | 2026-11-19 |
 | Veolia \| North America | Mechanical Engineering Intern | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4490840653) | 2026-11-18 |
 | VIAVI Solutions | Robotics Intern | Bothell, WA | [Apply](https://www.linkedin.com/jobs/view/4491855559) | 2026-11-18 |
 | Toyota Research Institute | Robotics Intern - Prototyping and Robotics Operations | Cambridge, MA | [Apply](https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply) | 2026-11-18 |

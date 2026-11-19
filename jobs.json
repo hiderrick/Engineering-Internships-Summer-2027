@@ -1,5 +1,15 @@
 [
  {
+  "id": "linkedin:4492478450",
+  "source": "linkedin",
+  "company": "Volvo Construction Equipment",
+  "title": "Intern: Mechanical Engineering - Hydraulics (Summer 2027)",
+  "location": "Shippensburg, PA",
+  "url": "https://www.linkedin.com/jobs/view/4492478450",
+  "date_posted": "2026-11-19",
+  "first_seen": "2026-11-19"
+ },
+ {
   "id": "simplify:b0ce7f24-559f-4b1c-bed2-b832cc9c2944",
   "source": "simplify",
   "company": "Toyota Research Institute",
@@ -17,6 +27,16 @@
   "title": "2027 Manufacturing Engineer Intern - Baltimore MD",
   "location": "Baltimore, MD",
   "url": "https://www.linkedin.com/jobs/view/4492284659",
+  "date_posted": "2026-11-19",
+  "first_seen": "2026-11-19"
+ },
+ {
+  "id": "linkedin:4492164067",
+  "source": "linkedin",
+  "company": "Micron Technology",
+  "title": "Intern - Design Engineer, HBM",
+  "location": "Richardson, TX",
+  "url": "https://www.linkedin.com/jobs/view/4492164067",
   "date_posted": "2026-11-19",
   "first_seen": "2026-11-19"
  },
