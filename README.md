@@ -3,14 +3,20 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-19 22:30 UTC — 662 active postings, 2 new this run._
+_Last updated: 2026-11-20 10:40 UTC — 668 active postings, 6 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Tarana Wireless | Hardware Test Engineer Intern | Milpitas, CA | [Apply](https://taranawireless.applytojob.com/apply/qLnpfwLHew/Hardware-Test-Engineer-Intern) | 2026-11-20 |
+| Samsung | Serdes Analog Design Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) | 2026-11-20 |
 | Volvo Construction Equipment | Intern: Mechanical Engineering - Hydraulics (Summer 2027) | Shippensburg, PA | [Apply](https://www.linkedin.com/jobs/view/4492478450) | 2026-11-19 |
 | Toyota Research Institute | Robotics Intern - Generalist Robot Learning | Los Altos, CA | [Apply](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply) | 2026-11-19 |
+| Texas Instruments | Systems Engineer Intern - Gan | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020388) | 2026-11-19 |
+| Texas Instruments | Systems Engineer Intern - Robotics and AI | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016336) | 2026-11-19 |
+| Renesas Electronics | Digital Design Engineer Intern | Duluth, GA | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079) | 2026-11-19 |
 | Northrop Grumman | 2027 Manufacturing Engineer Intern - Baltimore MD | Baltimore, MD | [Apply](https://www.linkedin.com/jobs/view/4492284659) | 2026-11-19 |
 | Micron Technology | Intern - Design Engineer, HBM | Richardson, TX | [Apply](https://www.linkedin.com/jobs/view/4492164067) | 2026-11-19 |
+| Georgian Partners Growth | Physical AI and Robotics Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) | 2026-11-19 |
 | Veolia \| North America | Mechanical Engineering Intern | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4490840653) | 2026-11-18 |
 | VIAVI Solutions | Robotics Intern | Bothell, WA | [Apply](https://www.linkedin.com/jobs/view/4491855559) | 2026-11-18 |
 | Toyota Research Institute | Robotics Intern - Prototyping and Robotics Operations | Cambridge, MA | [Apply](https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply) | 2026-11-18 |

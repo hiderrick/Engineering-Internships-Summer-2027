@@ -1,5 +1,27 @@
 [
  {
+  "id": "simplify:a330f92d-8bbe-4101-99dd-42c10ff9ec7a",
+  "source": "simplify",
+  "company": "Tarana Wireless",
+  "title": "Hardware Test Engineer Intern",
+  "location": "Milpitas, CA",
+  "url": "https://taranawireless.applytojob.com/apply/qLnpfwLHew/Hardware-Test-Engineer-Intern",
+  "date_posted": "2026-11-20",
+  "term": "N/A",
+  "first_seen": "2026-11-20"
+ },
+ {
+  "id": "simplify:cf9000e5-12f7-4f27-8411-ea80f63beb57",
+  "source": "simplify",
+  "company": "Samsung",
+  "title": "Serdes Analog Design Engineer Intern",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003",
+  "date_posted": "2026-11-20",
+  "term": "N/A",
+  "first_seen": "2026-11-20"
+ },
+ {
   "id": "linkedin:4492478450",
   "source": "linkedin",
   "company": "Volvo Construction Equipment",
@@ -21,6 +43,39 @@
   "first_seen": "2026-11-19"
  },
  {
+  "id": "simplify:09de125b-81fc-4aaf-abf4-9de34a890a79",
+  "source": "simplify",
+  "company": "Texas Instruments",
+  "title": "Systems Engineer Intern - Gan",
+  "location": "Dallas, TX",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020388",
+  "date_posted": "2026-11-19",
+  "term": "N/A",
+  "first_seen": "2026-11-20"
+ },
+ {
+  "id": "simplify:609409a7-5528-4f31-8e68-37da1dc2bd2e",
+  "source": "simplify",
+  "company": "Texas Instruments",
+  "title": "Systems Engineer Intern - Robotics and AI",
+  "location": "Dallas, TX",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016336",
+  "date_posted": "2026-11-19",
+  "term": "Summer 2026",
+  "first_seen": "2026-11-20"
+ },
+ {
+  "id": "simplify:b192313c-9892-4f12-9f02-51fa773a14d9",
+  "source": "simplify",
+  "company": "Renesas Electronics",
+  "title": "Digital Design Engineer Intern",
+  "location": "Duluth, GA",
+  "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079",
+  "date_posted": "2026-11-19",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-20"
+ },
+ {
   "id": "linkedin:4492284659",
   "source": "linkedin",
   "company": "Northrop Grumman",
@@ -39,6 +94,17 @@
   "url": "https://www.linkedin.com/jobs/view/4492164067",
   "date_posted": "2026-11-19",
   "first_seen": "2026-11-19"
+ },
+ {
+  "id": "simplify:724d8d28-ef8b-46f7-ba87-c388f6f3c296",
+  "source": "simplify",
+  "company": "Georgian Partners Growth",
+  "title": "Physical AI and Robotics Intern",
+  "location": "Toronto, ON, Canada",
+  "url": "https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true",
+  "date_posted": "2026-11-19",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-20"
  },
  {
   "id": "linkedin:4490840653",
