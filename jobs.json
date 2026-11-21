@@ -1,5 +1,27 @@
 [
  {
+  "id": "simplify:a1afbfa8-e273-4682-a846-d3f5f3f4b72c",
+  "source": "simplify",
+  "company": "iA",
+  "title": "Industrial Engineer Intern",
+  "location": "Johnson City, NY",
+  "url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1",
+  "date_posted": "2026-11-21",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-21"
+ },
+ {
+  "id": "simplify:51f894db-f59f-4dfc-abc5-251d66cd750c",
+  "source": "simplify",
+  "company": "W\u00fcrth Elektronik",
+  "title": "Lab Test Engineer Intern",
+  "location": "Plano, TX",
+  "url": "https://recruiting.ultipro.com/wur1001wgna/JobBoard/e869ce68-a921-45eb-9467-2c7d2f5970a6/OpportunityDetail?opportunityId=2b9b8743-fa69-4c19-af25-d087061762ae",
+  "date_posted": "2026-11-20",
+  "term": "N/A",
+  "first_seen": "2026-11-21"
+ },
+ {
   "id": "simplify:a330f92d-8bbe-4101-99dd-42c10ff9ec7a",
   "source": "simplify",
   "company": "Tarana Wireless",
@@ -9,6 +31,17 @@
   "date_posted": "2026-11-20",
   "term": "N/A",
   "first_seen": "2026-11-20"
+ },
+ {
+  "id": "simplify:94a3a584-cf38-420d-950f-5b00b26beb7b",
+  "source": "simplify",
+  "company": "Starkey",
+  "title": "Audio Systems Engineer Intern",
+  "location": "Eden Prairie, MN",
+  "url": "https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=8561dc70-9502-4e36-b2ca-32a125d2fbb7",
+  "date_posted": "2026-11-20",
+  "term": "N/A",
+  "first_seen": "2026-11-21"
  },
  {
   "id": "simplify:cf9000e5-12f7-4f27-8411-ea80f63beb57",
@@ -31,6 +64,17 @@
   "date_posted": "2026-11-20",
   "date_approx": true,
   "first_seen": "2026-11-20"
+ },
+ {
+  "id": "simplify:43f7ecaa-0193-44aa-b739-75cab255510d",
+  "source": "simplify",
+  "company": "Baltimore Aircoil Company",
+  "title": "HVAC Applications Engineer Intern",
+  "location": "Jessup, MD",
+  "url": "https://recruiting2.ultipro.com/AMS1003AMSII/JobBoard/15976ef7-7f1f-4b2f-8a0c-0e0ac1193dd8/OpportunityDetail?opportunityId=e416d019-d6a5-41ea-bd1c-eb8bf31e4cf8",
+  "date_posted": "2026-11-20",
+  "term": "N/A",
+  "first_seen": "2026-11-21"
  },
  {
   "id": "linkedin:4492478450",

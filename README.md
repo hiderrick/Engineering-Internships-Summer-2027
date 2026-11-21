@@ -3,13 +3,17 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-20 22:01 UTC — 669 active postings, 1 new this run._
+_Last updated: 2026-11-21 10:22 UTC — 673 active postings, 4 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| iA | Industrial Engineer Intern | Johnson City, NY | [Apply](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1) | 2026-11-21 |
+| Würth Elektronik | Lab Test Engineer Intern | Plano, TX | [Apply](https://recruiting.ultipro.com/wur1001wgna/JobBoard/e869ce68-a921-45eb-9467-2c7d2f5970a6/OpportunityDetail?opportunityId=2b9b8743-fa69-4c19-af25-d087061762ae) | 2026-11-20 |
 | Tarana Wireless | Hardware Test Engineer Intern | Milpitas, CA | [Apply](https://taranawireless.applytojob.com/apply/qLnpfwLHew/Hardware-Test-Engineer-Intern) | 2026-11-20 |
+| Starkey | Audio Systems Engineer Intern | Eden Prairie, MN | [Apply](https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=8561dc70-9502-4e36-b2ca-32a125d2fbb7) | 2026-11-20 |
 | Samsung | Serdes Analog Design Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) | 2026-11-20 |
 | Lucidmotors | Intern, Vehicle Motion Controls Engineer, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) | 2026-11-20 |
+| Baltimore Aircoil Company | HVAC Applications Engineer Intern | Jessup, MD | [Apply](https://recruiting2.ultipro.com/AMS1003AMSII/JobBoard/15976ef7-7f1f-4b2f-8a0c-0e0ac1193dd8/OpportunityDetail?opportunityId=e416d019-d6a5-41ea-bd1c-eb8bf31e4cf8) | 2026-11-20 |
 | Volvo Construction Equipment | Intern: Mechanical Engineering - Hydraulics (Summer 2027) | Shippensburg, PA | [Apply](https://www.linkedin.com/jobs/view/4492478450) | 2026-11-19 |
 | Toyota Research Institute | Robotics Intern - Generalist Robot Learning | Los Altos, CA | [Apply](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply) | 2026-11-19 |
 | Texas Instruments | Systems Engineer Intern - Gan | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020388) | 2026-11-19 |
