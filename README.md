@@ -3,7 +3,7 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-22 10:26 UTC — 673 active postings._
+_Last updated: 2026-11-22 20:51 UTC — 674 active postings, 1 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
@@ -22,6 +22,7 @@ _Last updated: 2026-11-22 10:26 UTC — 673 active postings._
 | Northrop Grumman | 2027 Manufacturing Engineer Intern - Baltimore MD | Baltimore, MD | [Apply](https://www.linkedin.com/jobs/view/4492284659) | 2026-11-19 |
 | Micron Technology | Intern - Design Engineer, HBM | Richardson, TX | [Apply](https://www.linkedin.com/jobs/view/4492164067) | 2026-11-19 |
 | Georgian Partners Growth | Physical AI and Robotics Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) | 2026-11-19 |
+| Viavi Solutions | Robotics Intern | Bothell, WA | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1) | 2026-11-18 |
 | Veolia \| North America | Mechanical Engineering Intern | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4490840653) | 2026-11-18 |
 | VIAVI Solutions | Robotics Intern | Bothell, WA | [Apply](https://www.linkedin.com/jobs/view/4491855559) | 2026-11-18 |
 | Toyota Research Institute | Robotics Intern - Prototyping and Robotics Operations | Cambridge, MA | [Apply](https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply) | 2026-11-18 |
