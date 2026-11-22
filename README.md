@@ -3,7 +3,7 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-21 20:41 UTC — 673 active postings._
+_Last updated: 2026-11-22 10:26 UTC — 673 active postings._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
