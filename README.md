@@ -3,11 +3,12 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-25 11:50 UTC — 694 active postings, 18 new this run._
+_Last updated: 2026-11-25 23:23 UTC — 696 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
 | Raytheon | Manufacturing Engineering Intern (Spring 2027) | Fort Bliss, TX | [Apply](https://www.linkedin.com/jobs/view/4494490270) | 2026-11-25 |
+| Keysight Technologies | Hardware Engineer Intern | Paignton, UK | [Apply](https://jobs.keysight.com/jobs/58027?icims=1&lang=en-us) | 2026-11-25 |
 | FlightSafety International | Aeronautical Engineer Internship - Summer 2027 | Urbana, IL | [Apply](https://www.linkedin.com/jobs/view/4494445838) | 2026-11-25 |
 | Alpine, an ITW Company | Manufacturing Engineer Intern | Grand Prairie, TX | [Apply](https://www.linkedin.com/jobs/view/4494457115) | 2026-11-25 |
 | Lucidmotors | Intern, Automotive Interior Design, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290844007?gh_jid=5290844007) | 2026-11-24 |
@@ -561,6 +562,7 @@ _Last updated: 2026-11-25 11:50 UTC — 694 active postings, 18 new this run._
 | Bracket Bot | Robotics Engineering Intern | SF | [Apply](https://jobs.ashbyhq.com/bracket-bot/aecb5cb3-a96b-4ba8-863d-a1ad45414086/application?embed=true) | 2026-09-23 |
 | Blue Origin | Summer 2027 Aerospace Systems Engineering Intern - Graduate | Greater Seattle Area | [Apply](https://www.linkedin.com/jobs/view/4459578193) | 2026-09-23 |
 | Blue Origin | Summer 2027 Aerospace Systems Engineering Intern - Graduate | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/4459586071) | 2026-09-23 |
+| Blue Origin | Summer 2027 Aerospace Systems Engineering Internship - Undergraduate | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/4459576290) | 2026-09-23 |
 | Astranis Space Technologies | Propulsion Engineer Intern (Winter 2027) | San Francisco Bay Area | [Apply](https://www.linkedin.com/jobs/view/4469606550) | 2026-09-23 |
 | ZF Group | Robotics and Innovation Intern | Greater Lansing | [Apply](https://www.linkedin.com/jobs/view/4468599962) | 2026-09-22 |
 | Vital Lyfe | Mechanical Engineering Internship - Spring 2027 | Los Angeles Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4468186837) | 2026-09-22 |
