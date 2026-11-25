@@ -3,18 +3,31 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-24 23:40 UTC — 676 active postings._
+_Last updated: 2026-11-25 11:50 UTC — 694 active postings, 18 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Raytheon | Manufacturing Engineering Intern (Spring 2027) | Fort Bliss, TX | [Apply](https://www.linkedin.com/jobs/view/4494490270) | 2026-11-25 |
+| FlightSafety International | Aeronautical Engineer Internship - Summer 2027 | Urbana, IL | [Apply](https://www.linkedin.com/jobs/view/4494445838) | 2026-11-25 |
+| Alpine, an ITW Company | Manufacturing Engineer Intern | Grand Prairie, TX | [Apply](https://www.linkedin.com/jobs/view/4494457115) | 2026-11-25 |
 | Lucidmotors | Intern, Automotive Interior Design, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290844007?gh_jid=5290844007) | 2026-11-24 |
+| Johns Hopkins Applied Physics Laboratory | Robotics Intern | Laurel, MD | [Apply](https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us) | 2026-11-24 |
+| General Atomics Aeronautical Systems | Intern - Aircraft Design Engineer | Adelanto, CA | [Apply](https://www.linkedin.com/jobs/view/4493985097) | 2026-11-24 |
+| Landis+Gyr | Intern - Mechanical Engineering | Lafayette, IN | [Apply](https://www.linkedin.com/jobs/view/4494074842) | 2026-11-23 |
 | GrayMatter Robotics | Robotics Engineering Intern: Systems & Applications | Carson, CA | [Apply](https://jobs.ashbyhq.com/graymatter-robotics/347cbb66-c542-4c41-bdfc-3f9fa242b20b/application?embed=true) | 2026-11-23 |
+| GrayMatter Robotics | Robotics Engineering Intern: Systems & Applications - Winter '27 - January Start | Los Angeles Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/4493910630) | 2026-11-23 |
+| Exowatt | Mechanical Engineering Spring Intern (Austin, TX) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/4493929778) | 2026-11-23 |
+| Exowatt | Mechanical Engineering Spring Intern (Miami, FL) | Miami, FL | [Apply](https://www.linkedin.com/jobs/view/4493933337) | 2026-11-23 |
 | iA | Industrial Engineer Intern | Johnson City, NY | [Apply](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1) | 2026-11-21 |
+| Safran Defense & Space, Inc. | Manufacturing Engineering Internship | Bedford, NH | [Apply](https://www.linkedin.com/jobs/view/4468668820) | 2026-11-21 |
 | Würth Elektronik | Lab Test Engineer Intern | Plano, TX | [Apply](https://recruiting.ultipro.com/wur1001wgna/JobBoard/e869ce68-a921-45eb-9467-2c7d2f5970a6/OpportunityDetail?opportunityId=2b9b8743-fa69-4c19-af25-d087061762ae) | 2026-11-20 |
 | Tarana Wireless | Hardware Test Engineer Intern | Milpitas, CA | [Apply](https://taranawireless.applytojob.com/apply/qLnpfwLHew/Hardware-Test-Engineer-Intern) | 2026-11-20 |
 | Starkey | Audio Systems Engineer Intern | Eden Prairie, MN | [Apply](https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=8561dc70-9502-4e36-b2ca-32a125d2fbb7) | 2026-11-20 |
 | Samsung | Serdes Analog Design Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) | 2026-11-20 |
 | Lucidmotors | Intern, Vehicle Motion Controls Engineer, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) | 2026-11-20 |
+| Leidos | Aerospace M&S Engineer Intern | Huntsville, AL | [Apply](https://www.linkedin.com/jobs/view/4491958771) | 2026-11-20 |
+| L3Harris Technologies | Manufacturing Engineering Intern | Camden, AR | [Apply](https://www.linkedin.com/jobs/view/4492975741) | 2026-11-20 |
+| Black & Veatch | Mechanical Engineer Intern - Piping (Raleigh) | Raleigh, NC | [Apply](https://www.linkedin.com/jobs/view/4493222272) | 2026-11-20 |
 | Baltimore Aircoil Company | HVAC Applications Engineer Intern | Jessup, MD | [Apply](https://recruiting2.ultipro.com/AMS1003AMSII/JobBoard/15976ef7-7f1f-4b2f-8a0c-0e0ac1193dd8/OpportunityDetail?opportunityId=e416d019-d6a5-41ea-bd1c-eb8bf31e4cf8) | 2026-11-20 |
 | Volvo Construction Equipment | Intern: Mechanical Engineering - Hydraulics (Summer 2027) | Shippensburg, PA | [Apply](https://www.linkedin.com/jobs/view/4492478450) | 2026-11-19 |
 | Toyota Research Institute | Robotics Intern - Generalist Robot Learning | Los Altos, CA | [Apply](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply) | 2026-11-19 |
@@ -24,6 +37,7 @@ _Last updated: 2026-11-24 23:40 UTC — 676 active postings._
 | Northrop Grumman | 2027 Manufacturing Engineer Intern - Baltimore MD | Baltimore, MD | [Apply](https://www.linkedin.com/jobs/view/4492284659) | 2026-11-19 |
 | Micron Technology | Intern - Design Engineer, HBM | Richardson, TX | [Apply](https://www.linkedin.com/jobs/view/4492164067) | 2026-11-19 |
 | Georgian Partners Growth | Physical AI and Robotics Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) | 2026-11-19 |
+| Westinghouse Electric Company | Summer Intern - Piping Mechanical Engineering | Cranberry Township, PA | [Apply](https://www.linkedin.com/jobs/view/4491861692) | 2026-11-18 |
 | Viavi Solutions | Robotics Intern | Bothell, WA | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1) | 2026-11-18 |
 | Veolia \| North America | Mechanical Engineering Intern | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4490840653) | 2026-11-18 |
 | VIAVI Solutions | Robotics Intern | Bothell, WA | [Apply](https://www.linkedin.com/jobs/view/4491855559) | 2026-11-18 |
@@ -53,6 +67,8 @@ _Last updated: 2026-11-24 23:40 UTC — 676 active postings._
 | General Motors | 2027 Manufacturing Intern - University of Buffalo | Lockport, NY | [Apply](https://www.linkedin.com/jobs/view/4490117133) | 2026-11-16 |
 | Ciena | Hardware Design Engineer Intern (Winter 2027) | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/4490107959) | 2026-11-16 |
 | IPEX | Manufacturing Excellence Co-op | Oakville, ON, Canada | [Apply](https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1) | 2026-11-15 |
+| Mondelēz International | Manufacturing Intern– Process Engineering | Twin Falls, ID | [Apply](https://www.linkedin.com/jobs/view/4465083001) | 2026-11-14 |
+| ASML | Internship - Mechatronics Engineer | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/4491030222) | 2026-11-14 |
 | Toyota Research Institute | Research Intern - Continual Adaptation for Robotics | Cambridge, MA | [Apply](https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac/apply) | 2026-11-13 |
 | Texas Instruments | Analog Design Engineer Intern - Power | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019495) | 2026-11-13 |
 | Texas Instruments | Analog Design Engineer Intern - High-speed/RF/mm-wave | Dallas, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016349) | 2026-11-13 |
@@ -117,6 +133,7 @@ _Last updated: 2026-11-24 23:40 UTC — 676 active postings._
 | Sierra Lobo, Inc. | Aerospace Engineer Intern - Spring/Summer 2027 | Milan, OH | [Apply](https://www.linkedin.com/jobs/view/4486927723) | 2026-11-06 |
 | Rivian and Volkswagen Group Technologies | Mechatronics Lab Engineering Intern | Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application?embed=true) | 2026-11-06 |
 | Qualcomm | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) | 2026-11-06 |
+| Nordson Corporation | Manufacturing Engineer Intern | South Carolina, United States | [Apply](https://www.linkedin.com/jobs/view/4479166044) | 2026-11-06 |
 | Meta | Research Scientist Intern - Robotics Foundation Models - Agentic RL | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/1414987577372371) | 2026-11-06 |
 | Enovation Controls | Manufacturing Engineering Test Intern | Tulsa, OK | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648371) | 2026-11-06 |
 | DwyerOmega | Manufacturing Engineering Intern - Spring 2027 Start | San Marcos, CA | [Apply](https://www.linkedin.com/jobs/view/4488173962) | 2026-11-06 |
@@ -439,6 +456,7 @@ _Last updated: 2026-11-24 23:40 UTC — 676 active postings._
 | Black & Veatch | Mechanical Engineer Intern - Fire Protection | Overland Park, KS | [Apply](https://www.linkedin.com/jobs/view/4466401305) | 2026-10-03 |
 | Vertiv | Mechanical Engineering Intern (Summer 2027) | Westerville, OH | [Apply](https://www.linkedin.com/jobs/view/4474524582) | 2026-10-02 |
 | The Toro Company | Mechatronics Engineering Co-op | Bloomington, MN | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153) | 2026-10-02 |
+| Stantec | Mechanical Engineering Intern - Water (Summer 2027) | Lexington, KY | [Apply](https://www.linkedin.com/jobs/view/4474559807) | 2026-10-02 |
 | Ricoh USA, Inc. | Robotics Engineer Intern | Boulder, CO | [Apply](https://www.linkedin.com/jobs/view/4474546885) | 2026-10-02 |
 | Regeneron Pharmaceuticals | Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT | Tarrytown, NY | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1) | 2026-10-02 |
 | Magna | Humanoid Robotics Intern | Troy, MI | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Humanoid-Robotics-Intern_R00264476) | 2026-10-02 |

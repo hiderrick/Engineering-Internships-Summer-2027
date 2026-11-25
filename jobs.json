@@ -1,5 +1,35 @@
 [
  {
+  "id": "linkedin:4494490270",
+  "source": "linkedin",
+  "company": "Raytheon",
+  "title": "Manufacturing Engineering Intern (Spring 2027)",
+  "location": "Fort Bliss, TX",
+  "url": "https://www.linkedin.com/jobs/view/4494490270",
+  "date_posted": "2026-11-25",
+  "first_seen": "2026-11-25"
+ },
+ {
+  "id": "linkedin:4494445838",
+  "source": "linkedin",
+  "company": "FlightSafety International",
+  "title": "Aeronautical Engineer Internship - Summer 2027",
+  "location": "Urbana, IL",
+  "url": "https://www.linkedin.com/jobs/view/4494445838",
+  "date_posted": "2026-11-25",
+  "first_seen": "2026-11-25"
+ },
+ {
+  "id": "linkedin:4494457115",
+  "source": "linkedin",
+  "company": "Alpine, an ITW Company",
+  "title": "Manufacturing Engineer Intern",
+  "location": "Grand Prairie, TX",
+  "url": "https://www.linkedin.com/jobs/view/4494457115",
+  "date_posted": "2026-11-25",
+  "first_seen": "2026-11-25"
+ },
+ {
   "id": "greenhouse:lucidmotors:5290844007",
   "source": "greenhouse",
   "company": "Lucidmotors",
@@ -9,6 +39,37 @@
   "date_posted": "2026-11-24",
   "date_approx": true,
   "first_seen": "2026-11-24"
+ },
+ {
+  "id": "simplify:5c4ff4e4-2ba8-4244-9b38-08135d57623f",
+  "source": "simplify",
+  "company": "Johns Hopkins Applied Physics Laboratory",
+  "title": "Robotics Intern",
+  "location": "Laurel, MD",
+  "url": "https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us",
+  "date_posted": "2026-11-24",
+  "term": "N/A",
+  "first_seen": "2026-11-25"
+ },
+ {
+  "id": "linkedin:4493985097",
+  "source": "linkedin",
+  "company": "General Atomics Aeronautical Systems",
+  "title": "Intern - Aircraft Design Engineer",
+  "location": "Adelanto, CA",
+  "url": "https://www.linkedin.com/jobs/view/4493985097",
+  "date_posted": "2026-11-24",
+  "first_seen": "2026-11-25"
+ },
+ {
+  "id": "linkedin:4494074842",
+  "source": "linkedin",
+  "company": "Landis+Gyr",
+  "title": "Intern - Mechanical Engineering",
+  "location": "Lafayette, IN",
+  "url": "https://www.linkedin.com/jobs/view/4494074842",
+  "date_posted": "2026-11-23",
+  "first_seen": "2026-11-25"
  },
  {
   "id": "simplify:542449da-e7d7-4289-a17e-c344f121c66a",
@@ -22,6 +83,36 @@
   "first_seen": "2026-11-24"
  },
  {
+  "id": "linkedin:4493910630",
+  "source": "linkedin",
+  "company": "GrayMatter Robotics",
+  "title": "Robotics Engineering Intern: Systems & Applications - Winter '27 - January Start",
+  "location": "Los Angeles Metropolitan Area",
+  "url": "https://www.linkedin.com/jobs/view/4493910630",
+  "date_posted": "2026-11-23",
+  "first_seen": "2026-11-25"
+ },
+ {
+  "id": "linkedin:4493929778",
+  "source": "linkedin",
+  "company": "Exowatt",
+  "title": "Mechanical Engineering Spring Intern (Austin, TX)",
+  "location": "Austin, TX",
+  "url": "https://www.linkedin.com/jobs/view/4493929778",
+  "date_posted": "2026-11-23",
+  "first_seen": "2026-11-25"
+ },
+ {
+  "id": "linkedin:4493933337",
+  "source": "linkedin",
+  "company": "Exowatt",
+  "title": "Mechanical Engineering Spring Intern (Miami, FL)",
+  "location": "Miami, FL",
+  "url": "https://www.linkedin.com/jobs/view/4493933337",
+  "date_posted": "2026-11-23",
+  "first_seen": "2026-11-25"
+ },
+ {
   "id": "simplify:a1afbfa8-e273-4682-a846-d3f5f3f4b72c",
   "source": "simplify",
   "company": "iA",
@@ -31,6 +122,16 @@
   "date_posted": "2026-11-21",
   "term": "Summer 2027",
   "first_seen": "2026-11-21"
+ },
+ {
+  "id": "linkedin:4468668820",
+  "source": "linkedin",
+  "company": "Safran Defense & Space, Inc.",
+  "title": "Manufacturing Engineering Internship",
+  "location": "Bedford, NH",
+  "url": "https://www.linkedin.com/jobs/view/4468668820",
+  "date_posted": "2026-11-21",
+  "first_seen": "2026-11-25"
  },
  {
   "id": "simplify:51f894db-f59f-4dfc-abc5-251d66cd750c",
@@ -86,6 +187,36 @@
   "date_posted": "2026-11-20",
   "date_approx": true,
   "first_seen": "2026-11-20"
+ },
+ {
+  "id": "linkedin:4491958771",
+  "source": "linkedin",
+  "company": "Leidos",
+  "title": "Aerospace M&S Engineer Intern",
+  "location": "Huntsville, AL",
+  "url": "https://www.linkedin.com/jobs/view/4491958771",
+  "date_posted": "2026-11-20",
+  "first_seen": "2026-11-25"
+ },
+ {
+  "id": "linkedin:4492975741",
+  "source": "linkedin",
+  "company": "L3Harris Technologies",
+  "title": "Manufacturing Engineering Intern",
+  "location": "Camden, AR",
+  "url": "https://www.linkedin.com/jobs/view/4492975741",
+  "date_posted": "2026-11-20",
+  "first_seen": "2026-11-25"
+ },
+ {
+  "id": "linkedin:4493222272",
+  "source": "linkedin",
+  "company": "Black & Veatch",
+  "title": "Mechanical Engineer Intern - Piping (Raleigh)",
+  "location": "Raleigh, NC",
+  "url": "https://www.linkedin.com/jobs/view/4493222272",
+  "date_posted": "2026-11-20",
+  "first_seen": "2026-11-25"
  },
  {
   "id": "simplify:43f7ecaa-0193-44aa-b739-75cab255510d",
@@ -182,6 +313,16 @@
   "date_posted": "2026-11-19",
   "term": "Summer 2027",
   "first_seen": "2026-11-20"
+ },
+ {
+  "id": "linkedin:4491861692",
+  "source": "linkedin",
+  "company": "Westinghouse Electric Company",
+  "title": "Summer Intern - Piping Mechanical Engineering",
+  "location": "Cranberry Township, PA",
+  "url": "https://www.linkedin.com/jobs/view/4491861692",
+  "date_posted": "2026-11-18",
+  "first_seen": "2026-11-25"
  },
  {
   "id": "simplify:d71c5ba9-0935-4cef-bd4c-21f2c50b2e47",
@@ -487,6 +628,26 @@
   "date_posted": "2026-11-15",
   "term": "Winter 2027",
   "first_seen": "2026-11-16"
+ },
+ {
+  "id": "linkedin:4465083001",
+  "source": "linkedin",
+  "company": "Mondel\u0113z International",
+  "title": "Manufacturing Intern\u2013 Process Engineering",
+  "location": "Twin Falls, ID",
+  "url": "https://www.linkedin.com/jobs/view/4465083001",
+  "date_posted": "2026-11-14",
+  "first_seen": "2026-11-25"
+ },
+ {
+  "id": "linkedin:4491030222",
+  "source": "linkedin",
+  "company": "ASML",
+  "title": "Internship - Mechatronics Engineer",
+  "location": "Wilton Center, CT",
+  "url": "https://www.linkedin.com/jobs/view/4491030222",
+  "date_posted": "2026-11-14",
+  "first_seen": "2026-11-25"
  },
  {
   "id": "simplify:0b13fda3-98fa-465a-b8b5-d8c8960a15e1",
@@ -1157,6 +1318,16 @@
   "date_posted": "2026-11-06",
   "term": "Summer 2027",
   "first_seen": "2026-11-07"
+ },
+ {
+  "id": "linkedin:4479166044",
+  "source": "linkedin",
+  "company": "Nordson Corporation",
+  "title": "Manufacturing Engineer Intern",
+  "location": "South Carolina, United States",
+  "url": "https://www.linkedin.com/jobs/view/4479166044",
+  "date_posted": "2026-11-06",
+  "first_seen": "2026-11-25"
  },
  {
   "id": "simplify:d4373beb-9b94-4d3e-8145-7efff9fd8b79",
@@ -4557,6 +4728,16 @@
   "date_posted": "2026-10-02",
   "term": "Spring 2026, Summer 2026",
   "first_seen": "2026-10-02"
+ },
+ {
+  "id": "linkedin:4474559807",
+  "source": "linkedin",
+  "company": "Stantec",
+  "title": "Mechanical Engineering Intern - Water (Summer 2027)",
+  "location": "Lexington, KY",
+  "url": "https://www.linkedin.com/jobs/view/4474559807",
+  "date_posted": "2026-10-02",
+  "first_seen": "2026-11-25"
  },
  {
   "id": "linkedin:4474546885",
