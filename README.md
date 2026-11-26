@@ -3,10 +3,12 @@
 Auto-updated twice daily. Mechanical engineering internships and closely
 related roles (robotics, manufacturing, aerospace, design/hardware, thermal, etc.).
 
-_Last updated: 2026-11-25 23:23 UTC — 696 active postings, 2 new this run._
+_Last updated: 2026-11-26 11:38 UTC — 698 active postings, 2 new this run._
 
 | Company | Role | Location | Application | Date Posted |
 | ------- | ---- | -------- | ----------- | ----------- |
+| Tesla | Robotics Audio DSP Engineer Intern | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/291227) | 2026-11-25 |
+| SambaNova Systems | Physical Design Engineer Intern | Austin, TX; San Jose, CA | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004) | 2026-11-25 |
 | Raytheon | Manufacturing Engineering Intern (Spring 2027) | Fort Bliss, TX | [Apply](https://www.linkedin.com/jobs/view/4494490270) | 2026-11-25 |
 | Keysight Technologies | Hardware Engineer Intern | Paignton, UK | [Apply](https://jobs.keysight.com/jobs/58027?icims=1&lang=en-us) | 2026-11-25 |
 | FlightSafety International | Aeronautical Engineer Internship - Summer 2027 | Urbana, IL | [Apply](https://www.linkedin.com/jobs/view/4494445838) | 2026-11-25 |

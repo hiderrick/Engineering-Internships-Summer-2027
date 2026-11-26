@@ -1,5 +1,27 @@
 [
  {
+  "id": "simplify:e3e053b8-8e7b-4690-9875-c136637ed047",
+  "source": "simplify",
+  "company": "Tesla",
+  "title": "Robotics Audio DSP Engineer Intern",
+  "location": "Palo Alto, CA",
+  "url": "https://www.tesla.com/careers/search/job/291227",
+  "date_posted": "2026-11-25",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-26"
+ },
+ {
+  "id": "simplify:649d2c8c-a463-47e4-a52b-2245098c3b47",
+  "source": "simplify",
+  "company": "SambaNova Systems",
+  "title": "Physical Design Engineer Intern",
+  "location": "Austin, TX; San Jose, CA",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004",
+  "date_posted": "2026-11-25",
+  "term": "Summer 2027",
+  "first_seen": "2026-11-26"
+ },
+ {
   "id": "linkedin:4494490270",
   "source": "linkedin",
   "company": "Raytheon",
